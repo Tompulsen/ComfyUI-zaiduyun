@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5ff7f513-f2c9-4710-bdde-009a96218a9c",
   "revision": 0,
   "last_node_id": 21,
@@ -153,7 +153,7 @@
         "ver": "0.19.0"
       },
       "widgets_values": [
-        "未标题-1.jpg",
+        "鏈爣棰?1.jpg",
         "image"
       ]
     },
@@ -183,11 +183,11 @@
       ],
       "properties": {
         "Node name for S&R": "Comfly_api_set",
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "26ae9be362b994d1370907d4228f527af6c84b52"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -211,7 +211,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "全量gpt-image-2，支持异步任务\n\n\n贞贞的AI工坊（注册送0.2刀，各种API）：https://ai.t8star.cn/register?aff=dP7j\n\n左侧令牌，创建令牌，分组选择default分组，随便取个名字，复制API即可使用，支持直接用（聊天模式），也支持各种工具调用 （comfyui,sillytavern,cusor等），每日签到领积分\n\nComfyui调用API节点：https://github.com/T8mars/Comfyui-zhenzhen"
+        "鍏ㄩ噺gpt-image-2锛屾敮鎸佸紓姝ヤ换鍔n\n\n璐炶礊鐨凙I宸ュ潑锛堟敞鍐岄€?.2鍒€锛屽悇绉岮PI锛夛細https://zaiduyu.top/register?aff=dP7j\n\n宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鍒嗙粍閫夋嫨default鍒嗙粍锛岄殢渚垮彇涓悕瀛楋紝澶嶅埗API鍗冲彲浣跨敤锛屾敮鎸佺洿鎺ョ敤锛堣亰澶╂ā寮忥級锛屼篃鏀寔鍚勭宸ュ叿璋冪敤 锛坈omfyui,sillytavern,cusor绛夛級锛屾瘡鏃ョ鍒伴绉垎\n\nComfyui璋冪敤API鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -455,7 +455,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -80.34036431349105,
         -352.63922718539186,

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "a152d05d-f72c-439f-b351-2b56e2f0e6ee",
   "revision": 0,
   "last_node_id": 17,
@@ -117,7 +117,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\n  \"status\": \"success\",\n  \"model\": \"grok-4.2-image\",\n  \"prompt\": \"图1的女人做出图2的姿势\",\n  \"aspect_ratio\": \"9:16\",\n  \"input_images\": 2,\n  \"images_count\": 1,\n  \"image_urls\": [\n    \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/79b0a576-b487-4346-909e-0d9a4eb06c74\"\n  ]\n}"
+        "{\n  \"status\": \"success\",\n  \"model\": \"grok-4.2-image\",\n  \"prompt\": \"鍥?鐨勫コ浜哄仛鍑哄浘2鐨勫Э鍔縗",\n  \"aspect_ratio\": \"9:16\",\n  \"input_images\": 2,\n  \"images_count\": 1,\n  \"image_urls\": [\n    \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/79b0a576-b487-4346-909e-0d9a4eb06c74\"\n  ]\n}"
       ]
     },
     {
@@ -193,12 +193,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_grok_image"
       },
       "widgets_values": [
-        "图1的女人做出图2的姿势",
+        "鍥?鐨勫コ浜哄仛鍑哄浘2鐨勫Э鍔?,
         "",
         "grok-4.2-image",
         "9:16",
@@ -301,12 +301,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -366,7 +366,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -25.78201880212578,
         94.65848835948015,

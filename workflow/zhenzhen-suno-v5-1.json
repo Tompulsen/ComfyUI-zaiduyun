@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "2528f5b4-3050-46e7-8add-4b1495e4285a",
   "revision": 0,
   "last_node_id": 24,
@@ -24,7 +24,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "简单描写要生成的歌曲"
+        "绠€鍗曟弿鍐欒鐢熸垚鐨勬瓕鏇?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -49,7 +49,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "歌曲名字"
+        "姝屾洸鍚嶅瓧"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -78,7 +78,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/T8mars/Comfyui-zhenzhen"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -154,7 +154,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "命中注定"
+        "鍛戒腑娉ㄥ畾"
       ]
     },
     {
@@ -203,7 +203,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "写一首伤感的情歌"
+        "鍐欎竴棣栦激鎰熺殑鎯呮瓕"
       ]
     },
     {
@@ -353,8 +353,8 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "命中注定",
-        "写一首伤感的粤语情歌",
+        "鍛戒腑娉ㄥ畾",
+        "鍐欎竴棣栦激鎰熺殑绮よ鎯呮瓕",
         "v5",
         1165506579,
         "randomize",
@@ -399,7 +399,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "[Verse]\n夜风吹过冷清的街\n树影摇曳像在哽咽\n月光洒在窗前的椅子\n空的像你的承诺一直\n\n[Chorus]\n你说爱是秋叶飘零\n飘到哪算是注定\n可我心是沉默的山岭\n等风等雨等不到你回应\n\n[Verse 2]\n时间像烛火慢慢熄灭\n烧痛回忆却无声无怨\n指尖还留着你的余温\n但你的影子渐渐模糊不见\n\n[Chorus]\n你说爱是秋叶飘零\n飘到哪算是注定\n可我心是沉默的山岭\n等风等雨等不到你回应\n\n[Bridge]\n如果梦能倒带一次\n我会拥抱不放开彼此\n哪怕未来依旧充满静寂\n至少当下能触碰你\n\n[Chorus]\n你说爱是秋叶飘零\n飘到哪算是注定\n可我心是沉默的山岭\n等风等雨等不到你回应"
+        "[Verse]\n澶滈鍚硅繃鍐锋竻鐨勮\n鏍戝奖鎽囨洺鍍忓湪鍝藉捊\n鏈堝厜娲掑湪绐楀墠鐨勬瀛怽n绌虹殑鍍忎綘鐨勬壙璇轰竴鐩碶n\n[Chorus]\n浣犺鐖辨槸绉嬪彾椋橀浂\n椋樺埌鍝畻鏄敞瀹歕n鍙垜蹇冩槸娌夐粯鐨勫北宀璡n绛夐绛夐洦绛変笉鍒颁綘鍥炲簲\n\n[Verse 2]\n鏃堕棿鍍忕儧鐏參鎱㈢唲鐏璡n鐑х棝鍥炲繂鍗存棤澹版棤鎬╘n鎸囧皷杩樼暀鐫€浣犵殑浣欐俯\n浣嗕綘鐨勫奖瀛愭笎娓愭ā绯婁笉瑙乗n\n[Chorus]\n浣犺鐖辨槸绉嬪彾椋橀浂\n椋樺埌鍝畻鏄敞瀹歕n鍙垜蹇冩槸娌夐粯鐨勫北宀璡n绛夐绛夐洦绛変笉鍒颁綘鍥炲簲\n\n[Bridge]\n濡傛灉姊﹁兘鍊掑甫涓€娆n鎴戜細鎷ユ姳涓嶆斁寮€褰兼\n鍝€曟湭鏉ヤ緷鏃у厖婊￠潤瀵俓n鑷冲皯褰撲笅鑳借Е纰颁綘\n\n[Chorus]\n浣犺鐖辨槸绉嬪彾椋橀浂\n椋樺埌鍝畻鏄敞瀹歕n鍙垜蹇冩槸娌夐粯鐨勫北宀璡n绛夐绛夐洦绛変笉鍒颁綘鍥炲簲"
       ]
     },
     {
@@ -479,7 +479,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "秋夜泪影"
+        "绉嬪娉奖"
       ]
     },
     {
@@ -605,12 +605,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -685,7 +685,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         26.568632125854492,
         -680.1112670898438,

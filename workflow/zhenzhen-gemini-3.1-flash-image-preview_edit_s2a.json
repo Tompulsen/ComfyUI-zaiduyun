@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "2c352a1c-0f52-46ba-b0ae-cccc635b1147",
   "revision": 0,
   "last_node_id": 21,
@@ -129,7 +129,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "贞贞的AI工坊（注册送0.2刀，各种API）：https://ai.t8star.cn/register?aff=cbff0534884\n\n左侧令牌，创建令牌，分组选择default，随便取个名字，复制API即可使用，支持直接用（聊天模式），也支持各种工具调用（comfyui,sillytavern,cusor等），每日签到领积分\n\nComfyui调用API节点：https://github.com/T8mars/Comfyui-zhenzhen"
+        "璐炶礊鐨凙I宸ュ潑锛堟敞鍐岄€?.2鍒€锛屽悇绉岮PI锛夛細https://zaiduyu.top/register?aff=cbff0534884\n\n宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鍒嗙粍閫夋嫨default锛岄殢渚垮彇涓悕瀛楋紝澶嶅埗API鍗冲彲浣跨敤锛屾敮鎸佺洿鎺ョ敤锛堣亰澶╂ā寮忥級锛屼篃鏀寔鍚勭宸ュ叿璋冪敤锛坈omfyui,sillytavern,cusor绛夛級锛屾瘡鏃ョ鍒伴绉垎\n\nComfyui璋冪敤API鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -207,7 +207,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "美丽的女人在书店看书"
+        "缇庝附鐨勫コ浜哄湪涔﹀簵鐪嬩功"
       ]
     },
     {
@@ -235,12 +235,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3141fb931c0cdbf79a115d644ac9bb82094bb75e",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -393,7 +393,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3141fb931c0cdbf79a115d644ac9bb82094bb75e",
         "Node name for S&R": "Comfly_gemini_3_1_flash_image_edit_S2A"
       },
@@ -511,7 +511,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -465.73418057936925,
         -754.4947286360468,

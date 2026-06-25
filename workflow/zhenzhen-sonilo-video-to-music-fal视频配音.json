@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 149,
@@ -188,12 +188,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false
@@ -286,7 +286,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "她生成的音频格式是M4A，COMFYUI直接无法播放，复制下载地址即可"
+        "濂圭敓鎴愮殑闊抽鏍煎紡鏄疢4A锛孋OMFYUI鐩存帴鏃犳硶鎾斁锛屽鍒朵笅杞藉湴鍧€鍗冲彲"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -439,7 +439,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_sonilo_video_to_music_fal"
       },

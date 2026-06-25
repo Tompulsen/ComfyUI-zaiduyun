@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "f6ca7c92-3b93-49d0-b107-4bc211e77151",
   "revision": 0,
   "last_node_id": 112,
@@ -177,7 +177,7 @@
         }
       },
       "widgets_values": [
-        "紧急通知：由于官方API调用修改，目前从次数扣费改成张数扣费，请把设置里的N改成1，否则生成4张后续会是4个费用！\n\n"
+        "绱ф€ラ€氱煡锛氱敱浜庡畼鏂笰PI璋冪敤淇敼锛岀洰鍓嶄粠娆℃暟鎵ｈ垂鏀规垚寮犳暟鎵ｈ垂锛岃鎶婅缃噷鐨凬鏀规垚1锛屽惁鍒欑敓鎴?寮犲悗缁細鏄?涓垂鐢紒\n\n"
       ],
       "color": "#332922",
       "bgcolor": "#593930"
@@ -200,7 +200,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "\n新增4图模式，加量不加价！扣费和单图一样\n\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\nPRO模式大概小号0.08元-0.1元，MAX模式预计在0.2元左右\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/ainewsto/Comfyui_Comfly_v2"
+        "\n鏂板4鍥炬ā寮忥紝鍔犻噺涓嶅姞浠凤紒鎵ｈ垂鍜屽崟鍥句竴鏍穃n\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\nPRO妯″紡澶ф灏忓彿0.08鍏?0.1鍏冿紝MAX妯″紡棰勮鍦?.2鍏冨乏鍙砛n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -477,7 +477,7 @@
         "en",
         false,
         "Manual Trasnlate",
-        "把商品放到婚礼现场的迎宾桌上，婚礼喜庆氛围，商品保持细节不变"
+        "鎶婂晢鍝佹斁鍒板绀肩幇鍦虹殑杩庡妗屼笂锛屽绀煎枩搴嗘皼鍥达紝鍟嗗搧淇濇寔缁嗚妭涓嶅彉"
       ],
       "color": "#332922",
       "bgcolor": "#593930"
@@ -507,12 +507,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -595,7 +595,7 @@
   "groups": [
     {
       "id": 2,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         6680.55517578125,
         -4563.14599609375,

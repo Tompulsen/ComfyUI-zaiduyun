@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "7cbcec68-7fa6-47bb-a38a-da689949a001",
   "revision": 0,
   "last_node_id": 223,
@@ -254,7 +254,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\n\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n5秒基准价格0.6元，10秒基准价格1.2元。时间长度修改duration选项即可\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/ainewsto/Comfyui_Comfly_v2\n"
+        "\n\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n5绉掑熀鍑嗕环鏍?.6鍏冿紝10绉掑熀鍑嗕环鏍?.2鍏冦€傛椂闂撮暱搴︿慨鏀筪uration閫夐」鍗冲彲\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -305,7 +305,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "两个人抱在一起接吻"
+        "涓や釜浜烘姳鍦ㄤ竴璧锋帴鍚?
       ]
     },
     {
@@ -538,7 +538,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "两个人抱在一起接吻",
+        "涓や釜浜烘姳鍦ㄤ竴璧锋帴鍚?,
         5,
         "16:9",
         0.5,
@@ -572,12 +572,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -652,7 +652,7 @@
   "groups": [
     {
       "id": 7,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -1549.734130859375,
         -712.2920532226562,
@@ -665,7 +665,7 @@
     },
     {
       "id": 8,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -615.2500610351562,
         -62.89464569091797,
@@ -678,7 +678,7 @@
     },
     {
       "id": 9,
-      "title": "这个分组不用管",
+      "title": "杩欎釜鍒嗙粍涓嶇敤绠?,
       "bounding": [
         -199.65536499023438,
         1448.70458984375,

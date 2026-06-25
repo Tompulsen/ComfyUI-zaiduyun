@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":35,
 	"nodes":[
 		{
@@ -184,7 +184,7 @@
 				2214.03369140625
 			],
 			"widgets_values":[
-				"API注册：https://ai.t8star.cn/register?aff=dP7j\nT8稳定维护\n不能超过15秒，另外分辨率也要控制在927408像素内，否则会失败"
+				"API娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=dP7j\nT8绋冲畾缁存姢\n涓嶈兘瓒呰繃15绉掞紝鍙﹀鍒嗚鲸鐜囦篃瑕佹帶鍒跺湪927408鍍忕礌鍐咃紝鍚﹀垯浼氬け璐?
 			],
 			"inputs":[
 				{
@@ -302,7 +302,7 @@
 				1173.6170654296875
 			],
 			"widgets_values":[
-				"参考视频，人物换成@image1的女人，服装变成高定爱马仕皮衣"
+				"鍙傝€冭棰戯紝浜虹墿鎹㈡垚@image1鐨勫コ浜猴紝鏈嶈鍙樻垚楂樺畾鐖遍┈浠曠毊琛?
 			],
 			"inputs":[
 				{
@@ -804,7 +804,7 @@
 			"id":22,
 			"type":"Comfly_Doubao_Seedance2_0_AssetIdBundle",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					"apikey":true,
@@ -1279,37 +1279,37 @@
 			"mode":0,
 			"outputs":[
 				{
-					"name":"fps🟦",
+					"name":"fps馃煢",
 					"links":[
 						18
 					],
-					"label":"fps🟦",
+					"label":"fps馃煢",
 					"type":"FLOAT",
-					"localized_name":"fps🟦"
+					"localized_name":"fps馃煢"
 				},
 				{
-					"name":"frame_count🟦",
-					"label":"frame_count🟦",
+					"name":"frame_count馃煢",
+					"label":"frame_count馃煢",
 					"type":"INT",
-					"localized_name":"frame_count🟦"
+					"localized_name":"frame_count馃煢"
 				},
 				{
-					"name":"duration🟦",
-					"label":"duration🟦",
+					"name":"duration馃煢",
+					"label":"duration馃煢",
 					"type":"FLOAT",
-					"localized_name":"duration🟦"
+					"localized_name":"duration馃煢"
 				},
 				{
-					"name":"width🟦",
-					"label":"width🟦",
+					"name":"width馃煢",
+					"label":"width馃煢",
 					"type":"INT",
-					"localized_name":"width🟦"
+					"localized_name":"width馃煢"
 				},
 				{
-					"name":"height🟦",
-					"label":"height🟦",
+					"name":"height馃煢",
+					"label":"height馃煢",
 					"type":"INT",
-					"localized_name":"height🟦"
+					"localized_name":"height馃煢"
 				}
 			],
 			"size":[
@@ -1373,7 +1373,7 @@
 				2137.767822265625
 			],
 			"widgets_values":[
-				"卡通"
+				"鍗￠€?
 			],
 			"inputs":[
 				{
@@ -1856,7 +1856,7 @@
 			"id":2,
 			"type":"Comfly_Doubao_Seedance2_0",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					"apikey":true,
@@ -1890,7 +1890,7 @@
 				1432.212646484375
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -1966,7 +1966,7 @@
 				
 			},
 			"id":1,
-			"title":"B站，Youtube：T8star-Aix",
+			"title":"B绔欙紝Youtube锛歍8star-Aix",
 			"bounding":[
 				1384.3494873046875,
 				187,

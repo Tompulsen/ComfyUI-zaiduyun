@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":55,
 	"nodes":[
 		{
@@ -306,7 +306,7 @@
 			"id":22,
 			"type":"Comfly_Doubao_Seedance2_0_AssetIdBundle",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					"apikey":true,
@@ -324,7 +324,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"音频资产1"
+				"闊抽璧勪骇1"
 			],
 			"inputs":[
 				
@@ -357,7 +357,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"图像资产2"
+				"鍥惧儚璧勪骇2"
 			],
 			"inputs":[
 				
@@ -390,7 +390,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"图像资产1"
+				"鍥惧儚璧勪骇1"
 			],
 			"inputs":[
 				
@@ -445,7 +445,7 @@
 				151.6558837890625
 			],
 			"widgets_values":[
-				"女人对镜头做了一个飞吻的动作，说了句：“我爱你”"
+				"濂充汉瀵归暅澶村仛浜嗕竴涓鍚荤殑鍔ㄤ綔锛岃浜嗗彞锛氣€滄垜鐖变綘鈥?
 			],
 			"inputs":[
 				{
@@ -781,7 +781,7 @@
 			"id":16,
 			"type":"Comfly_Doubao_Seedance2_0",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					"asset_bundle":true,
@@ -869,7 +869,7 @@
 				-90.41740417480469
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -909,7 +909,7 @@
 			"id":12,
 			"type":"Comfly_api_set",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					
@@ -943,7 +943,7 @@
 				462.69464111328125
 			],
 			"widgets_values":[
-				"API注册：https://ai.t8star.cn/register?aff=dP7j\nT8稳定维护\n不能超过15秒"
+				"API娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=dP7j\nT8绋冲畾缁存姢\n涓嶈兘瓒呰繃15绉?
 			],
 			"inputs":[
 				{
@@ -1003,7 +1003,7 @@
 				
 			},
 			"id":1,
-			"title":"B站，Youtube：T8star-Aix",
+			"title":"B绔欙紝Youtube锛歍8star-Aix",
 			"bounding":[
 				-1244.67724609375,
 				-1223.6053466796875,

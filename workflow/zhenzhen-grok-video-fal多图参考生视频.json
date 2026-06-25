@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "a152d05d-f72c-439f-b351-2b56e2f0e6ee",
   "revision": 0,
   "last_node_id": 21,
@@ -282,12 +282,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_grok_video_fal"
       },
       "widgets_values": [
-        "图1的女人做出图2到姿势，并说我爱你",
+        "鍥?鐨勫コ浜哄仛鍑哄浘2鍒板Э鍔匡紝骞惰鎴戠埍浣?,
         "",
         4,
         "16:9",
@@ -325,12 +325,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -390,7 +390,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -25.78201880212578,
         94.65848835948015,

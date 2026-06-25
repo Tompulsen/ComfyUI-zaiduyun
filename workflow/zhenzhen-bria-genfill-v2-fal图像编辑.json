@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5fa61cc8-29d9-4deb-9f90-02d3c00b63b3",
   "revision": 0,
   "last_node_id": 118,
@@ -133,12 +133,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -244,7 +244,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_bria_genfill_v2_fal"
       },

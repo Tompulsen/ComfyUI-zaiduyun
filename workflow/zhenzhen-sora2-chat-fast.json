@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "a6483b50-e907-479f-b6e6-b1a64e8bc4d1",
   "revision": 0,
   "last_node_id": 97,
@@ -71,7 +71,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "复制地址到浏览器打开就是视频"
+        "澶嶅埗鍦板潃鍒版祻瑙堝櫒鎵撳紑灏辨槸瑙嗛"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -267,7 +267,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "https://ai.t8star.cn/ 获取API地址\n国庆期间，每个视频仅收取0.01元人民币\n\n注册送0.2，每日签到也送"
+        "https://zaiduyu.top/ 鑾峰彇API鍦板潃\n鍥藉簡鏈熼棿锛屾瘡涓棰戜粎鏀跺彇0.01鍏冧汉姘戝竵\n\n娉ㄥ唽閫?.2锛屾瘡鏃ョ鍒颁篃閫?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -342,7 +342,7 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_sora2_chat"
       },
@@ -416,7 +416,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "图生视频就打开参考图即可"
+        "鍥剧敓瑙嗛灏辨墦寮€鍙傝€冨浘鍗冲彲"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -446,12 +446,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-tS0K3Kvdsy6dkFUi3gUWJWVCqNCfIUdpZWHTDRhniqCOT3GT",
         ""
       ]
@@ -507,7 +507,7 @@
         }
       },
       "widgets_values": [
-        "一个长得非常美丽的女孩，穿越到中国古代，在现场直播赵子龙万人敌的场景"
+        "涓€涓暱寰楅潪甯哥編涓界殑濂冲锛岀┛瓒婂埌涓浗鍙や唬锛屽湪鐜板満鐩存挱璧靛瓙榫欎竾浜烘晫鐨勫満鏅?
       ],
       "color": "#322",
       "bgcolor": "#533"
@@ -579,7 +579,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "目前模型分为sora-2和sora-2-pro版\n\nsora-2 偶发性出水印，价格基准0.1RMB，不支持HD，可选10S和15S，支持横版竖版\nsora-2 Pro，无水印，基准价格1.7RMB，10S和15S支持HD，25S不支持HD，支持横版竖版\n\n务必注意25S不要和HD同时开！\n\n25S 大概需要30分钟\n15S HD大概需要20分钟\n10S 非HD大概5分钟左右\n15S 非HD大概10分钟左右\n\n由于并发压力不同，以上时间仅供参考"
+        "鐩墠妯″瀷鍒嗕负sora-2鍜宻ora-2-pro鐗圽n\nsora-2 鍋跺彂鎬у嚭姘村嵃锛屼环鏍煎熀鍑?.1RMB锛屼笉鏀寔HD锛屽彲閫?0S鍜?5S锛屾敮鎸佹í鐗堢珫鐗圽nsora-2 Pro锛屾棤姘村嵃锛屽熀鍑嗕环鏍?.7RMB锛?0S鍜?5S鏀寔HD锛?5S涓嶆敮鎸丠D锛屾敮鎸佹í鐗堢珫鐗圽n\n鍔″繀娉ㄦ剰25S涓嶈鍜孒D鍚屾椂寮€锛乗n\n25S 澶ф闇€瑕?0鍒嗛挓\n15S HD澶ф闇€瑕?0鍒嗛挓\n10S 闈濰D澶ф5鍒嗛挓宸﹀彸\n15S 闈濰D澶ф10鍒嗛挓宸﹀彸\n\n鐢变簬骞跺彂鍘嬪姏涓嶅悓锛屼互涓婃椂闂翠粎渚涘弬鑰?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -646,7 +646,7 @@
   "groups": [
     {
       "id": 11,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         3580.0654296875,
         1125.4595947265625,

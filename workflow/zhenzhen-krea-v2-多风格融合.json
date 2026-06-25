@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 118,
@@ -180,12 +180,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_krea_v2_fal"
       },
       "widgets_values": [
-        "合并两个图片的风格， 画一个高允贞",
+        "鍚堝苟涓や釜鍥剧墖鐨勯鏍硷紝 鐢讳竴涓珮鍏佽礊",
         "medium",
         "",
         "",
@@ -265,12 +265,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false

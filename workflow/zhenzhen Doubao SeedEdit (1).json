@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "f6ca7c92-3b93-49d0-b107-4bc211e77151",
   "revision": 0,
   "last_node_id": 5,
@@ -107,7 +107,7 @@
         "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        "**SeedEdit Request**\n\nPrompt: 把黑猫变成白猫\nScale: 0.5\nSeed: 1651735202\nTime: 2025-03-25 12:17:44\n\nSuccess!\n\nImage URL: https://p26-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/2025032512183166658E08495CC1A2D49F-0~tplv-vuqhorh59i-image.image?rk3s=7f9e702d&x-expires=1742962724&x-signature=3S1CjM3qqtl6hHymu7Fhd4V%2BwoE%3D\n\nVLM Description: 一只穿着水手服滑雪的白猫在雪山上\nRequest ID: 2025032512183166658E08495CC1A2D49F\nProcessing Time: 12.836374606s\n"
+        "**SeedEdit Request**\n\nPrompt: 鎶婇粦鐚彉鎴愮櫧鐚玕nScale: 0.5\nSeed: 1651735202\nTime: 2025-03-25 12:17:44\n\nSuccess!\n\nImage URL: https://p26-aiop-sign.byteimg.com/tos-cn-i-vuqhorh59i/2025032512183166658E08495CC1A2D49F-0~tplv-vuqhorh59i-image.image?rk3s=7f9e702d&x-expires=1742962724&x-signature=3S1CjM3qqtl6hHymu7Fhd4V%2BwoE%3D\n\nVLM Description: 涓€鍙┛鐫€姘存墜鏈嶆粦闆殑鐧界尗鍦ㄩ洩灞变笂\nRequest ID: 2025032512183166658E08495CC1A2D49F\nProcessing Time: 12.836374606s\n"
       ]
     },
     {
@@ -167,13 +167,13 @@
         "Node name for S&R": "ComflySeededit"
       },
       "widgets_values": [
-        "把黑猫变成白猫",
+        "鎶婇粦鐚彉鎴愮櫧鐚?,
         0.5,
         1543254865,
         "randomize",
         true,
-        "右下角",
-        "英文",
+        "鍙充笅瑙?,
+        "鑻辨枃",
         "ainewsto",
         ""
       ]
@@ -203,12 +203,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "00000000-0000-0000-0000-000000000000",
   "revision": 0,
   "last_node_id": 98,
@@ -217,7 +217,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "让女人正对镜头，人物一致性保持不变"
+        "璁╁コ浜烘瀵归暅澶达紝浜虹墿涓€鑷存€т繚鎸佷笉鍙?
       ]
     },
     {
@@ -495,7 +495,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\nComfyui调用API节点(支持本地部署)：https://github.com/T8mars/Comfyui-zhenzhen"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\nComfyui璋冪敤API鑺傜偣(鏀寔鏈湴閮ㄧ讲)锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -524,7 +524,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "模型用nano-banana即可\nHD模型暂时不可用\n支持分辨率选择"
+        "妯″瀷鐢╪ano-banana鍗冲彲\nHD妯″瀷鏆傛椂涓嶅彲鐢╘n鏀寔鍒嗚鲸鐜囬€夋嫨"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -554,12 +554,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -642,7 +642,7 @@
   "groups": [
     {
       "id": 7,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -756.0153198242188,
         -386.59625244140625,

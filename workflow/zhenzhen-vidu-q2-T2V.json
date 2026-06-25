@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "b75f71b7-f4a2-48f1-9653-44cea7205105",
   "revision": 0,
   "last_node_id": 18,
@@ -225,7 +225,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "如果预览视频节点没出视频，可以再下面SHOWANYTHING那里，有地址"
+        "濡傛灉棰勮瑙嗛鑺傜偣娌″嚭瑙嗛锛屽彲浠ュ啀涓嬮潰SHOWANYTHING閭ｉ噷锛屾湁鍦板潃"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -250,7 +250,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2美元\n\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\nComfyui调用API节点(支持本地部署)：https://github.com/T8mars/Comfyui-zhenzhen\n\n"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2缇庡厓\n\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\nComfyui璋冪敤API鑺傜偣(鏀寔鏈湴閮ㄧ讲)锛歨ttps://github.com/T8mars/Comfyui-zaiduyun\n\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -326,7 +326,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "美丽的韩国女人在跳街舞"
+        "缇庝附鐨勯煩鍥藉コ浜哄湪璺宠鑸?
       ]
     },
     {
@@ -435,12 +435,12 @@
       "mode": 0,
       "inputs": [],
       "outputs": [],
-      "title": "价格计算方式",
+      "title": "浠锋牸璁＄畻鏂瑰紡",
       "properties": {
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "vidu是按照官方积分计费的，比如默认的图生视频，720P，5秒，模型Vidu q2\n\n实际消费官方VIDU 35积分，每vidu积分等于0.02813贞贞积分，所以总费用是35*0.2813≈0.9844贞贞积分\n"
+        "vidu鏄寜鐓у畼鏂圭Н鍒嗚璐圭殑锛屾瘮濡傞粯璁ょ殑鍥剧敓瑙嗛锛?20P锛?绉掞紝妯″瀷Vidu q2\n\n瀹為檯娑堣垂瀹樻柟VIDU 35绉垎锛屾瘡vidu绉垎绛変簬0.02813璐炶礊绉垎锛屾墍浠ユ€昏垂鐢ㄦ槸35*0.2813鈮?.9844璐炶礊绉垎\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -501,7 +501,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -560,7 +560,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         476.8347473144531,
         708.3858642578125,

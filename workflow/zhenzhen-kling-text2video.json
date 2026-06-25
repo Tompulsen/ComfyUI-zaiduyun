@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "a4066d70-705d-4c99-bb7a-39e13d3c6e96",
   "revision": 0,
   "last_node_id": 31,
@@ -178,12 +178,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]

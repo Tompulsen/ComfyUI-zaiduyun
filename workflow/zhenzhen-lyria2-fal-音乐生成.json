@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5fa61cc8-29d9-4deb-9f90-02d3c00b63b3",
   "revision": 0,
   "last_node_id": 62,
@@ -132,12 +132,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -161,7 +161,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "fal模型都是先预扣3.4币，然后多退少补（任务完成或者失败后），可以在日志里查看"
+        "fal妯″瀷閮芥槸鍏堥鎵?.4甯侊紝鐒跺悗澶氶€€灏戣ˉ锛堜换鍔″畬鎴愭垨鑰呭け璐ュ悗锛夛紝鍙互鍦ㄦ棩蹇楅噷鏌ョ湅"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -215,7 +215,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_lyria2_fal"
       },

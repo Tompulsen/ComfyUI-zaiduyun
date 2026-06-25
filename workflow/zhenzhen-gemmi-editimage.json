@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "caef2d0f-1242-413a-b87d-21f24b80ad9d",
   "revision": 0,
   "last_node_id": 12,
@@ -261,7 +261,7 @@
         "Node name for S&R": "ComflyGeminiAPI"
       },
       "widgets_values": [
-        "以图片3.jpg为背景, 图片2.jpg拿着图片1.jpg的化妆瓶，。",
+        "浠ュ浘鐗?.jpg涓鸿儗鏅? 鍥剧墖2.jpg鎷跨潃鍥剧墖1.jpg鐨勫寲濡嗙摱锛屻€?,
         "gemini-2.0-flash-exp-image",
         "1024x1024",
         1,
@@ -298,12 +298,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]

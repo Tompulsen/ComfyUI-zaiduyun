@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "0c258e12-f212-48d3-b71e-820714cad75f",
   "revision": 0,
   "last_node_id": 108,
@@ -60,12 +60,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "2607ea71e5269ced450802a7872f773a3e7cc87e",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-VyPHLDgymgCPRJ7uFUZTvpw6vfCW5yA2bBvMqMzFeNUcUe22",
         ""
       ]
@@ -105,7 +105,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "女人在咖啡店喝咖啡,4K"
+        "濂充汉鍦ㄥ挅鍟″簵鍠濆挅鍟?4K"
       ]
     },
     {
@@ -126,7 +126,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "API注册：https://ai.t8star.cn/register?aff=cbff0534884\n目前0.2积分一个图,暂时1K,2K,4K价格一样"
+        "API娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n鐩墠0.2绉垎涓€涓浘,鏆傛椂1K,2K,4K浠锋牸涓€鏍?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -303,7 +303,7 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "ad351e4cc2776aef203741297075074a2803e02a",
         "Node name for S&R": "Comfly_nano_banana2_edit"
       },
@@ -357,7 +357,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -876.3999633789062,
         -798.2618408203125,

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5fa61cc8-29d9-4deb-9f90-02d3c00b63b3",
   "revision": 0,
   "last_node_id": 111,
@@ -39,7 +39,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\"status\": \"success\", \"task_id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"model\": \"grok-1.5-video-15s\", \"prompt\": \"女人说我爱你\", \"size\": \"720x1280\", \"video_url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\", \"submit_response\": {\"id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"task_id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"object\": \"\", \"model\": \"\", \"status\": \"processing\", \"progress\": 0, \"created_at\": 0}, \"status_response\": {\"id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"object\": \"video\", \"model\": \"grok-1.5-video-15s\", \"status\": \"completed\", \"progress\": 100, \"created_at\": 1781202493, \"completed_at\": 1781202675, \"metadata\": {\"url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\"}, \"video_url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\"}}"
+        "{\"status\": \"success\", \"task_id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"model\": \"grok-1.5-video-15s\", \"prompt\": \"濂充汉璇存垜鐖变綘\", \"size\": \"720x1280\", \"video_url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\", \"submit_response\": {\"id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"task_id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"object\": \"\", \"model\": \"\", \"status\": \"processing\", \"progress\": 0, \"created_at\": 0}, \"status_response\": {\"id\": \"task_t3O3OP5Xw39QsFZTdggcc25d6xQHs4qZ\", \"object\": \"video\", \"model\": \"grok-1.5-video-15s\", \"status\": \"completed\", \"progress\": 100, \"created_at\": 1781202493, \"completed_at\": 1781202675, \"metadata\": {\"url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\"}, \"video_url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/23029245-224c-4b30-84b2-32a21b30a0f9.mp4\"}}"
       ]
     },
     {
@@ -202,7 +202,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_bria_video_background_removal_v3_fal"
       },
@@ -243,12 +243,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "a152d05d-f72c-439f-b351-2b56e2f0e6ee",
   "revision": 0,
   "last_node_id": 28,
@@ -186,7 +186,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\n  \"status\": \"success\",\n  \"model\": \"grok-4.2-image\",\n  \"prompt\": \"图1的女人改成图2的动作，保持人脸一致性\",\n  \"aspect_ratio\": \"1:1\",\n  \"async_mode\": true,\n  \"task_id\": \"f1890f8a2ace4f08a1a4a7baa4efe940\",\n  \"input_images\": 2,\n  \"images_count\": 1,\n  \"image_urls\": [\n    \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/32a1f559-4786-4894-8368-c6005b80e69e\"\n  ]\n}"
+        "{\n  \"status\": \"success\",\n  \"model\": \"grok-4.2-image\",\n  \"prompt\": \"鍥?鐨勫コ浜烘敼鎴愬浘2鐨勫姩浣滐紝淇濇寔浜鸿劯涓€鑷存€",\n  \"aspect_ratio\": \"1:1\",\n  \"async_mode\": true,\n  \"task_id\": \"f1890f8a2ace4f08a1a4a7baa4efe940\",\n  \"input_images\": 2,\n  \"images_count\": 1,\n  \"image_urls\": [\n    \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/32a1f559-4786-4894-8368-c6005b80e69e\"\n  ]\n}"
       ]
     },
     {
@@ -262,12 +262,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_grok_image"
       },
       "widgets_values": [
-        "图1的女人改成图2的动作，保持人脸一致性",
+        "鍥?鐨勫コ浜烘敼鎴愬浘2鐨勫姩浣滐紝淇濇寔浜鸿劯涓€鑷存€?,
         "",
         "grok-4.2-image",
         "1:1",
@@ -305,12 +305,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -428,7 +428,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\n  \"model\": \"grok-imagine-video-1.5-preview\",\n  \"endpoint\": \"xai/grok-imagine-video/v1.5/image-to-video\",\n  \"duration\": 5,\n  \"resolution\": \"720p\",\n  \"video_url\": \"https://v3b.fal.media/files/b/0a9c7011/-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n  \"prompt\": \"女人在跳舞\",\n  \"video\": {\n    \"content_type\": \"video/mp4\",\n    \"duration\": 5.041667,\n    \"file_name\": \"-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n    \"file_size\": 2725370,\n    \"fps\": 24,\n    \"height\": 1264,\n    \"num_frames\": 121,\n    \"url\": \"https://v3b.fal.media/files/b/0a9c7011/-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n    \"width\": 720\n  }\n}"
+        "{\n  \"model\": \"grok-imagine-video-1.5-preview\",\n  \"endpoint\": \"xai/grok-imagine-video/v1.5/image-to-video\",\n  \"duration\": 5,\n  \"resolution\": \"720p\",\n  \"video_url\": \"https://v3b.fal.media/files/b/0a9c7011/-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n  \"prompt\": \"濂充汉鍦ㄨ烦鑸瀄",\n  \"video\": {\n    \"content_type\": \"video/mp4\",\n    \"duration\": 5.041667,\n    \"file_name\": \"-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n    \"file_size\": 2725370,\n    \"fps\": 24,\n    \"height\": 1264,\n    \"num_frames\": 121,\n    \"url\": \"https://v3b.fal.media/files/b/0a9c7011/-cIdwid-vEtG-sLHKYXvO_62H6DlDO.mp4\",\n    \"width\": 720\n  }\n}"
       ]
     },
     {
@@ -486,12 +486,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "1684d708e82134a6a9836a5b63fdc6bd06497f73",
         "Node name for S&R": "Comfly_grok_video_1_5_fal"
       },
       "widgets_values": [
-        "女人在跳舞",
+        "濂充汉鍦ㄨ烦鑸?,
         "",
         "",
         5,
@@ -560,12 +560,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "3d8fe6018c8c45fd9995621e0dfb108aa9384b90",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -665,7 +665,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -316.54162320986393,
         477.47889106489737,

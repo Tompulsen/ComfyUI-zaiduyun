@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "242a6140-7341-49ca-876b-c01366b39b84",
   "revision": 0,
   "last_node_id": 104,
@@ -57,16 +57,16 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "a374cba455529175dfbe7205090b4bba15814bfe",
         "Node name for S&R": "Comfly_api_set",
         "widget_ue_connectable": {
           "apikey": true
         },
-        "aux_id": "T8mars/Comfyui-zhenzhen"
+        "aux_id": "T8mars/Comfyui-zaiduyun"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -171,7 +171,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "api获取地址：https://ai.t8star.cn/register?aff=dP7j\n注册送0.2积分，每天工作台签到送积分\n"
+        "api鑾峰彇鍦板潃锛歨ttps://zaiduyu.top/register?aff=dP7j\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌閫佺Н鍒哱n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -431,12 +431,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "38aba8ca79716d60e83c0539c7f60336f893c35f",
         "Node name for S&R": "ComflyGrok3VideoApi"
       },
       "widgets_values": [
-        "女人说：T8，你在干嘛呀",
+        "濂充汉璇达細T8锛屼綘鍦ㄥ共鍢涘憖",
         "grok-video-3",
         "9:16",
         "15",
@@ -610,7 +610,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "@img1 带着 @img2 眼镜在逛街"
+        "@img1 甯︾潃 @img2 鐪奸暅鍦ㄩ€涜"
       ]
     },
     {
@@ -742,7 +742,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube:T8star-Aix",
+      "title": "B绔欍€乊outube:T8star-Aix",
       "bounding": [
         -3060.765380859375,
         -396.22821044921875,

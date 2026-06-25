@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "88ac5dad-efd7-40bb-84fe-fbaefdee1fa9",
   "revision": 0,
   "last_node_id": 141,
@@ -77,7 +77,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "未标题-1.jpg",
+        "鏈爣棰?1.jpg",
         "image"
       ]
     },
@@ -106,12 +106,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "9e2469076c3cf685fbcca8b812489f3e0828eedd",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -151,7 +151,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "贞贞"
+        "璐炶礊"
       ]
     },
     {
@@ -303,7 +303,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0_Asset"
       },
@@ -366,7 +366,7 @@
   "groups": [
     {
       "id": 7,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -298.48902671472337,
         -117.99214206468653,

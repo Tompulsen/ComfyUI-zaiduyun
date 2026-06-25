@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "cc3b035d-f65e-4f2e-bc54-2e66e87a5536",
   "revision": 0,
   "last_node_id": 12,
@@ -101,12 +101,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "036878d344c718796b0291af2d6b9f8d89b305c5",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -196,7 +196,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "fal模型预扣3.4，生成完毕后多退少补，万一节点没有生成，实际成功了，可以去网站的异步任务，TASKID里面找到下载地址直接下载"
+        "fal妯″瀷棰勬墸3.4锛岀敓鎴愬畬姣曞悗澶氶€€灏戣ˉ锛屼竾涓€鑺傜偣娌℃湁鐢熸垚锛屽疄闄呮垚鍔熶簡锛屽彲浠ュ幓缃戠珯鐨勫紓姝ヤ换鍔★紝TASKID閲岄潰鎵惧埌涓嬭浇鍦板潃鐩存帴涓嬭浇"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -256,7 +256,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "036878d344c718796b0291af2d6b9f8d89b305c5",
         "Node name for S&R": "Comfly_zonos2_fal"
       },

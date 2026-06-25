@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 156,
@@ -116,7 +116,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\"status\": \"success\", \"task_id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"model\": \"omni_flash-10s\", \"prompt\": \"基于这张图片生成视频\", \"size\": \"1280x720\", \"seconds\": \"10\", \"watermark\": false, \"video_url\": \"https://oss-us.file-download.life/2026/06/06/e49b7506e0a118203a79058271d86fa1.mp4\", \"submit_response\": {\"id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"task_id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"object\": \"video\", \"model\": \"omni_flash-10s\", \"status\": \"queued\", \"progress\": 0, \"created_at\": 1780768292, \"size\": \"1280x720\"}, \"status_response\": {\"id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"size\": \"1280x720\", \"model\": \"omni_flash-10s\", \"object\": \"video\", \"status\": \"completed\", \"progress\": 100, \"video_url\": \"https://oss-us.file-download.life/2026/06/06/e49b7506e0a118203a79058271d86fa1.mp4\", \"created_at\": 1780768293, \"completed_at\": 1780768404}}"
+        "{\"status\": \"success\", \"task_id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"model\": \"omni_flash-10s\", \"prompt\": \"鍩轰簬杩欏紶鍥剧墖鐢熸垚瑙嗛\", \"size\": \"1280x720\", \"seconds\": \"10\", \"watermark\": false, \"video_url\": \"https://oss-us.file-download.life/2026/06/06/e49b7506e0a118203a79058271d86fa1.mp4\", \"submit_response\": {\"id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"task_id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"object\": \"video\", \"model\": \"omni_flash-10s\", \"status\": \"queued\", \"progress\": 0, \"created_at\": 1780768292, \"size\": \"1280x720\"}, \"status_response\": {\"id\": \"task_PpSffgIdrRq3s3L0Co3vIsHzTN2Bpmxu\", \"size\": \"1280x720\", \"model\": \"omni_flash-10s\", \"object\": \"video\", \"status\": \"completed\", \"progress\": 100, \"video_url\": \"https://oss-us.file-download.life/2026/06/06/e49b7506e0a118203a79058271d86fa1.mp4\", \"created_at\": 1780768293, \"completed_at\": 1780768404}}"
       ]
     },
     {
@@ -218,12 +218,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_veo_omini"
       },
       "widgets_values": [
-        "基于这张图片生成视频",
+        "鍩轰簬杩欏紶鍥剧墖鐢熸垚瑙嗛",
         "omni_flash-10s",
         "1280x720",
         "10",
@@ -292,12 +292,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false

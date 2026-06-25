@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "bb825d4e-1fd2-4709-a752-726db27efec6",
   "revision": 0,
   "last_node_id": 21,
@@ -20,7 +20,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "输入任何",
+          "label": "杈撳叆浠讳綍",
           "name": "anything",
           "shape": 7,
           "type": "*",
@@ -67,7 +67,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "link": 5
@@ -114,7 +114,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "link": 8
@@ -136,7 +136,7 @@
       ],
       "outputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "links": [
@@ -184,7 +184,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "<div class=\"startPage\">\n  <div class=\"hoverContainer\">\n    <a href=\"https://aix.studio\">\n      <span class=\"size-smallButton style-input\">🗃️ AIX官网</span>\n    </a>\n    <a href=\"https://t.zsxq.com/7F90A\">\n      <span class=\"size-smallButton style-input\">🪲 知识星球</span>\n    </a>\n    <a href=\"https://space.bilibili.com/385085361\">\n      <span class=\"size-smallButton style-input\">☕ B站首页</span>\n    </a>\n  </div>\n</div>"
+        "<div class=\"startPage\">\n  <div class=\"hoverContainer\">\n    <a href=\"https://aix.studio\">\n      <span class=\"size-smallButton style-input\">馃梼锔?AIX瀹樼綉</span>\n    </a>\n    <a href=\"https://t.zsxq.com/7F90A\">\n      <span class=\"size-smallButton style-input\">馃 鐭ヨ瘑鏄熺悆</span>\n    </a>\n    <a href=\"https://space.bilibili.com/385085361\">\n      <span class=\"size-smallButton style-input\">鈽?B绔欓椤?/span>\n    </a>\n  </div>\n</div>"
       ],
       "color": "#3a3a3a",
       "bgcolor": "#262626",
@@ -206,7 +206,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "输入任何",
+          "label": "杈撳叆浠讳綍",
           "name": "anything",
           "shape": 7,
           "type": "*",
@@ -232,7 +232,7 @@
         }
       },
       "widgets_values": [
-        "an anime girl,–ow 800 --v 7 --ar 1:1 --oref https://mj.fonedis.cc/attachments/20250514/6175fddd6fa44e598a0bce289900f4dc.png"
+        "an anime girl,鈥搊w 800 --v 7 --ar 1:1 --oref https://mj.fonedis.cc/attachments/20250514/6175fddd6fa44e598a0bce289900f4dc.png"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -253,7 +253,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "link": 4
@@ -304,7 +304,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "教程：\nhttps://www.bilibili.com/video/BV1Xw79zaECG/\nhttps://www.youtube.com/watch?v=9id42q0Wp8Y&t=50s\n"
+        "鏁欑▼锛歕nhttps://www.bilibili.com/video/BV1Xw79zaECG/\nhttps://www.youtube.com/watch?v=9id42q0Wp8Y&t=50s\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -329,7 +329,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了\n之前服务器被攻击，目前已修复，RELAX也恢复了之前服务器被攻击，目前已修复，RELAX也恢复了"
+        "涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡\n涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡涔嬪墠鏈嶅姟鍣ㄨ鏀诲嚮锛岀洰鍓嶅凡淇锛孯ELAX涔熸仮澶嶄簡"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -354,7 +354,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "relax便宜大概8分多4张图 需要300多秒\nfast mode 4张图大概4毛多，1分钟内\n–ow 800 这个参数可以不加，这个是参考相似度0-1000\n\nAPI注册地址（送0.2美元）：https://ai.t8star.cn/token\n令牌新建一个Default分组！\n后台查询是否失败及扣费记录：https://ai.t8star.cn/midjourney\n"
+        "relax渚垮疁澶ф8鍒嗗4寮犲浘 闇€瑕?00澶氱\nfast mode 4寮犲浘澶ф4姣涘锛?鍒嗛挓鍐匼n鈥搊w 800 杩欎釜鍙傛暟鍙互涓嶅姞锛岃繖涓槸鍙傝€冪浉浼煎害0-1000\n\nAPI娉ㄥ唽鍦板潃锛堥€?.2缇庡厓锛夛細https://zaiduyu.top/token\n浠ょ墝鏂板缓涓€涓狣efault鍒嗙粍锛乗n鍚庡彴鏌ヨ鏄惁澶辫触鍙婃墸璐硅褰曪細https://zaiduyu.top/midjourney\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -570,7 +570,7 @@
       "widgets_values": [
         "",
         "relax mode",
-        "an anime girl,–ow 800",
+        "an anime girl,鈥搊w 800",
         "",
         "1:1",
         "v 7",
@@ -602,7 +602,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "参数\t作用\t范围\t用法范例\n\n基础参数：基本属性，适合新手使用\n\n–ar\t调整图像长宽比\t任意比例\t/imagine a dog –ar 16:9\n–v / –version\t选择 MJ 模型版本\t1 到 7\t/imagine a dragon –v 7\n–q\t提升品质与生成速度\t0.25 到 2\t/imagine a forest –q 2\n–stop\t控制图像生成完成度：快速预览或生成模煳效果\t10 到 100\t/imagine a forest –stop 50\n–repeat / –r\t重複生成指定次数：生成多组图像以选择最佳\t1 到 100\t/imagine a dog –repeat 5\n–fast\t强制使用快速模式：可快速测试构图\t无需数值\t/imagine a landscape –fast\n–relax\t使用慢速生成：GPU 时间不足时免费生成\t无需数值\t/imagine a forest –relax\n\n风格与创意参数\n\n–stylize / –s\t调整风格化程度：控制艺术性与写实平衡\t0 到 1000\t/imagine a cat –stylize 500\n–p\t在网页版中，进入「Personalization」页面，选择至少 200 张图像后，Midjourney 会生成一个个人化编码\t/imagine a cat –p ekrofdu\n–exp\t启用实验性功能，增强细节\t0 到 100\t/imagine a city –exp 50\n–weird\t控制图像生成的「怪诞程度」\t0 到 3000\t/imagine a city –weird 100\n–chaos / –c\t控制生成随机性\t0 到 100\t/imagine a cat –chaos 50\n–niji\t启用动漫风格模型\t无需数值或 1-6\t/imagine an anime girl –niji 6\n–style\t选择风格变体：细化插画风格，可搭配 Niji\t例如 6a、6b\t/imagine an anime –style 6b\n(a：柔和动漫风；b：鲜明动漫风)\n–test\t启用测试模式 (实验性算法)：测试新算法效果\t无需数值\t/imagine a portrait –test\n–testp\t启用摄影风格测试模式：生成写实摄影风格图像\t无需数值\t/imagine a portrait –testp\n\n参考图像参数\n\n–sref\t指定风格参考图像\t图像 URL 或编码\t/imagine a dog –sref 3666203151\n–sw\t控制风格参考（–sref）影响程度\t0 到 1000\t/imagine a dog –sref 3666203151 –sw 500\n–cref\t指定角色参考图像\t图像 URL\t/imagine a wizard –cref elf.png\n–cw\t控制角色参考（–cref）影响程度\t0 到 100\t/imagine a wizard –cref elf.png –cw 75\n–oref\t指定全能参考图像：将特定元素融入新场景（角色、物体等）\t图像 URL\t/imagine a knight –oref sword.png\n–ow\t控制（–oref） 影响程度\t0 到 1000\t/imagine a knight –oref sword.png –ow 400\n–iw\t控制图像提示影响程度：调整图像与文字提示平衡\t0 到 2\t/imagine a city –iw 1.5\n\n其他进阶参数：适合专业用户或特定需求\n\n–no\t移除特定元素\t任意描述\t/imagine a landscape –no people\n–tile\t生成可平铺图像：设计纹理或壁纸\t无需数值\t/imagine a pattern –tile\n–seed\t指定种子值：重现特定图像风格\t0 到 4294967295\t/imagine a cat –seed 12345\n–video\t生成动画，展示生成过程\t无需数值\t/imagine a sunset –video\n–same\t保持一致性（实验性）\t无需数值\t/imagine a cat –same\n–hd\t提升解析度（V7 中不建议）\t无需数值\t/imagine a city –hd\n"
+        "鍙傛暟\t浣滅敤\t鑼冨洿\t鐢ㄦ硶鑼冧緥\n\n鍩虹鍙傛暟锛氬熀鏈睘鎬э紝閫傚悎鏂版墜浣跨敤\n\n鈥揳r\t璋冩暣鍥惧儚闀垮姣擻t浠绘剰姣斾緥\t/imagine a dog 鈥揳r 16:9\n鈥搗 / 鈥搗ersion\t閫夋嫨 MJ 妯″瀷鐗堟湰\t1 鍒?7\t/imagine a dragon 鈥搗 7\n鈥搎\t鎻愬崌鍝佽川涓庣敓鎴愰€熷害\t0.25 鍒?2\t/imagine a forest 鈥搎 2\n鈥搒top\t鎺у埗鍥惧儚鐢熸垚瀹屾垚搴︼細蹇€熼瑙堟垨鐢熸垚妯＄叧鏁堟灉\t10 鍒?100\t/imagine a forest 鈥搒top 50\n鈥搑epeat / 鈥搑\t閲嶈鐢熸垚鎸囧畾娆℃暟锛氱敓鎴愬缁勫浘鍍忎互閫夋嫨鏈€浣砛t1 鍒?100\t/imagine a dog 鈥搑epeat 5\n鈥揻ast\t寮哄埗浣跨敤蹇€熸ā寮忥細鍙揩閫熸祴璇曟瀯鍥綷t鏃犻渶鏁板€糪t/imagine a landscape 鈥揻ast\n鈥搑elax\t浣跨敤鎱㈤€熺敓鎴愶細GPU 鏃堕棿涓嶈冻鏃跺厤璐圭敓鎴怽t鏃犻渶鏁板€糪t/imagine a forest 鈥搑elax\n\n椋庢牸涓庡垱鎰忓弬鏁癨n\n鈥搒tylize / 鈥搒\t璋冩暣椋庢牸鍖栫▼搴︼細鎺у埗鑹烘湳鎬т笌鍐欏疄骞宠　\t0 鍒?1000\t/imagine a cat 鈥搒tylize 500\n鈥損\t鍦ㄧ綉椤电増涓紝杩涘叆銆孭ersonalization銆嶉〉闈紝閫夋嫨鑷冲皯 200 寮犲浘鍍忓悗锛孧idjourney 浼氱敓鎴愪竴涓釜浜哄寲缂栫爜\t/imagine a cat 鈥損 ekrofdu\n鈥揺xp\t鍚敤瀹為獙鎬у姛鑳斤紝澧炲己缁嗚妭\t0 鍒?100\t/imagine a city 鈥揺xp 50\n鈥搘eird\t鎺у埗鍥惧儚鐢熸垚鐨勩€屾€癁绋嬪害銆峔t0 鍒?3000\t/imagine a city 鈥搘eird 100\n鈥揷haos / 鈥揷\t鎺у埗鐢熸垚闅忔満鎬t0 鍒?100\t/imagine a cat 鈥揷haos 50\n鈥搉iji\t鍚敤鍔ㄦ极椋庢牸妯″瀷\t鏃犻渶鏁板€兼垨 1-6\t/imagine an anime girl 鈥搉iji 6\n鈥搒tyle\t閫夋嫨椋庢牸鍙樹綋锛氱粏鍖栨彃鐢婚鏍硷紝鍙惌閰?Niji\t渚嬪 6a銆?b\t/imagine an anime 鈥搒tyle 6b\n(a锛氭煍鍜屽姩婕锛沚锛氶矞鏄庡姩婕)\n鈥搕est\t鍚敤娴嬭瘯妯″紡 (瀹為獙鎬х畻娉?锛氭祴璇曟柊绠楁硶鏁堟灉\t鏃犻渶鏁板€糪t/imagine a portrait 鈥搕est\n鈥搕estp\t鍚敤鎽勫奖椋庢牸娴嬭瘯妯″紡锛氱敓鎴愬啓瀹炴憚褰遍鏍煎浘鍍廫t鏃犻渶鏁板€糪t/imagine a portrait 鈥搕estp\n\n鍙傝€冨浘鍍忓弬鏁癨n\n鈥搒ref\t鎸囧畾椋庢牸鍙傝€冨浘鍍廫t鍥惧儚 URL 鎴栫紪鐮乗t/imagine a dog 鈥搒ref 3666203151\n鈥搒w\t鎺у埗椋庢牸鍙傝€冿紙鈥搒ref锛夊奖鍝嶇▼搴t0 鍒?1000\t/imagine a dog 鈥搒ref 3666203151 鈥搒w 500\n鈥揷ref\t鎸囧畾瑙掕壊鍙傝€冨浘鍍廫t鍥惧儚 URL\t/imagine a wizard 鈥揷ref elf.png\n鈥揷w\t鎺у埗瑙掕壊鍙傝€冿紙鈥揷ref锛夊奖鍝嶇▼搴t0 鍒?100\t/imagine a wizard 鈥揷ref elf.png 鈥揷w 75\n鈥搊ref\t鎸囧畾鍏ㄨ兘鍙傝€冨浘鍍忥細灏嗙壒瀹氬厓绱犺瀺鍏ユ柊鍦烘櫙锛堣鑹层€佺墿浣撶瓑锛塡t鍥惧儚 URL\t/imagine a knight 鈥搊ref sword.png\n鈥搊w\t鎺у埗锛堚€搊ref锛?褰卞搷绋嬪害\t0 鍒?1000\t/imagine a knight 鈥搊ref sword.png 鈥搊w 400\n鈥搃w\t鎺у埗鍥惧儚鎻愮ず褰卞搷绋嬪害锛氳皟鏁村浘鍍忎笌鏂囧瓧鎻愮ず骞宠　\t0 鍒?2\t/imagine a city 鈥搃w 1.5\n\n鍏朵粬杩涢樁鍙傛暟锛氶€傚悎涓撲笟鐢ㄦ埛鎴栫壒瀹氶渶姹俓n\n鈥搉o\t绉婚櫎鐗瑰畾鍏冪礌\t浠绘剰鎻忚堪\t/imagine a landscape 鈥搉o people\n鈥搕ile\t鐢熸垚鍙钩閾哄浘鍍忥細璁捐绾圭悊鎴栧绾竆t鏃犻渶鏁板€糪t/imagine a pattern 鈥搕ile\n鈥搒eed\t鎸囧畾绉嶅瓙鍊硷細閲嶇幇鐗瑰畾鍥惧儚椋庢牸\t0 鍒?4294967295\t/imagine a cat 鈥搒eed 12345\n鈥搗ideo\t鐢熸垚鍔ㄧ敾锛屽睍绀虹敓鎴愯繃绋媆t鏃犻渶鏁板€糪t/imagine a sunset 鈥搗ideo\n鈥搒ame\t淇濇寔涓€鑷存€э紙瀹為獙鎬э級\t鏃犻渶鏁板€糪t/imagine a cat 鈥搒ame\n鈥揾d\t鎻愬崌瑙ｆ瀽搴︼紙V7 涓笉寤鸿锛塡t鏃犻渶鏁板€糪t/imagine a city 鈥揾d\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -696,7 +696,7 @@
       ],
       "outputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
@@ -704,7 +704,7 @@
           ]
         },
         {
-          "label": "遮罩",
+          "label": "閬僵",
           "name": "MASK",
           "type": "MASK"
         }
@@ -743,7 +743,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "输入任何",
+          "label": "杈撳叆浠讳綍",
           "name": "anything",
           "shape": 7,
           "type": "*",
@@ -768,7 +768,7 @@
         }
       },
       "widgets_values": [
-        "an anime girl,–ow 800"
+        "an anime girl,鈥搊w 800"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -798,7 +798,7 @@
       ],
       "outputs": [
         {
-          "label": "提示词文本",
+          "label": "鎻愮ず璇嶆枃鏈?,
           "name": "prompt",
           "type": "STRING",
           "links": [
@@ -823,7 +823,7 @@
         }
       },
       "widgets_values": [
-        "an anime girl,–ow 800"
+        "an anime girl,鈥搊w 800"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -853,12 +853,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -949,7 +949,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -79.96398162841797,
         -317.9178161621094,

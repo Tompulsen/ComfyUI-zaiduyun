@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "00000000-0000-0000-0000-000000000000",
   "revision": 0,
   "last_node_id": 104,
@@ -28,7 +28,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/ainewsto/Comfyui_Comfly_v2"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -624,7 +624,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "让image1的女人和image2的女人抱在一起"
+        "璁﹊mage1鐨勫コ浜哄拰image2鐨勫コ浜烘姳鍦ㄤ竴璧?
       ]
     },
     {
@@ -651,7 +651,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "model有两个，如果一个风控了请用另外个\n\n默认模型：gemini-2.5-flash-image-preview\n备选模型：nano-banana\n\n另外务必本地开启TUN模式，魔法选美国！！！非常重要"
+        "model鏈変袱涓紝濡傛灉涓€涓鎺т簡璇风敤鍙﹀涓猏n\n榛樿妯″瀷锛歡emini-2.5-flash-image-preview\n澶囬€夋ā鍨嬶細nano-banana\n\n鍙﹀鍔″繀鏈湴寮€鍚疶UN妯″紡锛岄瓟娉曢€夌編鍥斤紒锛侊紒闈炲父閲嶈"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -790,7 +790,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "让女人正对镜头，人物一致性保持不变",
+        "璁╁コ浜烘瀵归暅澶达紝浜虹墿涓€鑷存€т繚鎸佷笉鍙?,
         "nano-banana",
         1,
         0.95,
@@ -825,12 +825,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -953,7 +953,7 @@
   "groups": [
     {
       "id": 7,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -756.0153198242188,
         -386.59625244140625,

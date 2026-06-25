@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "fdcfc2b2-168f-4f3d-a1d0-6986b802fce5",
   "revision": 0,
   "last_node_id": 180,
@@ -151,12 +151,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_gpt_image_2_official_ratio"
       },
       "widgets_values": [
-        "一张电商海报",
+        "涓€寮犵數鍟嗘捣鎶?,
         "16:9",
         "4k",
         "",
@@ -274,12 +274,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false

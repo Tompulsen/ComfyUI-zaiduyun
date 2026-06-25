@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":41,
 	"nodes":[
 		{
@@ -27,7 +27,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":2,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -71,7 +71,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":30,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -115,7 +115,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":29,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -159,7 +159,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":31,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -203,7 +203,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":32,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -247,7 +247,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":34,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -291,7 +291,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":33,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -315,7 +315,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"选项0手动歌词，选项1自动获取歌词"
+				"閫夐」0鎵嬪姩姝岃瘝锛岄€夐」1鑷姩鑾峰彇姝岃瘝"
 			],
 			"inputs":[
 				
@@ -350,7 +350,7 @@
 					"links":[
 						37
 					],
-					"label":"提示词文本",
+					"label":"鎻愮ず璇嶆枃鏈?,
 					"type":"STRING",
 					"localized_name":"prompt"
 				},
@@ -380,7 +380,7 @@
 					"name":"prompt",
 					"label":"prompt",
 					"type":"STRING",
-					"localized_name":"提示词"
+					"localized_name":"鎻愮ず璇?
 				}
 			],
 			"flags":{
@@ -404,7 +404,7 @@
 					"links":[
 						38
 					],
-					"label":"提示词文本",
+					"label":"鎻愮ず璇嶆枃鏈?,
 					"type":"STRING",
 					"localized_name":"prompt"
 				},
@@ -424,7 +424,7 @@
 				2694.141845703125
 			],
 			"widgets_values":[
-				"抒情，温柔"
+				"鎶掓儏锛屾俯鏌?
 			],
 			"inputs":[
 				{
@@ -434,7 +434,7 @@
 					"name":"prompt",
 					"label":"prompt",
 					"type":"STRING",
-					"localized_name":"提示词"
+					"localized_name":"鎻愮ず璇?
 				}
 			],
 			"flags":{
@@ -456,7 +456,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"歌曲名"
+				"姝屾洸鍚?
 			],
 			"inputs":[
 				
@@ -489,7 +489,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"标签"
+				"鏍囩"
 			],
 			"inputs":[
 				
@@ -522,7 +522,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"手动提示词"
+				"鎵嬪姩鎻愮ず璇?
 			],
 			"inputs":[
 				
@@ -555,7 +555,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/T8mars/Comfyui-zhenzhen"
+				"\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
 			],
 			"inputs":[
 				
@@ -592,7 +592,7 @@
 					],
 					"label":"AUDIO",
 					"type":"AUDIO",
-					"localized_name":"音频"
+					"localized_name":"闊抽"
 				}
 			],
 			"size":[
@@ -653,7 +653,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"如只要一段请打开下面的节点自己设置时间长度"
+				"濡傚彧瑕佷竴娈佃鎵撳紑涓嬮潰鐨勮妭鐐硅嚜宸辫缃椂闂撮暱搴?
 			],
 			"inputs":[
 				
@@ -702,7 +702,7 @@
 					"link":27,
 					"label":"audio",
 					"type":"AUDIO",
-					"localized_name":"音频"
+					"localized_name":"闊抽"
 				},
 				{
 					"widget":{
@@ -711,7 +711,7 @@
 					"name":"filename_prefix",
 					"label":"filename_prefix",
 					"type":"STRING",
-					"localized_name":"文件名前缀"
+					"localized_name":"鏂囦欢鍚嶅墠缂€"
 				},
 				{
 					"widget":{
@@ -720,7 +720,7 @@
 					"name":"audioUI",
 					"label":"audioUI",
 					"type":"AUDIO_UI",
-					"localized_name":"音频UI"
+					"localized_name":"闊抽UI"
 				}
 			],
 			"flags":{
@@ -762,7 +762,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":13,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -788,7 +788,7 @@
 					"links":[
 						25
 					],
-					"label":"提示词文本",
+					"label":"鎻愮ず璇嶆枃鏈?,
 					"type":"STRING",
 					"localized_name":"prompt"
 				},
@@ -818,7 +818,7 @@
 					"name":"prompt",
 					"label":"prompt",
 					"type":"STRING",
-					"localized_name":"提示词"
+					"localized_name":"鎻愮ず璇?
 				}
 			],
 			"flags":{
@@ -840,7 +840,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"音频"
+				"闊抽"
 			],
 			"inputs":[
 				
@@ -877,7 +877,7 @@
 					],
 					"label":"INT",
 					"type":"INT",
-					"localized_name":"整数"
+					"localized_name":"鏁存暟"
 				}
 			],
 			"size":[
@@ -923,7 +923,7 @@
 					"links":[
 						40
 					],
-					"label":"提示词文本",
+					"label":"鎻愮ず璇嶆枃鏈?,
 					"type":"STRING",
 					"localized_name":"prompt"
 				},
@@ -943,7 +943,7 @@
 				2057.506591796875
 			],
 			"widgets_values":[
-				"[Verse 1]\n무슨 일이 있었나요\n날 바라보는 그대 눈빛\n말하지 못할 고민이 있어 보여요\n\n[Verse 2]\n아름다운 그대 마음을\n누가 다치게 했나요\n내가 다 들어줄게요\n이젠\n\n[Chorus]\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그댄 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\nMy love\n\n[Verse 3]\n괜찮은 척 애써 웃지 않아도 돼요\n나는 그저 그대 마음을\n위로하고 싶죠\n다른 의미 없이\n\n[Chorus]\n그대를 위해 저 달을 선물하고 싶어요\n선내미어요\n그댈 위한 거죠\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그댄 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\n내 사랑해 줄게요\n\n[Chorus]\n내가 많이 사랑해요\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그댄 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\n내 사랑해 줄게요\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그댄 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\nMy love\n모든 걸 줄게요\nMy love"
+				"[Verse 1]\n氍挫姩 鞚检澊 鞛堨棃雮橃殧\n雮?氚旊澕氤措姅 攴鸽寑 雸堧箾\n毵愴晿歆€ 氇豁暊 瓿犽鞚?鞛堨柎 氤挫棳鞖擻n\n[Verse 2]\n鞎勲雼れ毚 攴鸽寑 毵堨潓鞚刓n雸勱皜 雼れ箻瓴?頄堧倶鞖擻n雮搓皜 雼?霌れ柎欷勱矊鞖擻n鞚挫牋\n\n[Chorus]\n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寗 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻nMy love\n\n[Verse 3]\n甏滌爱鞚€ 觳?鞎犾崹 鞗冹 鞎婌晞霃?霃检殧\n雮橂姅 攴胳爛 攴鸽寑 毵堨潓鞚刓n鞙勲頃橁碃 鞁鹅\n雼るジ 鞚橂 鞐嗢澊\n\n[Chorus]\n攴鸽寑毳?鞙勴暣 鞝€ 雼潉 靹犽頃橁碃 鞁鹅柎鞖擻n靹犽偞氙胳柎鞖擻n攴鸽寛 鞙勴暅 瓯办\n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寗 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻n雮?靷瀾頃?欷勱矊鞖擻n\n[Chorus]\n雮搓皜 毵庫澊 靷瀾頃挫殧\n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寗 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻n雮?靷瀾頃?欷勱矊鞖擻n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寗 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻nMy love\n氇摖 瓯?欷勱矊鞖擻nMy love"
 			],
 			"inputs":[
 				{
@@ -953,7 +953,7 @@
 					"name":"prompt",
 					"label":"prompt",
 					"type":"STRING",
-					"localized_name":"提示词"
+					"localized_name":"鎻愮ず璇?
 				}
 			],
 			"flags":{
@@ -977,9 +977,9 @@
 					"links":[
 						21
 					],
-					"label":"音频",
+					"label":"闊抽",
 					"type":"AUDIO",
-					"localized_name":"音频"
+					"localized_name":"闊抽"
 				}
 			],
 			"size":[
@@ -1003,7 +1003,7 @@
 					"name":"audio",
 					"label":"audio",
 					"type":"COMBO",
-					"localized_name":"音频"
+					"localized_name":"闊抽"
 				},
 				{
 					"widget":{
@@ -1012,7 +1012,7 @@
 					"name":"audioUI",
 					"label":"audioUI",
 					"type":"AUDIO_UI",
-					"localized_name":"音频UI"
+					"localized_name":"闊抽UI"
 				},
 				{
 					"widget":{
@@ -1021,7 +1021,7 @@
 					"name":"upload",
 					"label":"upload",
 					"type":"AUDIOUPLOAD",
-					"localized_name":"选择文件上传"
+					"localized_name":"閫夋嫨鏂囦欢涓婁紶"
 				}
 			],
 			"flags":{
@@ -1063,7 +1063,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":35,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -1104,7 +1104,7 @@
 				1666.0999755859375
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -1482,14 +1482,14 @@
 				1919.4288330078125
 			],
 			"widgets_values":[
-				"[Verse 1]\n무슨 일이 있었나요\n날 바라보는 그대 눈빛\n말하지 못할 고민이 있어 보여요\n\n[Chorus]\n아름다운 그대 마음을\n누가 다치게 했나요\n내가 다 들어줄게요\n이젠 내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그대 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\nMy love\n\n[Verse 2]\n괜찮은 척 애써 웃지 않아도 돼요\n나는 그저 그대 마음을\n위로하고 싶죠\n다른 의미 없이\n그대를 위해 저 달을 선물하고 싶어요\n\n[Chorus]\n설렘이여요\n그댈 위한 거죠\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그대 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\n내 사랑을 줄게요\n\n[Bridge]\n내가 많이 사랑해요\n\n[Chorus]\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그대 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\n내 사랑을 줄게요\n내가 많이 사랑해요\n그 누구도 필요 없죠\n그저 나를 바라봐 준\n그대 나의 선물이죠\n이젠 몰래 아파하지 말고\n내게 털어놔요\n모든 걸 줄게요\nMy love\n모든 걸 줄게요\nMy love"
+				"[Verse 1]\n氍挫姩 鞚检澊 鞛堨棃雮橃殧\n雮?氚旊澕氤措姅 攴鸽寑 雸堧箾\n毵愴晿歆€ 氇豁暊 瓿犽鞚?鞛堨柎 氤挫棳鞖擻n\n[Chorus]\n鞎勲雼れ毚 攴鸽寑 毵堨潓鞚刓n雸勱皜 雼れ箻瓴?頄堧倶鞖擻n雮搓皜 雼?霌れ柎欷勱矊鞖擻n鞚挫牋 雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寑 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻nMy love\n\n[Verse 2]\n甏滌爱鞚€ 觳?鞎犾崹 鞗冹 鞎婌晞霃?霃检殧\n雮橂姅 攴胳爛 攴鸽寑 毵堨潓鞚刓n鞙勲頃橁碃 鞁鹅\n雼るジ 鞚橂 鞐嗢澊\n攴鸽寑毳?鞙勴暣 鞝€ 雼潉 靹犽頃橁碃 鞁鹅柎鞖擻n\n[Chorus]\n靹る牁鞚挫棳鞖擻n攴鸽寛 鞙勴暅 瓯办\n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寑 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻n雮?靷瀾鞚?欷勱矊鞖擻n\n[Bridge]\n雮搓皜 毵庫澊 靷瀾頃挫殧\n\n[Chorus]\n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寑 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻n雮?靷瀾鞚?欷勱矊鞖擻n雮搓皜 毵庫澊 靷瀾頃挫殧\n攴?雸勱惮霃?頃勳殧 鞐嗢\n攴胳爛 雮橂ゼ 氚旊澕氪?欷€\n攴鸽寑 雮橃潣 靹犽鞚挫\n鞚挫牋 氇半灅 鞎勴寣頃橃 毵愱碃\n雮搓矊 韯胳柎雴旍殧\n氇摖 瓯?欷勱矊鞖擻nMy love\n氇摖 瓯?欷勱矊鞖擻nMy love"
 			],
 			"inputs":[
 				{
 					"shape":7,
 					"name":"anything",
 					"link":24,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -1533,7 +1533,7 @@
 					"shape":7,
 					"name":"anything",
 					"link":1,
-					"label":"输入任何",
+					"label":"杈撳叆浠讳綍",
 					"type":"*",
 					"localized_name":"anything"
 				}
@@ -1573,7 +1573,7 @@
 					"link":28,
 					"label":"audio",
 					"type":"AUDIO",
-					"localized_name":"音频"
+					"localized_name":"闊抽"
 				},
 				{
 					"widget":{
@@ -1582,7 +1582,7 @@
 					"name":"filename_prefix",
 					"label":"filename_prefix",
 					"type":"STRING",
-					"localized_name":"文件名前缀"
+					"localized_name":"鏂囦欢鍚嶅墠缂€"
 				},
 				{
 					"widget":{
@@ -1591,7 +1591,7 @@
 					"name":"audioUI",
 					"label":"audioUI",
 					"type":"AUDIO_UI",
-					"localized_name":"音频UI"
+					"localized_name":"闊抽UI"
 				}
 			],
 			"flags":{
@@ -1636,7 +1636,7 @@
 				
 			},
 			"id":1,
-			"title":"B站、Youtube：T8star-Aix",
+			"title":"B绔欍€乊outube锛歍8star-Aix",
 			"bounding":[
 				587.9530639648438,
 				902.3822631835938,

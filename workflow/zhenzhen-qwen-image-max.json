@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "7de71541-002e-4e21-b667-8129824b466e",
   "revision": 0,
   "last_node_id": 13,
@@ -280,7 +280,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "性价比最高的好用聚合API（贞贞的AI工坊）：https://ai.t8star.cn/register?aff=cbff0534884\n\n首次注册送0.2刀，新版UI每日登录签到领更多！\n\n注册后，左侧有令牌，创建一个default分组的令牌，然后复制API到节点API KEY部分"
+        "鎬т环姣旀渶楂樼殑濂界敤鑱氬悎API锛堣礊璐炵殑AI宸ュ潑锛夛細https://zaiduyu.top/register?aff=cbff0534884\n\n棣栨娉ㄥ唽閫?.2鍒€锛屾柊鐗圲I姣忔棩鐧诲綍绛惧埌棰嗘洿澶氾紒\n\n娉ㄥ唽鍚庯紝宸︿晶鏈変护鐗岋紝鍒涘缓涓€涓猟efault鍒嗙粍鐨勪护鐗岋紝鐒跺悗澶嶅埗API鍒拌妭鐐笰PI KEY閮ㄥ垎"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -310,12 +310,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -373,7 +373,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         619.2169189453125,
         -282.0190124511719,

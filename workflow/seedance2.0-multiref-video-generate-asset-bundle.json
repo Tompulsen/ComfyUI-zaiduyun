@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "019efec8-f788-4b9d-afeb-881f5f59a9ef",
   "revision": 0,
   "last_node_id": 29,
@@ -72,7 +72,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "未标题-1.jpg",
+        "鏈爣棰?1.jpg",
         "image"
       ]
     },
@@ -178,13 +178,13 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0_Asset"
       },
       "widgets_values": [
         "",
-        "音频"
+        "闊抽"
       ]
     },
     {
@@ -257,7 +257,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "语音参考上传音频的四川话\n视觉基调：霓虹暗调酒吧、全息打碟机、蓝色声波可视化特效。\n角色设定：\n\n女主：银色机能风反光夹克、高马尾、脖子上挂着发光电竞耳机。\n卡通T8：@image2，头上戴着极具反差感的巨大DJ监听耳机。\n\n镜头设计：\n\n镜1 (0-3s)[近景] 霓虹打碟台前，女主猛地推高全息音量推子，巨大的蓝色声波向四周炸开，她兴奋地回头。\n语音：“哎哟喂，这次感觉真厉害了，”\n\n镜2 (3-6s)[中景] 全息屏幕上不断闪过各种开源AI音乐模型的Logo，背景里虚空投影出T8。\n语音：“虽然每次开源模型都号称对标suno，”"
+        "璇煶鍙傝€冧笂浼犻煶棰戠殑鍥涘窛璇漒n瑙嗚鍩鸿皟锛氶湏铏规殫璋冮厭鍚с€佸叏鎭墦纰熸満銆佽摑鑹插０娉㈠彲瑙嗗寲鐗规晥銆俓n瑙掕壊璁惧畾锛歕n\n濂充富锛氶摱鑹叉満鑳介鍙嶅厜澶瑰厠銆侀珮椹熬銆佽剸瀛愪笂鎸傜潃鍙戝厜鐢电珵鑰虫満銆俓n鍗￠€歍8锛欯image2锛屽ご涓婃埓鐫€鏋佸叿鍙嶅樊鎰熺殑宸ㄥぇDJ鐩戝惉鑰虫満銆俓n\n闀滃ご璁捐锛歕n\n闀? (0-3s)[杩戞櫙] 闇撹櫣鎵撶鍙板墠锛屽コ涓荤寷鍦版帹楂樺叏鎭煶閲忔帹瀛愶紝宸ㄥぇ鐨勮摑鑹插０娉㈠悜鍥涘懆鐐稿紑锛屽ス鍏村鍦板洖澶淬€俓n璇煶锛氣€滃搸鍝熷杺锛岃繖娆℃劅瑙夌湡鍘夊浜嗭紝鈥漒n\n闀? (3-6s)[涓櫙] 鍏ㄦ伅灞忓箷涓婁笉鏂棯杩囧悇绉嶅紑婧怉I闊充箰妯″瀷鐨凩ogo锛岃儗鏅噷铏氱┖鎶曞奖鍑篢8銆俓n璇煶锛氣€滆櫧鐒舵瘡娆″紑婧愭ā鍨嬮兘鍙风О瀵规爣suno锛屸€?
       ]
     },
     {
@@ -323,13 +323,13 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0_Asset"
       },
       "widgets_values": [
         "",
-        "贞贞"
+        "璐炶礊"
       ]
     },
     {
@@ -506,7 +506,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0"
       },
@@ -589,7 +589,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0_Asset"
       },
@@ -662,7 +662,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_Doubao_Seedance2_0_AssetIdBundle"
       },
@@ -718,12 +718,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fb38a3255160c05e2a49ca269eae7472900e1ab4",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -846,7 +846,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube：T8star-Aix",
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
       "bounding": [
         -1244.677205475592,
         -1223.605331301856,

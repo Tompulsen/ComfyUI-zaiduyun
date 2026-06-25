@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "3c8bae95-dcfe-4ec1-8b0f-138d05bf1549",
   "revision": 0,
   "last_node_id": 26,
@@ -459,7 +459,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "运动模式low/high，低动态，高动态"
+        "杩愬姩妯″紡low/high锛屼綆鍔ㄦ€侊紝楂樺姩鎬?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -549,7 +549,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "一次生成4个， 选一个喜欢的即可"
+        "涓€娆＄敓鎴?涓紝 閫変竴涓枩娆㈢殑鍗冲彲"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -708,7 +708,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/ainewsto/Comfyui_Comfly_v2\n\n图生视频1.4元/4次基准价格"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2\n\n鍥剧敓瑙嗛1.4鍏?4娆″熀鍑嗕环鏍?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -860,12 +860,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -964,7 +964,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         344.54876708984375,
         -164.94326782226562,
@@ -977,7 +977,7 @@
     },
     {
       "id": 2,
-      "title": "这个分组不用管",
+      "title": "杩欎釜鍒嗙粍涓嶇敤绠?,
       "bounding": [
         -601.5977172851562,
         1082.252197265625,

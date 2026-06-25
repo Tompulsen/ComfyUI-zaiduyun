@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "f1da9b5d-739a-4f8b-8df0-fd27e8414cd4",
   "revision": 0,
   "last_node_id": 3240,
@@ -73,7 +73,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "**Comfly gpt-image-2 (official stable)** async: POST /v1/images/edits?async=true, GET /v1/images/tasks/{task_id}\nModel: gpt-image-2\nPrompt: 女人在跳舞\nAspect Ratio: custom\nResolution: 2k\nQuality: auto\nInput Images: 1\nOutput: png\nTask ID: 909bd1c00ef845689c611e67bf68c1e2\nImage URL: https://webstatic.aiproxy.vip/output/20260520/9208/7476a716-dfdc-4f55-95a0-8a19cb6ffa98/14a8010f-7dfa-4647-9755-855dc96b5560.png\nTotal Tokens: 6649\n"
+        "**Comfly gpt-image-2 (official stable)** async: POST /v1/images/edits?async=true, GET /v1/images/tasks/{task_id}\nModel: gpt-image-2\nPrompt: 濂充汉鍦ㄨ烦鑸瀄nAspect Ratio: custom\nResolution: 2k\nQuality: auto\nInput Images: 1\nOutput: png\nTask ID: 909bd1c00ef845689c611e67bf68c1e2\nImage URL: https://webstatic.aiproxy.vip/output/20260520/9208/7476a716-dfdc-4f55-95a0-8a19cb6ffa98/14a8010f-7dfa-4647-9755-855dc96b5560.png\nTotal Tokens: 6649\n"
       ]
     },
     {
@@ -170,7 +170,7 @@
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -330,7 +330,7 @@
         "Node name for S&R": "Comfly_gpt_image_2_official_ratio_stable"
       },
       "widgets_values": [
-        "女人在跳舞",
+        "濂充汉鍦ㄨ烦鑸?,
         "custom",
         "2k",
         "",
@@ -401,7 +401,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube：T8star-Aix",
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
       "bounding": [
         2796.2160501110034,
         3068.6896405100842,

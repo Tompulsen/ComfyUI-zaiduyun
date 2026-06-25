@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":28,
 	"nodes":[
 		{
@@ -450,7 +450,7 @@
 				752.651611328125
 			],
 			"widgets_values":[
-				"卡通"
+				"鍗￠€?
 			],
 			"inputs":[
 				{
@@ -501,7 +501,7 @@
 				751.053955078125
 			],
 			"widgets_values":[
-				"API注册：https://ai.t8star.cn/register?aff=dP7j\nT8稳定维护\n不能超过15秒，另外分辨率也要控制在927408像素内，否则会失败"
+				"API娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=dP7j\nT8绋冲畾缁存姢\n涓嶈兘瓒呰繃15绉掞紝鍙﹀鍒嗚鲸鐜囦篃瑕佹帶鍒跺湪927408鍍忕礌鍐咃紝鍚﹀垯浼氬け璐?
 			],
 			"inputs":[
 				{
@@ -531,37 +531,37 @@
 			"mode":0,
 			"outputs":[
 				{
-					"name":"fps🟦",
+					"name":"fps馃煢",
 					"links":[
 						25
 					],
-					"label":"fps🟦",
+					"label":"fps馃煢",
 					"type":"FLOAT",
-					"localized_name":"fps🟦"
+					"localized_name":"fps馃煢"
 				},
 				{
-					"name":"frame_count🟦",
-					"label":"frame_count🟦",
+					"name":"frame_count馃煢",
+					"label":"frame_count馃煢",
 					"type":"INT",
-					"localized_name":"frame_count🟦"
+					"localized_name":"frame_count馃煢"
 				},
 				{
-					"name":"duration🟦",
-					"label":"duration🟦",
+					"name":"duration馃煢",
+					"label":"duration馃煢",
 					"type":"FLOAT",
-					"localized_name":"duration🟦"
+					"localized_name":"duration馃煢"
 				},
 				{
-					"name":"width🟦",
-					"label":"width🟦",
+					"name":"width馃煢",
+					"label":"width馃煢",
 					"type":"INT",
-					"localized_name":"width🟦"
+					"localized_name":"width馃煢"
 				},
 				{
-					"name":"height🟦",
-					"label":"height🟦",
+					"name":"height馃煢",
+					"label":"height馃煢",
 					"type":"INT",
-					"localized_name":"height🟦"
+					"localized_name":"height馃煢"
 				}
 			],
 			"size":[
@@ -1085,7 +1085,7 @@
 				573.646728515625
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -1161,7 +1161,7 @@
 				
 			},
 			"id":1,
-			"title":"B站、Youtube：T8star-Aix",
+			"title":"B绔欍€乊outube锛歍8star-Aix",
 			"bounding":[
 				-242.50389099121094,
 				-343.35589599609375,
@@ -1176,7 +1176,7 @@
 				
 			},
 			"id":2,
-			"title":"这组不要管",
+			"title":"杩欑粍涓嶈绠?,
 			"bounding":[
 				566.80810546875,
 				1501.52587890625,

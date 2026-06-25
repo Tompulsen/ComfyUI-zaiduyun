@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "f1da9b5d-739a-4f8b-8df0-fd27e8414cd4",
   "revision": 0,
   "last_node_id": 3207,
@@ -69,7 +69,7 @@
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-6wH80OCED0kIzs2wSCb8shtH7UmcetquKYMStSiGp7eQCgsB",
         "",
         false
@@ -145,7 +145,7 @@
         "Node name for S&R": "Comfly_veo3_1_fal"
       },
       "widgets_values": [
-        "一个美丽的女人拿着这个包做展示",
+        "涓€涓編涓界殑濂充汉鎷跨潃杩欎釜鍖呭仛灞曠ず",
         "",
         "16:9",
         "8s",
@@ -308,7 +308,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube：T8star-Aix",
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
       "bounding": [
         2796.2160501110034,
         3068.6896405100842,

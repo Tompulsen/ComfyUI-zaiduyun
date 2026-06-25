@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 140,
@@ -29,12 +29,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false
@@ -259,12 +259,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_mai_image_2_5_edit_fal"
       },
       "widgets_values": [
-        "把包设计成一张奢侈品海报",
+        "鎶婂寘璁捐鎴愪竴寮犲ア渚堝搧娴锋姤",
         "",
         "",
         1,

@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":9,
 	"nodes":[
 		{
@@ -488,7 +488,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"https://ai.t8star.cn/register?aff=cbff0534884 获取API地址\n角色创建0.01积分\n\n注册送0.2，每日签到也送\n\n生成的usename保存下来，后续就可以直接@使用了，支持多角色\n\nURL部分需要用图床，但是不是每个图床都支持，最好的办法， 先用我们的API生成一个SORA2视频，他会有个MP4地址\n\n比如：https://midjourney-plus.oss-us-west-1.aliyuncs.com/sora/39cf59c1-354f-4ba3-88d6-5abebc14c0b8.mp4\n\n让后复制下即可，就能获得新的USERNAME"
+				"https://zaiduyu.top/register?aff=cbff0534884 鑾峰彇API鍦板潃\n瑙掕壊鍒涘缓0.01绉垎\n\n娉ㄥ唽閫?.2锛屾瘡鏃ョ鍒颁篃閫乗n\n鐢熸垚鐨剈sename淇濆瓨涓嬫潵锛屽悗缁氨鍙互鐩存帴@浣跨敤浜嗭紝鏀寔澶氳鑹瞈n\nURL閮ㄥ垎闇€瑕佺敤鍥惧簥锛屼絾鏄笉鏄瘡涓浘搴婇兘鏀寔锛屾渶濂界殑鍔炴硶锛?鍏堢敤鎴戜滑鐨凙PI鐢熸垚涓€涓猄ORA2瑙嗛锛屼粬浼氭湁涓狹P4鍦板潃\n\n姣斿锛歨ttps://midjourney-plus.oss-us-west-1.aliyuncs.com/sora/39cf59c1-354f-4ba3-88d6-5abebc14c0b8.mp4\n\n璁╁悗澶嶅埗涓嬪嵆鍙紝灏辫兘鑾峰緱鏂扮殑USERNAME"
 			],
 			"inputs":[
 				
@@ -589,7 +589,7 @@
 				239.89669799804688
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -642,7 +642,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"timestamps代表获取URL视频的其中几秒中的角色，1,3意思就是1-3秒，以此类推"
+				"timestamps浠ｈ〃鑾峰彇URL瑙嗛鐨勫叾涓嚑绉掍腑鐨勮鑹诧紝1,3鎰忔€濆氨鏄?-3绉掞紝浠ユ绫绘帹"
 			],
 			"inputs":[
 				
@@ -750,7 +750,7 @@
 				
 			},
 			"id":1,
-			"title":"B站、Youtube：T8star-Aix",
+			"title":"B绔欍€乊outube锛歍8star-Aix",
 			"bounding":[
 				-1190.4468994140625,
 				-843.2678833007812,
@@ -765,7 +765,7 @@
 				
 			},
 			"id":2,
-			"title":"这个组不要管",
+			"title":"杩欎釜缁勪笉瑕佺",
 			"bounding":[
 				83.12088012695312,
 				617.760986328125,

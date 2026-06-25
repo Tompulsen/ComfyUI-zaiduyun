@@ -494,7 +494,7 @@ class Comfly_gpt_image_2:
     RETURN_TYPES = ("IMAGE", "STRING", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls", "chats")
     FUNCTION = "generate"
-    CATEGORY = "zhenzhen/Openai"
+    CATEGORY = "Zaiduyu/Openai"
 
     IMAGE_SIZES = ["auto (不传size)", "1K", "2K", "4K", "custom_WxH (自定义尺寸)"]
     ASPECT_RATIOS = [

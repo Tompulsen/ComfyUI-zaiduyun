@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "88ac5dad-efd7-40bb-84fe-fbaefdee1fa9",
   "revision": 0,
   "last_node_id": 151,
@@ -223,7 +223,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fedcac59d42f4bb62f14dcd1a6b2b16aed870596",
         "Node name for S&R": "Comfly_Googel_Veo3_Lite"
       },
@@ -312,7 +312,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "女人拿着包展示商品"
+        "濂充汉鎷跨潃鍖呭睍绀哄晢鍝?
       ]
     },
     {
@@ -340,12 +340,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fedcac59d42f4bb62f14dcd1a6b2b16aed870596",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -368,7 +368,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "令牌分组：\nveo&grok-备用1\n0.8积分/8秒\n\n仅该分组支持veo3.1-lite模型"
+        "浠ょ墝鍒嗙粍锛歕nveo&grok-澶囩敤1\n0.8绉垎/8绉抃n\n浠呰鍒嗙粍鏀寔veo3.1-lite妯″瀷"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -435,7 +435,7 @@
   "groups": [
     {
       "id": 7,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -298.48902671472337,
         -117.99214206468653,

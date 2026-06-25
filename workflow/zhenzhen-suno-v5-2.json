@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "29ef93d4-b560-42b6-a8cf-39338bfbb1d6",
   "revision": 0,
   "last_node_id": 17,
@@ -49,7 +49,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "简单描写要生成的歌曲"
+        "绠€鍗曟弿鍐欒鐢熸垚鐨勬瓕鏇?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -74,7 +74,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "歌曲名字"
+        "姝屾洸鍚嶅瓧"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -116,7 +116,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "命中注定"
+        "鍛戒腑娉ㄥ畾"
       ]
     },
     {
@@ -183,7 +183,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/T8mars/Comfyui-zhenzhen"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -208,7 +208,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "歌曲风格等"
+        "姝屾洸椋庢牸绛?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -308,7 +308,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "命中注定"
+        "鍛戒腑娉ㄥ畾"
       ]
     },
     {
@@ -614,7 +614,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "[Verse]\n灯光太亮 看不清你的脸\n心跳太慢 像时间在流淌\n你的影子 在房间角落晃\n想伸手抓住 却碰不到过往\n\n[Chorus]\n你走了 留下空荡的房间\n一句话 反复回荡在耳边\n爱是否 只是一个谎言\n再说一遍 再说一遍\n\n[Verse 2]\n冷风吹过 窗帘轻轻摆动\n耳边回响 是你熟悉的梦\n我试着追 却一步步落空\n脚步太重 回忆却太轻松\n\n[Bridge]\n如果时间能倒流\n我会不放开你的手\n如果星星能诉说\n它会说我从未放手\n\n[Chorus]\n你走了 留下空荡的房间\n一句话 反复回荡在耳边\n爱是否 只是一个谎言\n再说一遍 再说一遍\n\n[Outro]\n灯光暗了 看清你的从前\n心跳停了 在梦里再遇见\n再说一遍 再说一遍\n再说一遍 让我听见"
+        "[Verse]\n鐏厜澶寒 鐪嬩笉娓呬綘鐨勮劯\n蹇冭烦澶參 鍍忔椂闂村湪娴佹穼\n浣犵殑褰卞瓙 鍦ㄦ埧闂磋钀芥檭\n鎯充几鎵嬫姄浣?鍗寸涓嶅埌杩囧線\n\n[Chorus]\n浣犺蛋浜?鐣欎笅绌鸿崱鐨勬埧闂碶n涓€鍙ヨ瘽 鍙嶅鍥炶崱鍦ㄨ€宠竟\n鐖辨槸鍚?鍙槸涓€涓皫瑷€\n鍐嶈涓€閬?鍐嶈涓€閬峔n\n[Verse 2]\n鍐烽鍚硅繃 绐楀笜杞昏交鎽嗗姩\n鑰宠竟鍥炲搷 鏄綘鐔熸倝鐨勬ⅵ\n鎴戣瘯鐫€杩?鍗翠竴姝ユ钀界┖\n鑴氭澶噸 鍥炲繂鍗村お杞绘澗\n\n[Bridge]\n濡傛灉鏃堕棿鑳藉€掓祦\n鎴戜細涓嶆斁寮€浣犵殑鎵媆n濡傛灉鏄熸槦鑳借瘔璇碶n瀹冧細璇存垜浠庢湭鏀炬墜\n\n[Chorus]\n浣犺蛋浜?鐣欎笅绌鸿崱鐨勬埧闂碶n涓€鍙ヨ瘽 鍙嶅鍥炶崱鍦ㄨ€宠竟\n鐖辨槸鍚?鍙槸涓€涓皫瑷€\n鍐嶈涓€閬?鍐嶈涓€閬峔n\n[Outro]\n鐏厜鏆椾簡 鐪嬫竻浣犵殑浠庡墠\n蹇冭烦鍋滀簡 鍦ㄦⅵ閲屽啀閬囪\n鍐嶈涓€閬?鍐嶈涓€閬峔n鍐嶈涓€閬?璁╂垜鍚"
       ]
     },
     {
@@ -642,12 +642,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -722,7 +722,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         934,
         270,

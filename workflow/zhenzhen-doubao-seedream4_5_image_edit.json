@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "242a6140-7341-49ca-876b-c01366b39b84",
   "revision": 0,
   "last_node_id": 93,
@@ -69,12 +69,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "a374cba455529175dfbe7205090b4bba15814bfe",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -153,7 +153,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "微信图片_2025-11-23_114429_310.jpg",
+        "寰俊鍥剧墖_2025-11-23_114429_310.jpg",
         "image"
       ]
     },
@@ -232,12 +232,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "a374cba455529175dfbe7205090b4bba15814bfe",
         "Node name for S&R": "Comfly_Doubao_Seedream_4_5"
       },
       "widgets_values": [
-        "男人和女人抱在一起",
+        "鐢蜂汉鍜屽コ浜烘姳鍦ㄤ竴璧?,
         "doubao-seedream-4-5-251128",
         "b64_json",
         "2K",
@@ -311,7 +311,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "api获取地址：https://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2积分，每天工作台签到送积分\n"
+        "api鑾峰彇鍦板潃锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌閫佺Н鍒哱n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -362,7 +362,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube:T8star-Aix",
+      "title": "B绔欍€乊outube:T8star-Aix",
       "bounding": [
         -3060.765399083281,
         -396.2282034264812,

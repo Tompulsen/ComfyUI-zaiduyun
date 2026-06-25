@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "fe637513-8894-41a2-a0da-fe4bcd7ff4ca",
   "revision": 0,
   "last_node_id": 5,
@@ -77,7 +77,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\"status\": \"success\", \"task_id\": \"250f3bd2-2b37-404e-a027-8c8e0bfc9876\", \"prompt\": \"小黄鸭历险记\", \"model\": \"sora-2\", \"api_model\": \"sy_8\", \"orientation\": \"portrait\", \"size\": \"small\", \"duration\": \"15s\", \"seed\": 620017122, \"video_url\": \"https://visioncoder.oss-cn-shanghai.aliyuncs.com/0cf8fcff-d834-4a5e-8a4e-074e80738ac3/7faf0ac6-8000-42ae-a9a6-4934802acfda/video.mp4\", \"thumbnail_url\": \"https://visioncoder.oss-cn-shanghai.aliyuncs.com/0cf8fcff-d834-4a5e-8a4e-074e80738ac3/7faf0ac6-8000-42ae-a9a6-4934802acfda/thumbnail.png\"}"
+        "{\"status\": \"success\", \"task_id\": \"250f3bd2-2b37-404e-a027-8c8e0bfc9876\", \"prompt\": \"灏忛粍楦巻闄╄\", \"model\": \"sora-2\", \"api_model\": \"sy_8\", \"orientation\": \"portrait\", \"size\": \"small\", \"duration\": \"15s\", \"seed\": 620017122, \"video_url\": \"https://visioncoder.oss-cn-shanghai.aliyuncs.com/0cf8fcff-d834-4a5e-8a4e-074e80738ac3/7faf0ac6-8000-42ae-a9a6-4934802acfda/video.mp4\", \"thumbnail_url\": \"https://visioncoder.oss-cn-shanghai.aliyuncs.com/0cf8fcff-d834-4a5e-8a4e-074e80738ac3/7faf0ac6-8000-42ae-a9a6-4934802acfda/thumbnail.png\"}"
       ]
     },
     {
@@ -198,12 +198,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "c25229d3f37c693eaec6397d5250a687f27a97d5",
         "Node name for S&R": "Comfly_sora2_new"
       },
       "widgets_values": [
-        "小黄鸭历险记",
+        "灏忛粍楦巻闄╄",
         "sora-2",
         "portrait",
         "small",

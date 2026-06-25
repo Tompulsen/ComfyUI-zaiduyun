@@ -1,6 +1,6 @@
 # Comfyui-ZhiXiapi
 
-ComfyUI custom node package for **ZhiXiapi** (ai.t8star.org), providing GPT Image 2 generation nodes.
+ComfyUI custom node package for **ZhiXiapi** (zaiduyu.top), providing GPT Image 2 generation nodes.
 
 ## Requirements
 
@@ -21,12 +21,12 @@ Most dependencies are bundled with ComfyUI; no extra install usually needed.
 
 ```bash
 cd ComfyUI/custom_nodes/
-git clone https://github.com/T8mars/Comfyui-zhenzhen.git Comfyui-ZhiXiapi
+git clone https://github.com/Tompulsen/ComfyUI-zaiduyun.git Comfyui-ZhiXiapi
 cd Comfyui-ZhiXiapi
 pip install -r requirements.txt
 ```
 
-Restart ComfyUI and search for `zhixiapi` or `zhenzhen`.
+Restart ComfyUI and search for `zhixiapi` or `zaiduyun`.
 
 ## Nodes
 
@@ -38,8 +38,8 @@ Restart ComfyUI and search for `zhixiapi` or `zhenzhen`.
 
 | Parameter | Description |
 |-----------|-------------|
-| `api_key` | API key from ai.t8star.org |
-| `api_base` | API endpoint (default: `https://ai.t8star.org`) |
+| `api_key` | API key from zaiduyu.top |
+| `api_base` | API endpoint (default: `https://zaiduyu.top`) |
 | `model` | Model name (default: `gpt-image-2`) |
 | `timeout_seconds` | Request timeout (60-1800s) |
 | `retry_times` | Retry count (1-10) |
@@ -64,14 +64,9 @@ Restart ComfyUI and search for `zhixiapi` or `zhenzhen`.
 
 ## Online Workflows
 
-- Overseas: https://www.runninghub.ai/?inviteCode=rh-v1121
-- Domestic: https://www.runninghub.cn/?inviteCode=rh-v1121
+- Overseas: https://www.runninghub.cn/?inviteCode=ctafknae
+- Domestic: https://www.runninghub.cn/?inviteCode=ctafknae
 
-## Tutorials
-
-- Site usage: https://ai.t8star.org/about
-- API tutorial: https://ai.t8star.org/api-set
-- YouTube: https://www.youtube.com/playlist?list=PLNYA7C10cIXdrKL7TZnMSVjoyMtKADQlh
 
 ## License
 

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "574aabb5-a67d-4c82-98da-672112a73146",
   "revision": 0,
   "last_node_id": 15,
@@ -25,7 +25,7 @@
         "theme": "one_dark"
       },
       "widgets_values": [
-        "<div class=\"startPage\">\n  <div class=\"hoverContainer\">\n    <a href=\"https://aix.studio\">\n      <span class=\"size-smallButton style-input\">🗃️ AIX官网</span>\n    </a>\n    <a href=\"https://t.zsxq.com/7F90A\">\n      <span class=\"size-smallButton style-input\">🪲 知识星球</span>\n    </a>\n    <a href=\"https://space.bilibili.com/385085361\">\n      <span class=\"size-smallButton style-input\">☕ B站首页</span>\n    </a>\n  </div>\n</div>"
+        "<div class=\"startPage\">\n  <div class=\"hoverContainer\">\n    <a href=\"https://aix.studio\">\n      <span class=\"size-smallButton style-input\">馃梼锔?AIX瀹樼綉</span>\n    </a>\n    <a href=\"https://t.zsxq.com/7F90A\">\n      <span class=\"size-smallButton style-input\">馃 鐭ヨ瘑鏄熺悆</span>\n    </a>\n    <a href=\"https://space.bilibili.com/385085361\">\n      <span class=\"size-smallButton style-input\">鈽?B绔欓椤?/span>\n    </a>\n  </div>\n</div>"
       ],
       "color": "#3a3a3a",
       "bgcolor": "#262626",
@@ -127,7 +127,7 @@
         }
       },
       "widgets_values": [
-        "**User**: Edit image with prompt: '让图片1的人物和图2的人物站在一起'\n\n**AI**: Generated 1 edited image(s) using model gpt-image-1.\n\n---"
+        "**User**: Edit image with prompt: '璁╁浘鐗?鐨勪汉鐗╁拰鍥?鐨勪汉鐗╃珯鍦ㄤ竴璧?\n\n**AI**: Generated 1 edited image(s) using model gpt-image-1.\n\n---"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -431,7 +431,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "API注册地址：https://ai.t8star.cn/\n注册送0.2美元\n本节点用的是官方API，LOW模式下每张图大概0.06元左右，HIGH模式就很贵了要几毛钱\n好处是非常稳定，速度快，平均30-40S出图，如果之前反代模式出问题了，又急用，可以用这个\n注意！这个令牌分组需要创建或者改成SSVIP，之前的是default，SSVIP用的是官方的API，Default用的是反代模式！节点也不一样！\n如果不会看下本期教程：https://www.bilibili.com/video/BV1QWGhznEAt/"
+        "API娉ㄥ唽鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n鏈妭鐐圭敤鐨勬槸瀹樻柟API锛孡OW妯″紡涓嬫瘡寮犲浘澶ф0.06鍏冨乏鍙筹紝HIGH妯″紡灏卞緢璐典簡瑕佸嚑姣涢挶\n濂藉鏄潪甯哥ǔ瀹氾紝閫熷害蹇紝骞冲潎30-40S鍑哄浘锛屽鏋滀箣鍓嶅弽浠ｆā寮忓嚭闂浜嗭紝鍙堟€ョ敤锛屽彲浠ョ敤杩欎釜\n娉ㄦ剰锛佽繖涓护鐗屽垎缁勯渶瑕佸垱寤烘垨鑰呮敼鎴怱SVIP锛屼箣鍓嶇殑鏄痙efault锛孲SVIP鐢ㄧ殑鏄畼鏂圭殑API锛孌efault鐢ㄧ殑鏄弽浠ｆā寮忥紒鑺傜偣涔熶笉涓€鏍凤紒\n濡傛灉涓嶄細鐪嬩笅鏈湡鏁欑▼锛歨ttps://www.bilibili.com/video/BV1QWGhznEAt/"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -508,7 +508,7 @@
         }
       },
       "widgets_values": [
-        "让图片1的人物和图2的人物站在一起",
+        "璁╁浘鐗?鐨勪汉鐗╁拰鍥?鐨勪汉鐗╃珯鍦ㄤ竴璧?,
         "",
         "gpt-image-1",
         1,
@@ -544,7 +544,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "主要，如果SSVIP组生成失败，把渠道改成Default组即可！！\n\n"
+        "涓昏锛屽鏋淪SVIP缁勭敓鎴愬け璐ワ紝鎶婃笭閬撴敼鎴怐efault缁勫嵆鍙紒锛乗n\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -574,12 +574,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -678,7 +678,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         45.55411911010742,
         -389.0076904296875,

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "60240853-23b3-4a6a-8699-956870f1aaf6",
   "revision": 0,
   "last_node_id": 22,
@@ -45,7 +45,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "提示词"
+        "鎻愮ず璇?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -68,7 +68,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "首帧"
+        "棣栧抚"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -97,7 +97,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/ainewsto/Comfyui_Comfly_v2"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -120,7 +120,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "关闭prompt optimizer，提示词响应会更准确，开启后会自动优化提示词"
+        "鍏抽棴prompt optimizer锛屾彁绀鸿瘝鍝嶅簲浼氭洿鍑嗙‘锛屽紑鍚悗浼氳嚜鍔ㄤ紭鍖栨彁绀鸿瘝"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -141,7 +141,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "输入任何",
+          "label": "杈撳叆浠讳綍",
           "name": "anything",
           "shape": 7,
           "type": "*",
@@ -180,7 +180,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "输入任何",
+          "label": "杈撳叆浠讳綍",
           "name": "anything",
           "shape": 7,
           "type": "*",
@@ -221,7 +221,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "模型说明：\n\nMiniMax-Hailuo-02\n新一代视频生成模型，更精准指令遵循，支持1080P、768P、512P多种分辨率视频；及6s、10s视频时长。\nT2V-01-Director\n文生视频模型（导演版），支持用户输入文本描述，进行视频生成。支持插入运镜指令，更精准控制视频镜头表现。\nI2V-01-Director\n图生视频模型（导演版），支持用户输入文本描述，及参考图片参考，进行视频生成。支持插入运镜指令，更精准控制视频镜头表现。\nI2V-01-live\n图生视频模型，本模型增强了对于卡通、漫画、手绘风格的表现。\nS2V-01\n主体参考视频生成模型，支持用户上传主体图片生成视频，生成视频，高效锁定并保持人面部特征，确保生成视频中的主体形象具有高度一致性。"
+        "妯″瀷璇存槑锛歕n\nMiniMax-Hailuo-02\n鏂颁竴浠ｈ棰戠敓鎴愭ā鍨嬶紝鏇寸簿鍑嗘寚浠ら伒寰紝鏀寔1080P銆?68P銆?12P澶氱鍒嗚鲸鐜囪棰戯紱鍙?s銆?0s瑙嗛鏃堕暱銆俓nT2V-01-Director\n鏂囩敓瑙嗛妯″瀷锛堝婕旂増锛夛紝鏀寔鐢ㄦ埛杈撳叆鏂囨湰鎻忚堪锛岃繘琛岃棰戠敓鎴愩€傛敮鎸佹彃鍏ヨ繍闀滄寚浠わ紝鏇寸簿鍑嗘帶鍒惰棰戦暅澶磋〃鐜般€俓nI2V-01-Director\n鍥剧敓瑙嗛妯″瀷锛堝婕旂増锛夛紝鏀寔鐢ㄦ埛杈撳叆鏂囨湰鎻忚堪锛屽強鍙傝€冨浘鐗囧弬鑰冿紝杩涜瑙嗛鐢熸垚銆傛敮鎸佹彃鍏ヨ繍闀滄寚浠わ紝鏇寸簿鍑嗘帶鍒惰棰戦暅澶磋〃鐜般€俓nI2V-01-live\n鍥剧敓瑙嗛妯″瀷锛屾湰妯″瀷澧炲己浜嗗浜庡崱閫氥€佹极鐢汇€佹墜缁橀鏍肩殑琛ㄧ幇銆俓nS2V-01\n涓讳綋鍙傝€冭棰戠敓鎴愭ā鍨嬶紝鏀寔鐢ㄦ埛涓婁紶涓讳綋鍥剧墖鐢熸垚瑙嗛锛岀敓鎴愯棰戯紝楂樻晥閿佸畾骞朵繚鎸佷汉闈㈤儴鐗瑰緛锛岀‘淇濈敓鎴愯棰戜腑鐨勪富浣撳舰璞″叿鏈夐珮搴︿竴鑷存€с€?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -244,7 +244,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "支持15种运镜方式（枚举值）\n（1） 左右移：[左移]、[右移]\n（2）左右摇：[左摇]、[右摇]\n（3）推拉：[推进]、[拉远]\n（4）升降：[上升]、[下降]\n（5）上下摇：[上摇]、[下摇]\n（6）变焦：[变焦推近]、[变焦拉远]\n（7）晃动：[晃动]\n（8）跟随：[跟随]\n（9）固定：[固定]\n\nlast_frame_image\n支持参数组合：\n- prompt + first_frame_image + last_frame_image\n- first_frame_image + last_frame_image\n- prompt + first_frame_image\n- first_frame_image\n- prompt + last_frame_image\n- last_frame_image\n\nsubject_referencearray\n本参数仅当model选择为S2V-01时可用。模型将依据此参数中上传的主体来生成视频。目前仅支持单主体参考（数组长度为 1）"
+        "鏀寔15绉嶈繍闀滄柟寮忥紙鏋氫妇鍊硷級\n锛?锛?宸﹀彸绉伙細[宸︾Щ]銆乕鍙崇Щ]\n锛?锛夊乏鍙虫憞锛歔宸︽憞]銆乕鍙虫憞]\n锛?锛夋帹鎷夛細[鎺ㄨ繘]銆乕鎷夎繙]\n锛?锛夊崌闄嶏細[涓婂崌]銆乕涓嬮檷]\n锛?锛変笂涓嬫憞锛歔涓婃憞]銆乕涓嬫憞]\n锛?锛夊彉鐒︼細[鍙樼劍鎺ㄨ繎]銆乕鍙樼劍鎷夎繙]\n锛?锛夋檭鍔細[鏅冨姩]\n锛?锛夎窡闅忥細[璺熼殢]\n锛?锛夊浐瀹氾細[鍥哄畾]\n\nlast_frame_image\n鏀寔鍙傛暟缁勫悎锛歕n- prompt + first_frame_image + last_frame_image\n- first_frame_image + last_frame_image\n- prompt + first_frame_image\n- first_frame_image\n- prompt + last_frame_image\n- last_frame_image\n\nsubject_referencearray\n鏈弬鏁颁粎褰搈odel閫夋嫨涓篠2V-01鏃跺彲鐢ㄣ€傛ā鍨嬪皢渚濇嵁姝ゅ弬鏁颁腑涓婁紶鐨勪富浣撴潵鐢熸垚瑙嗛銆傜洰鍓嶄粎鏀寔鍗曚富浣撳弬鑰冿紙鏁扮粍闀垮害涓?1锛?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -267,7 +267,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "尾帧"
+        "灏惧抚"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -304,7 +304,7 @@
       ],
       "outputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
@@ -312,7 +312,7 @@
           ]
         },
         {
-          "label": "遮罩",
+          "label": "閬僵",
           "name": "MASK",
           "type": "MASK"
         }
@@ -503,7 +503,7 @@
       ],
       "outputs": [
         {
-          "label": "提示词文本",
+          "label": "鎻愮ず璇嶆枃鏈?,
           "name": "prompt",
           "type": "STRING",
           "links": [
@@ -522,7 +522,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "美丽的女人转身，镜头拉远"
+        "缇庝附鐨勫コ浜鸿浆韬紝闀滃ご鎷夎繙"
       ]
     },
     {
@@ -609,13 +609,13 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set",
-        "aux_id": "T8mars/Comfyui-zhenzhen"
+        "aux_id": "T8mars/Comfyui-zaiduyun"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -674,7 +674,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -353.9808349609375,
         -424.7069396972656,

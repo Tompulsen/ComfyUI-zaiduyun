@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "60240853-23b3-4a6a-8699-956870f1aaf6",
   "revision": 0,
   "last_node_id": 34,
@@ -149,7 +149,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "04327d65c223a3d31a08c6ede3fd67d3f4859a81",
         "Node name for S&R": "Comfly_mjstyle",
         "values": [],
@@ -320,15 +320,15 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "04327d65c223a3d31a08c6ede3fd67d3f4859a81",
         "Node name for S&R": "Comfly_Mj",
         "aux_id": "ainewsto/Comfyui_Comfly_v2"
       },
       "widgets_values": [
-        "美丽的卡通女孩，--niji 7",
+        "缇庝附鐨勫崱閫氬コ瀛╋紝--niji 7",
         "fast mode",
-        "美丽的卡通女孩，--niji 7",
+        "缇庝附鐨勫崱閫氬コ瀛╋紝--niji 7",
         "",
         "1:1",
         "niji 7",
@@ -472,7 +472,7 @@
         "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        "美丽的卡通女孩，--niji 7 --niji 7 --ar 1:1 --fast"
+        "缇庝附鐨勫崱閫氬コ瀛╋紝--niji 7 --niji 7 --ar 1:1 --fast"
       ]
     },
     {
@@ -582,7 +582,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         -353.9808349609375,
         -424.7069396972656,

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "00000000-0000-0000-0000-000000000000",
   "revision": 0,
   "last_node_id": 63,
@@ -144,12 +144,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "f70fe3763e5bbe3fe3a8c8b83c07244d6bbe29f3",
         "Node name for S&R": "Comfly_sora2"
       },
       "widgets_values": [
-        "一个女人拿着这个包包进行商品讲解",
+        "涓€涓コ浜烘嬁鐫€杩欎釜鍖呭寘杩涜鍟嗗搧璁茶В",
         "sora-2-vip",
         "16:9",
         "10",
@@ -185,12 +185,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "f70fe3763e5bbe3fe3a8c8b83c07244d6bbe29f3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -213,7 +213,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "api获取地址：https://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2积分，每天工作台签到送积分\n"
+        "api鑾峰彇鍦板潃锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌閫佺Н鍒哱n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -236,7 +236,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "注意sora-2-vip模型只能10s,1.25积分每次，分组用default即可"
+        "娉ㄦ剰sora-2-vip妯″瀷鍙兘10s,1.25绉垎姣忔锛屽垎缁勭敤default鍗冲彲"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -271,7 +271,7 @@
   "groups": [
     {
       "id": 2,
-      "title": "B站、Youtube:T8star-Aix",
+      "title": "B绔欍€乊outube:T8star-Aix",
       "bounding": [
         1367.21180513937,
         649.589125816333,

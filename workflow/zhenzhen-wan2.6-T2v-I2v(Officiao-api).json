@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "9ae6082b-c7f4-433c-9971-7a8f65a3ea65",
   "revision": 0,
   "last_node_id": 97,
@@ -307,12 +307,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "561dc74e9efc674f92605ce9c60810faaff8d3be",
         "Node name for S&R": "Comfly_wan2_6_API"
       },
       "widgets_values": [
-        "美丽的女人的故事",
+        "缇庝附鐨勫コ浜虹殑鏁呬簨",
         "",
         "720P",
         15,
@@ -368,12 +368,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "561dc74e9efc674f92605ce9c60810faaff8d3be",
         "Node name for S&R": "Comfly_wan2_6_API"
       },
       "widgets_values": [
-        "美丽的女人的故事",
+        "缇庝附鐨勫コ浜虹殑鏁呬簨",
         "",
         "720P",
         15,
@@ -401,7 +401,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "注意这是官方API版，阿里云百炼的版本，贞贞的还没上，我测试用的\n\n贞贞的AI工坊\nhttps://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2积分，每天工作台签到领积分"
+        "娉ㄦ剰杩欐槸瀹樻柟API鐗堬紝闃块噷浜戠櫨鐐肩殑鐗堟湰锛岃礊璐炵殑杩樻病涓婏紝鎴戞祴璇曠敤鐨刓n\n璐炶礊鐨凙I宸ュ潑\nhttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌棰嗙Н鍒?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -468,7 +468,7 @@
   "groups": [
     {
       "id": 6,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         1741.44670626261,
         1801.8435253336504,

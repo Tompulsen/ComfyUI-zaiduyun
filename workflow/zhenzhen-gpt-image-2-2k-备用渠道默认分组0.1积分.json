@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5fa61cc8-29d9-4deb-9f90-02d3c00b63b3",
   "revision": 0,
   "last_node_id": 95,
@@ -39,7 +39,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "**Comfly gpt-image-2 (official)** async: POST /v1/images/edits?async=true, GET /v1/images/tasks/{task_id}\nModel: gpt-image-2-2K\nPrompt: 动漫海报\nAspect Ratio: 9:16\nResolution: 2k\nActual Size: 1440x2560\nQuality: medium\nInput Images: 1\nOutput: png\nTask ID: 0c32d69e07504ff3aaa486c62d82eb53\nImage URL: https://webstatic.aiproxy.vip/output/20260610/34884/ec13e25a-9216-48d4-bfd5-b8d428d83ce4.png\nTotal Tokens: 0\n"
+        "**Comfly gpt-image-2 (official)** async: POST /v1/images/edits?async=true, GET /v1/images/tasks/{task_id}\nModel: gpt-image-2-2K\nPrompt: 鍔ㄦ极娴锋姤\nAspect Ratio: 9:16\nResolution: 2k\nActual Size: 1440x2560\nQuality: medium\nInput Images: 1\nOutput: png\nTask ID: 0c32d69e07504ff3aaa486c62d82eb53\nImage URL: https://webstatic.aiproxy.vip/output/20260610/34884/ec13e25a-9216-48d4-bfd5-b8d428d83ce4.png\nTotal Tokens: 0\n"
       ]
     },
     {
@@ -232,12 +232,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_gpt_image_2_official_ratio"
       },
       "widgets_values": [
-        "动漫海报",
+        "鍔ㄦ极娴锋姤",
         "9:16",
         "2k",
         "",
@@ -354,12 +354,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false

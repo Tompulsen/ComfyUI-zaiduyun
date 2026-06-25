@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 125,
@@ -105,12 +105,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false
@@ -196,12 +196,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_recraft_v4_1_fal"
       },
       "widgets_values": [
-        "一个美丽的女人",
+        "涓€涓編涓界殑濂充汉",
         "",
         "square_hd",
         -1,

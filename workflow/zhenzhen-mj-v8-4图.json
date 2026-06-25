@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "618ac4f7-7a78-4b48-b8cd-0f2d170220c4",
   "revision": 0,
   "last_node_id": 16,
@@ -61,7 +61,7 @@
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         "",
         false
@@ -187,7 +187,7 @@
         "Node name for S&R": "Comfly_Mj"
       },
       "widgets_values": [
-        "一个可爱的女人",
+        "涓€涓彲鐖辩殑濂充汉",
         "fast mode",
         "",
         "",

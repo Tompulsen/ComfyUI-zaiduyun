@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "ebed8081-b61f-4799-b015-f2238977c307",
   "revision": 0,
   "last_node_id": 6,
@@ -145,7 +145,7 @@
         "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        "**User prompt**: 把背景换成海洋背景\n\n**Response** (2025-03-25 13:22:18):\n![Image_0](https://oss.ffire.cc/cdn/2025-03-25/gSQ8bUrVtykXaKsTzsUxve.png)"
+        "**User prompt**: 鎶婅儗鏅崲鎴愭捣娲嬭儗鏅痋n\n**Response** (2025-03-25 13:22:18):\n![Image_0](https://oss.ffire.cc/cdn/2025-03-25/gSQ8bUrVtykXaKsTzsUxve.png)"
       ]
     },
     {
@@ -223,7 +223,7 @@
         "Node name for S&R": "ComflyGeminiAPI"
       },
       "widgets_values": [
-        "把背景换成海洋背景",
+        "鎶婅儗鏅崲鎴愭捣娲嬭儗鏅?,
         "gemini-2.0-flash-exp-image",
         "object_image size",
         1,
@@ -260,12 +260,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]

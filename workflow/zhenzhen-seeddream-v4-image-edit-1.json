@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "6d15a653-5259-4548-a3bf-7c7d2a208f92",
   "revision": 0,
   "last_node_id": 13,
@@ -20,7 +20,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "link": 10
@@ -61,13 +61,13 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像_1",
+          "label": "鍥惧儚_1",
           "name": "image1",
           "type": "IMAGE",
           "link": 7
         },
         {
-          "label": "图像_2",
+          "label": "鍥惧儚_2",
           "name": "image2",
           "type": "IMAGE",
           "link": 11
@@ -91,7 +91,7 @@
       ],
       "outputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
@@ -126,7 +126,7 @@
       "mode": 0,
       "inputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "images",
           "type": "IMAGE",
           "link": 6
@@ -171,7 +171,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "\nAPI申请地址：https://ai.t8star.cn/\n注册送0.2美元，每日签到送签\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/T8mars/Comfyui-zhenzhen\n\n即梦4.0基准价格0.1\n\n"
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓锛屾瘡鏃ョ鍒伴€佺\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun\n\n鍗虫ⅵ4.0鍩哄噯浠锋牸0.1\n\n"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -221,7 +221,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "文字"
+        "鏂囧瓧"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -260,7 +260,7 @@
       ],
       "outputs": [
         {
-          "label": "图像",
+          "label": "鍥惧儚",
           "name": "IMAGE",
           "type": "IMAGE",
           "links": [
@@ -269,7 +269,7 @@
           ]
         },
         {
-          "label": "遮罩",
+          "label": "閬僵",
           "name": "MASK",
           "type": "MASK"
         }
@@ -518,7 +518,7 @@
       ],
       "outputs": [
         {
-          "label": "提示词文本",
+          "label": "鎻愮ず璇嶆枃鏈?,
           "name": "prompt",
           "type": "STRING",
           "links": [
@@ -538,7 +538,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "女人衣服变成粉色"
+        "濂充汉琛ｆ湇鍙樻垚绮夎壊"
       ]
     },
     {
@@ -604,12 +604,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -684,7 +684,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站、Youtube：T8star-Aix",
+      "title": "B绔欍€乊outube锛歍8star-Aix",
       "bounding": [
         475.075439453125,
         -101.74717712402344,

@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":8,
 	"nodes":[
 		{
@@ -143,7 +143,7 @@
 			],
 			"color":"#432",
 			"widgets_values":[
-				"\nAPI申请地址：https://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2美元\n\n注册后，点击左侧令牌，创建令牌，用Default分组，不要用跟随用户分组！！\n然后复制API到APIKEY即可\n\n如需本地使用，请安装节点：https://github.com/T8mars/Comfyui-zhenzhen"
+				"\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
 			],
 			"inputs":[
 				
@@ -278,7 +278,7 @@
 				940.5016479492188
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -482,7 +482,7 @@
 				254
 			],
 			"widgets_values":[
-				"图1的女人 拿着图2的图案的亚克力立牌，背景是教室",
+				"鍥?鐨勫コ浜?鎷跨潃鍥?鐨勫浘妗堢殑浜氬厠鍔涚珛鐗岋紝鑳屾櫙鏄暀瀹?,
 				"viduq2",
 				"",
 				false,
@@ -787,7 +787,7 @@
 				1150.9476318359375
 			],
 			"widgets_values":[
-				"图1的女人 拿着图2的图案的亚克力立牌，背景是教室"
+				"鍥?鐨勫コ浜?鎷跨潃鍥?鐨勫浘妗堢殑浜氬厠鍔涚珛鐗岋紝鑳屾櫙鏄暀瀹?
 			],
 			"inputs":[
 				{
@@ -842,7 +842,7 @@
 				
 			},
 			"id":2,
-			"title":"B站、Youtube：T8star-Aix",
+			"title":"B绔欍€乊outube锛歍8star-Aix",
 			"bounding":[
 				-52.409027099609375,
 				-539.4598388671875,

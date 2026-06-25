@@ -852,7 +852,7 @@ class Comfly_ideogram_v4_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, api_key="", image_size="square_hd", rendering_speed="BALANCED",
                 acceleration="none", num_images=1, seed=0, output_format="jpeg",
@@ -893,7 +893,7 @@ class Comfly_mai_image_2_5_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, api_key="", aspect_ratio="auto", num_images=1, output_format="png",
                 poll_interval=6, max_poll_attempts=600, skip_error=False):
@@ -935,7 +935,7 @@ class Comfly_cosmos_3_super_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("images", "video", "response", "url")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def _image_size_value(self, image_size):
@@ -1027,7 +1027,7 @@ class Comfly_hyper3d_rodin_v2_5_fal(ComflyFalBase):
     RETURN_TYPES = ("STRING", "STRING", "STRING", "FILE_3D")
     RETURN_NAMES = ("model_url", "response", "texture_urls", "model_3d")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, mode="text_to_3d", image1=None, image2=None, image_url1="", image_url2="",
                 api_key="", tier="Gen-2.5-Extreme-Low", geometry_file_format="glb",
@@ -1107,7 +1107,7 @@ class Comfly_krea_v2_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, model_size="medium", style_image1=None, style_image2=None,
                 style_image_url1="", style_image_url2="", api_key="", aspect_ratio="1:1",
@@ -1169,7 +1169,7 @@ class Comfly_flux_pro_vto_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, human_image=None, garment_image=None, human_image_url="", garment_image_url="",
                 api_key="", num_inference_steps=4, output_format="jpeg", seed=0, image_way="base64",
@@ -1235,7 +1235,7 @@ class Comfly_heygen_avatar5_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, api_key="", avatar=HEYGEN_AVATAR5_SERVER_DEFAULT, custom_avatar="",
@@ -1314,7 +1314,7 @@ class Comfly_heygen_avatar4_i2v_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, image=None, image_url="", api_key="", audio=None, audio_url="",
@@ -1396,7 +1396,7 @@ class Comfly_recraft_v4_1_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def parse_colors(self, palette_colors):
         colors = []
@@ -1479,7 +1479,7 @@ class Comfly_topaz_upscale_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("image", "video", "response", "url")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def _add_optional_float(self, payload, key, value):
@@ -1597,7 +1597,7 @@ class Comfly_sonilo_video_to_music_fal(ComflyFalBase):
     RETURN_TYPES = ("AUDIO", "STRING", "STRING", "STRING")
     RETURN_NAMES = ("audio", "audio_url", "all_audio_urls", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, video_url="", video=None, api_key="", prompt="", num_samples=1,
@@ -1660,7 +1660,7 @@ class Comfly_mai_image_2_5_edit_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def _parse_url_lines(self, image_urls):
         urls = []
@@ -1742,7 +1742,7 @@ class Comfly_seed_speech_tts_v2_fal(ComflyFalBase):
     RETURN_TYPES = ("AUDIO", "STRING", "STRING")
     RETURN_NAMES = ("audio", "audio_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, text, api_key="", voice="stokie_en", output_format="mp3", sample_rate="24000",
@@ -1810,7 +1810,7 @@ class Comfly_minimax_speech_2_8_fal(ComflyFalBase):
     RETURN_TYPES = ("AUDIO", "STRING", "STRING")
     RETURN_NAMES = ("audio", "audio_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, model_quality="turbo", api_key="", voice_id="Wise_Woman",
@@ -1878,7 +1878,7 @@ class Comfly_lyria2_fal(ComflyFalBase):
     RETURN_TYPES = ("AUDIO", "STRING", "STRING")
     RETURN_NAMES = ("audio", "audio_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, api_key="", negative_prompt="low quality", seed=0,
@@ -1936,7 +1936,7 @@ class Comfly_bria_fibo_edit_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, instruction, image=None, mask=None, image_url="", mask_url="", api_key="",
                 seed=5555, steps_num=30, negative_prompt="", guidance_scale=5.0, sync_mode=False,
@@ -2000,7 +2000,7 @@ class Comfly_grok_video_tools_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, mode="edit_video", video=None, video_url="", api_key="",
@@ -2062,7 +2062,7 @@ class Comfly_pixverse_v6_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, image=None, image_url="", api_key="", resolution="720p",
@@ -2132,7 +2132,7 @@ class Comfly_creatify_aurora_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, image_url="", audio_url="", image=None, audio=None, api_key="",
@@ -2192,7 +2192,7 @@ class Comfly_veed_fabric_1_0_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, image_url="", audio_url="", image=None, audio=None, api_key="",
@@ -2251,7 +2251,7 @@ class Comfly_hunyuan_3d_v3_1_pro_fal(ComflyFalBase):
     RETURN_TYPES = ("STRING", "STRING", "STRING", "FILE_3D")
     RETURN_NAMES = ("model_url", "response", "asset_urls", "model_3d")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, mode="text_to_3d", front_image=None, back_image=None, left_image=None,
                 right_image=None, front_image_url="", back_image_url="", left_image_url="",
@@ -2325,7 +2325,7 @@ class Comfly_trellis_2_fal(ComflyFalBase):
     RETURN_TYPES = ("STRING", "STRING", "STRING", "FILE_3D")
     RETURN_NAMES = ("model_url", "response", "asset_urls", "model_3d")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, image_url="", image1=None, image2=None, image3=None, api_key="",
                 seed=0, resolution="1024", ss_sampling_steps=12, shape_slat_sampling_steps=12,
@@ -2416,7 +2416,7 @@ class Comfly_bernini_r_video_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, mode="reference_to_video", video=None, video_url="", reference_image1=None,
@@ -2519,7 +2519,7 @@ class Comfly_bernini_r_edit_image_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, image=None, image_url="", api_key="", negative_prompt="",
                 max_image_size=848, num_inference_steps=30, enable_prompt_expansion=False,
@@ -2594,7 +2594,7 @@ class Comfly_luma_ray_v3_2_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, mode="text_to_video", image=None, end_image=None,
@@ -2700,7 +2700,7 @@ class Comfly_luma_uni_1_v1_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, mode="text_to_image", image=None, reference_image1=None,
                 reference_image2=None, reference_image3=None, reference_image4=None,
@@ -2784,7 +2784,7 @@ class Comfly_bria_video_background_removal_v3_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, video_url="", video=None, api_key="", background_color="Black",
@@ -2847,7 +2847,7 @@ class Comfly_nemotron_asr_multilingual_fal(ComflyFalBase):
     RETURN_TYPES = ("STRING", "STRING")
     RETURN_NAMES = ("transcript", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, audio_url="", audio=None, api_key="", language="auto", acceleration="regular",
                 audio_way="upload", poll_interval=6, max_poll_attempts=600, skip_error=False):
@@ -2898,7 +2898,7 @@ class Comfly_bria_genfill_v2_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, instruction, image=None, mask=None, image_url="", mask_url="", api_key="",
                 seed=5555, steps_num=30, sync_mode=False, image_way="base64",
@@ -2969,7 +2969,7 @@ class Comfly_luma_ray_v3_2_video_to_video_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, video=None, video_url="", start_image=None, start_image_url="",
@@ -3053,7 +3053,7 @@ class Comfly_pixelcut_video_background_removal_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, video_url="", video=None, api_key="", background="transparent",
@@ -3112,7 +3112,7 @@ class Comfly_sensenova_u1_infographic_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def process(self, prompt, api_key="", aspect_ratio="16:9", use_thinking=False,
                 guidance_scale=4.0, num_inference_steps=50, timestep_shift=3.0,
@@ -3167,7 +3167,7 @@ class Comfly_kling_video_v3_turbo_fal(ComflyFalBase):
     RETURN_TYPES = (IO.VIDEO, "STRING", "STRING")
     RETURN_NAMES = ("video", "video_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, prompt, mode="text_to_video", quality="standard", image=None,
@@ -3244,7 +3244,7 @@ class Comfly_zonos2_fal(ComflyFalBase):
     RETURN_TYPES = ("AUDIO", "STRING", "STRING")
     RETURN_NAMES = ("audio", "audio_url", "response")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
     OUTPUT_NODE = True
 
     def process(self, text, reference_audio=None, reference_audio_url="", api_key="",
@@ -3328,7 +3328,7 @@ class Comfly_boogu_image_fal(ComflyFalBase):
     RETURN_TYPES = ("IMAGE", "STRING", "STRING")
     RETURN_NAMES = ("images", "response", "image_urls")
     FUNCTION = "process"
-    CATEGORY = "zhenzhen/FAL"
+    CATEGORY = "Zaiduyu/FAL"
 
     def _image_size_payload(self, image_size, width, height):
         if image_size == "custom":

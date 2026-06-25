@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "659fabf1-c9a6-4bf4-a0cd-c2d6b1cdfdae",
   "revision": 0,
   "last_node_id": 1773,
@@ -199,7 +199,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "令牌分组：\nveo&grok-备用1\n只支持720P 时长可以6-30秒\nveo&grok-备用2\n\n支持720和1080P\n时长只能10秒和15秒"
+        "浠ょ墝鍒嗙粍锛歕nveo&grok-澶囩敤1\n鍙敮鎸?20P 鏃堕暱鍙互6-30绉抃nveo&grok-澶囩敤2\n\n鏀寔720鍜?080P\n鏃堕暱鍙兘10绉掑拰15绉?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -304,7 +304,7 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fedcac59d42f4bb62f14dcd1a6b2b16aed870596",
         "Node name for S&R": "ComflyGrok3VideoApi30S"
       },
@@ -354,7 +354,7 @@
         "Node name for S&R": "CR Prompt Text"
       },
       "widgets_values": [
-        "两个女人抱在一起"
+        "涓や釜濂充汉鎶卞湪涓€璧?
       ]
     },
     {
@@ -382,12 +382,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "fedcac59d42f4bb62f14dcd1a6b2b16aed870596",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -438,7 +438,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         -8697.630143187103,
         3853.751518562571,
@@ -498,7 +498,7 @@
           "max_length": 1024
         },
         "_meta": {
-          "title": "🅛🅣🅧 Gemma 3 Model Loader"
+          "title": "馃厸馃叄馃収 Gemma 3 Model Loader"
         }
       },
       "3": {
@@ -517,7 +517,7 @@
       "4": {
         "class_type": "CLIPTextEncode",
         "inputs": {
-          "text": "blurry, out of focus, overexposed, underexposed, low contrast, washed out colors, excessive noise, grainy texture, poor lighting, flickering, motion blur, distorted proportions, unnatural skin tones, deformed facial features, asymmetrical face, missing facial features, extra limbs, disfigured hands, wrong hand count, artifacts around text, unreadable text on shirt or hat, incorrect lettering on cap (“PNTR”), incorrect t-shirt slogan (“JUST DO IT”), missing microphone, misplaced microphone, inconsistent perspective, camera shake, incorrect depth of field, background too sharp, background clutter, distracting reflections, harsh shadows, inconsistent lighting direction, color banding, cartoonish rendering, 3D CGI look, unrealistic materials, uncanny valley effect, incorrect ethnicity, wrong gender, exaggerated expressions, smiling, laughing, exaggerated sadness, wrong gaze direction, eyes looking at camera, mismatched lip sync, silent or muted audio, distorted voice, robotic voice, echo, background noise, off-sync audio, missing sniff sounds, incorrect dialogue, added dialogue, repetitive speech, jittery movement, awkward pauses, incorrect timing, unnatural transitions, inconsistent framing, tilted camera, missing door or shelves, missing shallow depth of field, flat lighting, inconsistent tone, cinematic oversaturation, stylized filters, or AI artifacts.",
+          "text": "blurry, out of focus, overexposed, underexposed, low contrast, washed out colors, excessive noise, grainy texture, poor lighting, flickering, motion blur, distorted proportions, unnatural skin tones, deformed facial features, asymmetrical face, missing facial features, extra limbs, disfigured hands, wrong hand count, artifacts around text, unreadable text on shirt or hat, incorrect lettering on cap (鈥淧NTR鈥?, incorrect t-shirt slogan (鈥淛UST DO IT鈥?, missing microphone, misplaced microphone, inconsistent perspective, camera shake, incorrect depth of field, background too sharp, background clutter, distracting reflections, harsh shadows, inconsistent lighting direction, color banding, cartoonish rendering, 3D CGI look, unrealistic materials, uncanny valley effect, incorrect ethnicity, wrong gender, exaggerated expressions, smiling, laughing, exaggerated sadness, wrong gaze direction, eyes looking at camera, mismatched lip sync, silent or muted audio, distorted voice, robotic voice, echo, background noise, off-sync audio, missing sniff sounds, incorrect dialogue, added dialogue, repetitive speech, jittery movement, awkward pauses, incorrect timing, unnatural transitions, inconsistent framing, tilted camera, missing door or shelves, missing shallow depth of field, flat lighting, inconsistent tone, cinematic oversaturation, stylized filters, or AI artifacts.",
           "clip": [
             "2",
             0
@@ -584,7 +584,7 @@
           "ckpt_name": "ltx-av-step-1751000_vocoder_24K.safetensors"
         },
         "_meta": {
-          "title": "🅛🅣🅧 LTXV Audio VAE Loader"
+          "title": "馃厸馃叄馃収 LTXV Audio VAE Loader"
         }
       },
       "14": {
@@ -600,7 +600,7 @@
           ]
         },
         "_meta": {
-          "title": "🅛🅣🅧 LTXV Audio VAE Decode"
+          "title": "馃厸馃叄馃収 LTXV Audio VAE Decode"
         }
       },
       "15": {
@@ -629,7 +629,7 @@
           "pingpong": false
         },
         "_meta": {
-          "title": "Video Combine 🎥🅥🅗🅢"
+          "title": "Video Combine 馃帴馃叆馃厳馃參"
         }
       },
       "17": {
@@ -654,7 +654,7 @@
           ]
         },
         "_meta": {
-          "title": "🅛🅣🅧 Multimodal Guider"
+          "title": "馃厸馃叄馃収 Multimodal Guider"
         }
       },
       "18": {
@@ -671,7 +671,7 @@
           "modality_scale": 3
         },
         "_meta": {
-          "title": "🅛🅣🅧 Guider Parameters"
+          "title": "馃厸馃叄馃収 Guider Parameters"
         }
       },
       "19": {
@@ -684,7 +684,7 @@
           "modality_scale": 3
         },
         "_meta": {
-          "title": "🅛🅣🅧 Guider Parameters"
+          "title": "馃厸馃叄馃収 Guider Parameters"
         }
       },
       "21": {
@@ -743,7 +743,7 @@
           ]
         },
         "_meta": {
-          "title": "🅛🅣🅧 LTXV Empty Latent Audio"
+          "title": "馃厸馃叄馃収 LTXV Empty Latent Audio"
         }
       },
       "27": {
@@ -772,7 +772,7 @@
           ]
         },
         "_meta": {
-          "title": "🅛🅣🅧 LTXV Concat AV Latent"
+          "title": "馃厸馃叄馃収 LTXV Concat AV Latent"
         }
       },
       "29": {
@@ -788,7 +788,7 @@
           ]
         },
         "_meta": {
-          "title": "🅛🅣🅧 LTXV Separate AV Latent"
+          "title": "馃厸馃叄馃収 LTXV Separate AV Latent"
         }
       },
       "41": {

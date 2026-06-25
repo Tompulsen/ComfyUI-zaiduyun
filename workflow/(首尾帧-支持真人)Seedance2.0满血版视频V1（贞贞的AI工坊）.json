@@ -1,4 +1,4 @@
-{
+﻿{
 	"last_link_id":10,
 	"nodes":[
 		{
@@ -444,7 +444,7 @@
 			"id":3,
 			"type":"Comfly_Doubao_Seedance2_0",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					"apikey":true,
@@ -556,7 +556,7 @@
 				1144.0750732421875
 			],
 			"widgets_values":[
-				"变形金刚变身，从汽车变成机器人，动感音乐"
+				"鍙樺舰閲戝垰鍙樿韩锛屼粠姹借溅鍙樻垚鏈哄櫒浜猴紝鍔ㄦ劅闊充箰"
 			],
 			"inputs":[
 				{
@@ -609,7 +609,7 @@
 				1699.5462646484375
 			],
 			"widgets_values":[
-				"API注册：https://ai.t8star.cn/register?aff=dP7j\nT8稳定维护\n不能超过15秒，另外分辨率也要控制在927408像素内，否则会失败"
+				"API娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=dP7j\nT8绋冲畾缁存姢\n涓嶈兘瓒呰繃15绉掞紝鍙﹀鍒嗚鲸鐜囦篃瑕佹帶鍒跺湪927408鍍忕礌鍐咃紝鍚﹀垯浼氬け璐?
 			],
 			"inputs":[
 				{
@@ -657,7 +657,7 @@
 				1450.370361328125
 			],
 			"widgets_values":[
-				"zhenzhen",
+				"zaiduyun",
 				"",
 				""
 			],
@@ -697,7 +697,7 @@
 			"id":6,
 			"type":"Comfly_api_set",
 			"properties":{
-				"cnr_id":"zhenzhen",
+				"cnr_id":"zaiduyun",
 				"ver":"fb38a3255160c05e2a49ca269eae7472900e1ab4",
 				"widget_ue_connectable":{
 					
@@ -735,7 +735,7 @@
 				
 			},
 			"id":1,
-			"title":"B站，Youtube：T8star-Aix",
+			"title":"B绔欙紝Youtube锛歍8star-Aix",
 			"bounding":[
 				380,
 				299,

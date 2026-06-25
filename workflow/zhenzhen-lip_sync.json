@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "3287800d-753a-48f7-8c87-12aad04048aa",
   "revision": 0,
   "last_node_id": 13,
@@ -187,9 +187,9 @@
         "",
         "",
         "text2video",
-        "今天天气真好啊",
+        "浠婂ぉ澶╂皵鐪熷ソ鍟?,
         "zh",
-        "阳光少年",
+        "闃冲厜灏戝勾",
         "Sunny",
         1,
         1045320018,
@@ -312,7 +312,7 @@
         "Node name for S&R": "Comfly_kling_image2video"
       },
       "widgets_values": [
-        "小男孩面对镜头笑起来",
+        "灏忕敺瀛╅潰瀵归暅澶寸瑧璧锋潵",
         "kling-v1-6",
         0.5,
         "1:1",
@@ -425,12 +425,12 @@
         }
       ],
       "properties": {
-        "aux_id": "T8mars/Comfyui-zhenzhen",
+        "aux_id": "T8mars/Comfyui-zaiduyun",
         "ver": "adf9e0f39de29353810237fad96984456739fff3",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 129,
@@ -39,7 +39,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "<F:\\AI-T8-video-onekey\\ComfyUI\\custom_nodes\\Comfyui-zhenzhen.fal_batch_nodes.FalVideoAdapter object at 0x000001DD21EF3340>"
+        "<F:\\AI-T8-video-onekey\\ComfyUI\\custom_nodes\\Comfyui-zaiduyun.fal_batch_nodes.FalVideoAdapter object at 0x000001DD21EF3340>"
       ]
     },
     {
@@ -106,12 +106,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false
@@ -289,12 +289,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_cosmos_3_super_fal"
       },
       "widgets_values": [
-        "美丽的女人在跳足球舞",
+        "缇庝附鐨勫コ浜哄湪璺宠冻鐞冭垶",
         "image_to_video",
         "",
         "",

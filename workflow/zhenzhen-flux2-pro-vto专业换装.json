@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 124,
@@ -39,7 +39,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\n  \"has_nsfw_concepts\": [\n    false\n  ],\n  \"images\": [\n    {\n      \"content_type\": \"image/jpeg\",\n      \"height\": 1024,\n      \"url\": \"https://v3b.fal.media/files/b/0a9cea72/0dqc1xjrg4yOk7-3qb7Fd_77b02242426948fcab3589f474b71295.jpg\",\n      \"width\": 576\n    }\n  ],\n  \"prompt\": \"图1的女人换上图2的衣服\",\n  \"seed\": 574973083,\n  \"timings\": {}\n}"
+        "{\n  \"has_nsfw_concepts\": [\n    false\n  ],\n  \"images\": [\n    {\n      \"content_type\": \"image/jpeg\",\n      \"height\": 1024,\n      \"url\": \"https://v3b.fal.media/files/b/0a9cea72/0dqc1xjrg4yOk7-3qb7Fd_77b02242426948fcab3589f474b71295.jpg\",\n      \"width\": 576\n    }\n  ],\n  \"prompt\": \"鍥?鐨勫コ浜烘崲涓婂浘2鐨勮。鏈峔",\n  \"seed\": 574973083,\n  \"timings\": {}\n}"
       ]
     },
     {
@@ -250,12 +250,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_flux_pro_vto_fal"
       },
       "widgets_values": [
-        "图1的女人换上图2的衣服",
+        "鍥?鐨勫コ浜烘崲涓婂浘2鐨勮。鏈?,
         "",
         "",
         "",
@@ -294,12 +294,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false

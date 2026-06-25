@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "9ae6082b-c7f4-433c-9971-7a8f65a3ea65",
   "revision": 0,
   "last_node_id": 100,
@@ -37,7 +37,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "**User**: Edit image with prompt: 女人看向左边\n\n**AI**: Generated edited image with gpt-image-1.5\n\n---"
+        "**User**: Edit image with prompt: 濂充汉鐪嬪悜宸﹁竟\n\n**AI**: Generated edited image with gpt-image-1.5\n\n---"
       ]
     },
     {
@@ -102,7 +102,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "Successfully edited 1 image(s)\nPrompt: 女人看向左边\nModel: gpt-image-1.5\nQuality: auto\n"
+        "Successfully edited 1 image(s)\nPrompt: 濂充汉鐪嬪悜宸﹁竟\nModel: gpt-image-1.5\nQuality: auto\n"
       ]
     },
     {
@@ -228,7 +228,7 @@
         "Node name for S&R": "Comfly_gpt_image_1_edit"
       },
       "widgets_values": [
-        "两个女人站在一起",
+        "涓や釜濂充汉绔欏湪涓€璧?,
         "",
         "gpt-image-1.5",
         1,
@@ -264,7 +264,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "apikey注册：https://ai.t8star.cn/register?aff=cbff0534884\n注册送0.2积分，左侧工作台每日签到领积分\n\n推荐用openai优质分组，不要用Default分组，那个基本不出图\n目前测试时长是200秒左右"
+        "apikey娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屽乏渚у伐浣滃彴姣忔棩绛惧埌棰嗙Н鍒哱n\n鎺ㄨ崘鐢╫penai浼樿川鍒嗙粍锛屼笉瑕佺敤Default鍒嗙粍锛岄偅涓熀鏈笉鍑哄浘\n鐩墠娴嬭瘯鏃堕暱鏄?00绉掑乏鍙?
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -297,7 +297,7 @@
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "",
         ""
       ]
@@ -335,7 +335,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "盘发.png",
+        "鐩樺彂.png",
         "image"
       ]
     }
@@ -385,7 +385,7 @@
   "groups": [
     {
       "id": 6,
-      "title": "B站，Youtube:T8star-Aix",
+      "title": "B绔欙紝Youtube:T8star-Aix",
       "bounding": [
         220.1370504809976,
         1664.8095258052301,
@@ -398,7 +398,7 @@
     },
     {
       "id": 7,
-      "title": "B站，Youtube：T8star-Aix",
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
       "bounding": [
         1421.0526049257958,
         2704.9079622297854,

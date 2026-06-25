@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53e92ed8-e206-4dd1-ab6f-8cd3cf40823b",
   "revision": 0,
   "last_node_id": 118,
@@ -136,12 +136,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_sora2_fal"
       },
       "widgets_values": [
-        "一个女人拿着这个包",
+        "涓€涓コ浜烘嬁鐫€杩欎釜鍖?,
         "auto",
         "",
         "",
@@ -193,7 +193,7 @@
         "Node name for S&R": "easy showAnything"
       },
       "widgets_values": [
-        "{\n  \"model\": \"sora-2\",\n  \"endpoint\": \"fal-ai/sora-2/image-to-video\",\n  \"mode\": \"image-to-video\",\n  \"duration\": 4,\n  \"aspect_ratio\": \"16:9\",\n  \"resolution\": \"720p\",\n  \"video_url\": \"https://v3b.fal.media/files/b/0a9ce4f1/o9pLsNPg6V4YEKCqpfVRD_FayAhQRU.mp4\",\n  \"video_id\": \"video_6a20f11b22548190abdfcc6bda19fb070738166a9743a5cf\",\n  \"thumbnail_url\": \"https://v3b.fal.media/files/b/0a9ce4f1/wJW6XjAnO5jn3cd6nDqso_urhmaLmt.webp\",\n  \"prompt\": \"一个女人拿着这个包\"\n}"
+        "{\n  \"model\": \"sora-2\",\n  \"endpoint\": \"fal-ai/sora-2/image-to-video\",\n  \"mode\": \"image-to-video\",\n  \"duration\": 4,\n  \"aspect_ratio\": \"16:9\",\n  \"resolution\": \"720p\",\n  \"video_url\": \"https://v3b.fal.media/files/b/0a9ce4f1/o9pLsNPg6V4YEKCqpfVRD_FayAhQRU.mp4\",\n  \"video_id\": \"video_6a20f11b22548190abdfcc6bda19fb070738166a9743a5cf\",\n  \"thumbnail_url\": \"https://v3b.fal.media/files/b/0a9ce4f1/wJW6XjAnO5jn3cd6nDqso_urhmaLmt.webp\",\n  \"prompt\": \"涓€涓コ浜烘嬁鐫€杩欎釜鍖匼"\n}"
       ]
     },
     {
@@ -221,12 +221,12 @@
         }
       ],
       "properties": {
-        "cnr_id": "zhenzhen",
+        "cnr_id": "zaiduyun",
         "ver": "unknown",
         "Node name for S&R": "Comfly_api_set"
       },
       "widgets_values": [
-        "zhenzhen",
+        "zaiduyun",
         "sk-qMIGlWSVhExF3QwYY2VrrfqkTN2hDvqgPNamzhq70geslm3M",
         "",
         false
