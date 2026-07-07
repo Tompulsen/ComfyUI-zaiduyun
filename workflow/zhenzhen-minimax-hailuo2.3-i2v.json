@@ -1,0 +1,713 @@
+﻿{
+  "id": "60240853-23b3-4a6a-8699-956870f1aaf6",
+  "revision": 0,
+  "last_node_id": 22,
+  "last_link_id": 10,
+  "nodes": [
+    {
+      "id": 13,
+      "type": "Note",
+      "pos": [
+        170.07501220703125,
+        432.376953125
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "apikey"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 14,
+      "type": "Note",
+      "pos": [
+        160.27633666992188,
+        175.67494201660156
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "鎻愮ず璇?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 15,
+      "type": "Note",
+      "pos": [
+        332.65093994140625,
+        861.3802490234375
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "棣栧抚"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 12,
+      "type": "Note",
+      "pos": [
+        1069.3031005859375,
+        91.85015869140625
+      ],
+      "size": [
+        675.9651489257812,
+        284.64923095703125
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.0.1"
+        },
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n娉ㄥ唽閫?.2缇庡厓\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/ainewsto/Comfyui_Comfly_v2"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 19,
+      "type": "Note",
+      "pos": [
+        859.571533203125,
+        425.2017822265625
+      ],
+      "size": [
+        238.13829040527344,
+        155.80166625976562
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "鍏抽棴prompt optimizer锛屾彁绀鸿瘝鍝嶅簲浼氭洿鍑嗙‘锛屽紑鍚悗浼氳嚜鍔ㄤ紭鍖栨彁绀鸿瘝"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 6,
+      "type": "easy showAnything",
+      "pos": [
+        1804.7808837890625,
+        350.43408203125
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "杈撳叆浠讳綍",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 5
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "354960720130139"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "easy showAnything",
+      "pos": [
+        1756.5560302734375,
+        542.8900146484375
+      ],
+      "size": [
+        286.2951354980469,
+        183.6732177734375
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "杈撳叆浠讳綍",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 6
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "{\"status\": \"success\", \"task_id\": \"354960720130139\", \"file_id\": \"354958404018491\", \"video_url\": \"https://PLACEHOLDER_OSS_URL", \"width\": 768, \"height\": 960}"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "Note",
+      "pos": [
+        1031.5899658203125,
+        1208.262939453125
+      ],
+      "size": [
+        844.0020751953125,
+        362.5229797363281
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "妯″瀷璇存槑锛歕n\nMiniMax-Hailuo-02\n鏂颁竴浠ｈ棰戠敓鎴愭ā鍨嬶紝鏇寸簿鍑嗘寚浠ら伒寰紝鏀寔1080P銆?68P銆?12P澶氱鍒嗚鲸鐜囪棰戯紱鍙?s銆?0s瑙嗛鏃堕暱銆俓nT2V-01-Director\n鏂囩敓瑙嗛妯″瀷锛堝婕旂増锛夛紝鏀寔鐢ㄦ埛杈撳叆鏂囨湰鎻忚堪锛岃繘琛岃棰戠敓鎴愩€傛敮鎸佹彃鍏ヨ繍闀滄寚浠わ紝鏇寸簿鍑嗘帶鍒惰棰戦暅澶磋〃鐜般€俓nI2V-01-Director\n鍥剧敓瑙嗛妯″瀷锛堝婕旂増锛夛紝鏀寔鐢ㄦ埛杈撳叆鏂囨湰鎻忚堪锛屽強鍙傝€冨浘鐗囧弬鑰冿紝杩涜瑙嗛鐢熸垚銆傛敮鎸佹彃鍏ヨ繍闀滄寚浠わ紝鏇寸簿鍑嗘帶鍒惰棰戦暅澶磋〃鐜般€俓nI2V-01-live\n鍥剧敓瑙嗛妯″瀷锛屾湰妯″瀷澧炲己浜嗗浜庡崱閫氥€佹极鐢汇€佹墜缁橀鏍肩殑琛ㄧ幇銆俓nS2V-01\n涓讳綋鍙傝€冭棰戠敓鎴愭ā鍨嬶紝鏀寔鐢ㄦ埛涓婁紶涓讳綋鍥剧墖鐢熸垚瑙嗛锛岀敓鎴愯棰戯紝楂樻晥閿佸畾骞朵繚鎸佷汉闈㈤儴鐗瑰緛锛岀‘淇濈敓鎴愯棰戜腑鐨勪富浣撳舰璞″叿鏈夐珮搴︿竴鑷存€с€?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 17,
+      "type": "Note",
+      "pos": [
+        1022.9583740234375,
+        837.7404174804688
+      ],
+      "size": [
+        813.843994140625,
+        291.84002685546875
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "鏀寔15绉嶈繍闀滄柟寮忥紙鏋氫妇鍊硷級\n锛?锛?宸﹀彸绉伙細[宸︾Щ]銆乕鍙崇Щ]\n锛?锛夊乏鍙虫憞锛歔宸︽憞]銆乕鍙虫憞]\n锛?锛夋帹鎷夛細[鎺ㄨ繘]銆乕鎷夎繙]\n锛?锛夊崌闄嶏細[涓婂崌]銆乕涓嬮檷]\n锛?锛変笂涓嬫憞锛歔涓婃憞]銆乕涓嬫憞]\n锛?锛夊彉鐒︼細[鍙樼劍鎺ㄨ繎]銆乕鍙樼劍鎷夎繙]\n锛?锛夋檭鍔細[鏅冨姩]\n锛?锛夎窡闅忥細[璺熼殢]\n锛?锛夊浐瀹氾細[鍥哄畾]\n\nlast_frame_image\n鏀寔鍙傛暟缁勫悎锛歕n- prompt + first_frame_image + last_frame_image\n- first_frame_image + last_frame_image\n- prompt + first_frame_image\n- first_frame_image\n- prompt + last_frame_image\n- last_frame_image\n\nsubject_referencearray\n鏈弬鏁颁粎褰搈odel閫夋嫨涓篠2V-01鏃跺彲鐢ㄣ€傛ā鍨嬪皢渚濇嵁姝ゅ弬鏁颁腑涓婁紶鐨勪富浣撴潵鐢熸垚瑙嗛銆傜洰鍓嶄粎鏀寔鍗曚富浣撳弬鑰冿紙鏁扮粍闀垮害涓?1锛?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 16,
+      "type": "Note",
+      "pos": [
+        261.28194184295995,
+        1181.9928609535793
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "灏惧抚"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 2,
+      "type": "LoadImage",
+      "pos": [
+        583.9153129717964,
+        710.8498620676332
+      ],
+      "size": [
+        270,
+        314.0000305175781
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "鍥惧儚",
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1
+          ]
+        },
+        {
+          "label": "閬僵",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.65",
+        "Node name for S&R": "LoadImage",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "16.jpg",
+        "image"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "Comfly_MiniMax_video",
+      "pos": [
+        1184.880126953125,
+        446.7612609863281
+      ],
+      "size": [
+        400,
+        320
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "first_frame_image",
+          "name": "first_frame_image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 1
+        },
+        {
+          "label": "last_frame_image",
+          "name": "last_frame_image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "subject_reference",
+          "name": "subject_reference",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 8
+        },
+        {
+          "label": "model",
+          "name": "model",
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "label": "duration",
+          "name": "duration",
+          "type": "COMBO",
+          "widget": {
+            "name": "duration"
+          }
+        },
+        {
+          "label": "resolution",
+          "name": "resolution",
+          "type": "COMBO",
+          "widget": {
+            "name": "resolution"
+          }
+        },
+        {
+          "label": "api_key",
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 10
+        },
+        {
+          "label": "prompt_optimizer",
+          "name": "prompt_optimizer",
+          "shape": 7,
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "prompt_optimizer"
+          }
+        },
+        {
+          "label": "fast_pretreatment",
+          "name": "fast_pretreatment",
+          "shape": 7,
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "fast_pretreatment"
+          }
+        },
+        {
+          "label": "seed",
+          "name": "seed",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "video",
+          "name": "video",
+          "type": "VIDEO",
+          "links": [
+            4
+          ]
+        },
+        {
+          "label": "task_id",
+          "name": "task_id",
+          "type": "STRING",
+          "links": [
+            5
+          ]
+        },
+        {
+          "label": "response",
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            6
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "Comfyui_Comfly",
+        "ver": "b3185506cac77694fb2130b2e6c978aaa5be111c",
+        "Node name for S&R": "Comfly_MiniMax_video",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "",
+        "MiniMax-Hailuo-2.3-Fast",
+        "6",
+        "768P",
+        "",
+        true,
+        false,
+        2090773122,
+        "randomize"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "CR Prompt Text",
+      "pos": [
+        357.4178466796875,
+        117.64027404785156
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "鎻愮ず璇嶆枃鏈?,
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            8
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "缇庝附鐨勫コ浜鸿浆韬紝闀滃ご鎷夎繙"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "SaveVideo",
+      "pos": [
+        2272.198486328125,
+        12.673771858215332
+      ],
+      "size": [
+        1560.926513671875,
+        2136.038330078125
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "video",
+          "name": "video",
+          "type": "VIDEO",
+          "link": 4
+        },
+        {
+          "label": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "label": "format",
+          "name": "format",
+          "type": "COMBO",
+          "widget": {
+            "name": "format"
+          }
+        },
+        {
+          "label": "codec",
+          "name": "codec",
+          "type": "COMBO",
+          "widget": {
+            "name": "codec"
+          }
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.65",
+        "Node name for S&R": "SaveVideo",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "video/ComfyUI",
+        "auto",
+        "auto"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "Comfly_api_set",
+      "pos": [
+        493.69354830500413,
+        408.30122596509324
+      ],
+      "size": [
+        270,
+        106
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            10
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "zaiduyun",
+        "ver": "adf9e0f39de29353810237fad96984456739fff3",
+        "Node name for S&R": "Comfly_api_set",
+        "aux_id": "T8mars/Comfyui-zaiduyun"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        ""
+      ]
+    }
+  ],
+  "links": [
+    [
+      1,
+      2,
+      0,
+      1,
+      0,
+      "IMAGE"
+    ],
+    [
+      4,
+      1,
+      0,
+      5,
+      0,
+      "VIDEO"
+    ],
+    [
+      5,
+      1,
+      1,
+      6,
+      0,
+      "*"
+    ],
+    [
+      6,
+      1,
+      2,
+      7,
+      0,
+      "*"
+    ],
+    [
+      8,
+      11,
+      0,
+      1,
+      3,
+      "STRING"
+    ],
+    [
+      10,
+      22,
+      0,
+      1,
+      7,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "B绔欍€乊outube锛歍8star-Aix",
+      "bounding": [
+        -353.9808349609375,
+        -424.7069396972656,
+        4168,
+        309
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.061076460950014,
+      "offset": [
+        -177.14461203907172,
+        28.368823685907127
+      ]
+    },
+    "frontendVersion": "1.36.13",
+    "links_added_by_ue": [],
+    "ue_links": [],
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ],
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true,
+    "workflowRendererVersion": "LG"
+  },
+  "version": 0.4
+}

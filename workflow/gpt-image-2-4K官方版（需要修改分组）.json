@@ -1,0 +1,505 @@
+﻿{
+  "id": "5ff7f513-f2c9-4710-bdde-009a96218a9c",
+  "revision": 0,
+  "last_node_id": 22,
+  "last_link_id": 29,
+  "nodes": [
+    {
+      "id": 19,
+      "type": "Note",
+      "pos": [
+        207.73602513924706,
+        195.457775401788
+      ],
+      "size": [
+        376.0766273546651,
+        239.1483911879535
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "鍏ㄩ噺gpt-image-2锛屾敮鎸佸紓姝ヤ换鍔n\n\n璐炶礊鐨凙I宸ュ潑锛堟敞鍐岄€?.2鍒€锛屽悇绉岮PI锛夛細https://zaiduyu.top/register?aff=dP7j\n\n宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鍒嗙粍閫夋嫨default鍒嗙粍锛岄殢渚垮彇涓悕瀛楋紝澶嶅埗API鍗冲彲浣跨敤锛屾敮鎸佺洿鎺ョ敤锛堣亰澶╂ā寮忥級锛屼篃鏀寔鍚勭宸ュ叿璋冪敤 锛坈omfyui,sillytavern,cusor绛夛級锛屾瘡鏃ョ鍒伴绉垎\n\nComfyui璋冪敤API鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 12,
+      "type": "SaveImage",
+      "pos": [
+        1969.4604254211404,
+        294.45247238949116
+      ],
+      "size": [
+        621.2396694214876,
+        500.5785123966941
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 27
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage",
+        "cnr_id": "comfy-core",
+        "ver": "0.19.0"
+      },
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "easy showAnything",
+      "pos": [
+        1662.6984599567836,
+        289.0864839758832
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 28
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "8ba21d0b442002e66389d6e87faf828bfe05b2ad"
+      },
+      "widgets_values": [
+        "https://files.closeai.fans/filesystem/output/20260422/ef090269-903a-4dce-8dac-866929dc5051.png"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "CR Prompt Text",
+      "pos": [
+        618.2470563349585,
+        149.68910624741747
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            23
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text"
+      },
+      "widgets_values": [
+        "Main subject in realistic cosplay style in foreground\" + \"secondary characters in 2D illustration style in background\" \n \"OVERLORD ALBEDO\"elegant serif typography, gold foil texture\" \"Cinematic studio lighting\"  \"Baroque dark fantasy\"锛屽浘鍍忔瘮渚?1:9"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "LoadImage",
+      "pos": [
+        441.62633491515305,
+        767.7665242227041
+      ],
+      "size": [
+        270,
+        314.00000000000006
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": []
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage",
+        "cnr_id": "comfy-core",
+        "ver": "0.19.0"
+      },
+      "widgets_values": [
+        "鏈爣棰?1.jpg",
+        "image"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "easy showAnything",
+      "pos": [
+        1458.2835324283087,
+        457.5236613783906
+      ],
+      "size": [
+        465.039584760661,
+        255.28954654321035
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 29
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "8ba21d0b442002e66389d6e87faf828bfe05b2ad"
+      },
+      "widgets_values": [
+        "**Comfly gpt-image-2 (official)** async: POST /v1/images/edits?async=true, GET /v1/images/tasks/{task_id}\nModel: gpt-image-2\nPrompt: Main subject in realistic cosplay style in foreground\" + \"secondary characters in 2D illustration style in background\" \n \"OVERLORD ALBEDO\"elegant serif typography, gold foil texture\" \"Cinematic studio lighting\"  \"Baroque dark fantasy\"锛屽浘鍍忔瘮渚?1:9\nQuality: auto\nSize: 3840x2160\n锛堟€诲儚绱犲ぇ浜庣害 2560脳1440锛屾枃妗ｄ腑瑙嗕负瀹為獙鎬ц緭鍑猴級\nOutput: png\nTask ID: 811ebc7563f14722bf27b423e8e710d7\nImage URL: https://files.closeai.fans/filesystem/output/20260422/ef090269-903a-4dce-8dac-866929dc5051.png\nTotal Tokens: 14329\n"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "Comfly_api_set",
+      "pos": [
+        265.79178804614116,
+        554.3621433711934
+      ],
+      "size": [
+        599.212485485964,
+        159.2750495184755
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            26
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_api_set",
+        "cnr_id": "zaiduyun",
+        "ver": "26ae9be362b994d1370907d4228f527af6c84b52"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        "",
+        false
+      ]
+    },
+    {
+      "id": 22,
+      "type": "Comfly_gpt_image_2_official",
+      "pos": [
+        894.0375880532603,
+        412.7879961106554
+      ],
+      "size": [
+        400,
+        860
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image1",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image2",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image3",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image4",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image5",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image6",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image7",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image8",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image9",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image10",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image11",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image12",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image13",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image14",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image15",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image16",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "mask",
+          "shape": 7,
+          "type": "MASK",
+          "link": null
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 25
+        },
+        {
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 26
+        }
+      ],
+      "outputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "links": [
+            27
+          ]
+        },
+        {
+          "name": "image_url",
+          "type": "STRING",
+          "links": [
+            28
+          ]
+        },
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            29
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_gpt_image_2_official"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "gpt-image-2",
+        1,
+        "auto",
+        "auto",
+        "auto",
+        "png",
+        100,
+        "auto",
+        true,
+        "",
+        300,
+        5,
+        5,
+        900,
+        0,
+        "randomize",
+        false
+      ]
+    }
+  ],
+  "links": [
+    [
+      25,
+      17,
+      0,
+      22,
+      17,
+      "STRING"
+    ],
+    [
+      26,
+      18,
+      0,
+      22,
+      18,
+      "STRING"
+    ],
+    [
+      27,
+      22,
+      0,
+      12,
+      0,
+      "IMAGE"
+    ],
+    [
+      28,
+      22,
+      1,
+      13,
+      0,
+      "STRING"
+    ],
+    [
+      29,
+      22,
+      2,
+      14,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "B绔欍€乊outube锛歍8star-Aix",
+      "bounding": [
+        -80.34036431349105,
+        -352.63922718539186,
+        4168,
+        309
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.8264462809917358,
+      "offset": [
+        -225.80778569722128,
+        90.72032463135692
+      ]
+    },
+    "frontendVersion": "1.42.10",
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

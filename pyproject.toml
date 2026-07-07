@@ -1,0 +1,38 @@
+[project]
+name = "zaiduyun"
+description = "I love GoYounJung!Most Cheap API to my fans friedns!Bilibili:https://space.bilibili.com/385085361,website:https://zaiduyu.top/register?aff=dP7j"
+version = "1.7.7"
+license = {file = "LICENSE"} 
+# classifiers = [
+#     # For OS-independent nodes (works on all operating systems)
+#     "Operating System :: OS Independent",
+#
+#     # OR for OS-specific nodes, specify the supported systems:
+#     "Operating System :: Microsoft :: Windows",  # Windows specific
+#     "Operating System :: POSIX :: Linux",  # Linux specific
+#     "Operating System :: MacOS",  # macOS specific
+#
+#     # GPU Accelerator support. Pick the ones that are supported by your extension.
+#     "Environment :: GPU :: NVIDIA CUDA",    # NVIDIA CUDA support
+#     "Environment :: GPU :: AMD ROCm",       # AMD ROCm support
+#     "Environment :: GPU :: Intel Arc",      # Intel Arc support
+#     "Environment :: NPU :: Huawei Ascend",  # Huawei Ascend support
+#     "Environment :: GPU :: Apple Metal",    # Apple Metal support
+# ]
+
+dependencies = ["numpy", "Pillow", "requests", "torch"]
+
+[project.urls]
+Repository = "https://github.com/T8mars/Comfyui-zhenzhen"
+#  Used by Comfy Registry https://registry.comfy.org
+Documentation = "https://github.com/T8mars/Comfyui-zhenzhen/wiki"
+"Bug Tracker" = "https://github.com/T8mars/Comfyui-zhenzhen/issues"
+
+[tool]
+[tool.comfy]
+PublisherId = "t8star"
+DisplayName = "Comfyui-zaiduyun"
+Icon = "https://avatars.githubusercontent.com/u/96167788"
+includes = [] 
+# "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
+

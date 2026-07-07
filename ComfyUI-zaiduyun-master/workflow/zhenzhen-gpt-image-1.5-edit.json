@@ -1,0 +1,430 @@
+﻿{
+  "id": "9ae6082b-c7f4-433c-9971-7a8f65a3ea65",
+  "revision": 0,
+  "last_node_id": 100,
+  "last_link_id": 111,
+  "nodes": [
+    {
+      "id": 96,
+      "type": "easy showAnything",
+      "pos": [
+        3130.1340620298342,
+        3588.409712665916
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 105
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "**User**: Edit image with prompt: 濂充汉鐪嬪悜宸﹁竟\n\n**AI**: Generated edited image with gpt-image-1.5\n\n---"
+      ]
+    },
+    {
+      "id": 94,
+      "type": "SaveImage",
+      "pos": [
+        3486.0447712274436,
+        3270.5003644733433
+      ],
+      "size": [
+        270,
+        270
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 103
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage"
+      },
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 95,
+      "type": "easy showAnything",
+      "pos": [
+        3144.568698747199,
+        3263.2238071516053
+      ],
+      "size": [
+        239.90744862239399,
+        209.94998667150594
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 104
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "Successfully edited 1 image(s)\nPrompt: 濂充汉鐪嬪悜宸﹁竟\nModel: gpt-image-1.5\nQuality: auto\n"
+      ]
+    },
+    {
+      "id": 92,
+      "type": "Comfly_gpt_image_1_edit",
+      "pos": [
+        2650.1420149326577,
+        3269.926034601024
+      ],
+      "size": [
+        400,
+        668
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image1",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 107
+        },
+        {
+          "name": "image2",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image3",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image4",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image5",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image6",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image7",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image8",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image9",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image10",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "mask",
+          "shape": 7,
+          "type": "MASK",
+          "link": null
+        },
+        {
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 106
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "name": "edited_image",
+          "type": "IMAGE",
+          "links": [
+            103
+          ]
+        },
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            104
+          ]
+        },
+        {
+          "name": "chats",
+          "type": "STRING",
+          "links": [
+            105
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_gpt_image_1_edit"
+      },
+      "widgets_values": [
+        "涓や釜濂充汉绔欏湪涓€璧?,
+        "",
+        "gpt-image-1.5",
+        1,
+        "auto",
+        "auto",
+        198545171505979,
+        "randomize",
+        true,
+        "auto",
+        100,
+        "png",
+        5,
+        900,
+        "low",
+        0
+      ]
+    },
+    {
+      "id": 97,
+      "type": "Note",
+      "pos": [
+        1917.2887924825993,
+        3857.69834289371
+      ],
+      "size": [
+        315.9946427017567,
+        156.95788409940133
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "apikey娉ㄥ唽锛歨ttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屽乏渚у伐浣滃彴姣忔棩绛惧埌棰嗙Н鍒哱n\n鎺ㄨ崘鐢╫penai浼樿川鍒嗙粍锛屼笉瑕佺敤Default鍒嗙粍锛岄偅涓熀鏈笉鍑哄浘\n鐩墠娴嬭瘯鏃堕暱鏄?00绉掑乏鍙?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 98,
+      "type": "Comfly_api_set",
+      "pos": [
+        2271.3673634174934,
+        3766.150932285746
+      ],
+      "size": [
+        270,
+        106
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            106
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_api_set"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "type": "LoadImage",
+      "pos": [
+        1923.383457560683,
+        3277.4124188423516
+      ],
+      "size": [
+        270,
+        314
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            107
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "鐩樺彂.png",
+        "image"
+      ]
+    }
+  ],
+  "links": [
+    [
+      103,
+      92,
+      0,
+      94,
+      0,
+      "IMAGE"
+    ],
+    [
+      104,
+      92,
+      1,
+      95,
+      0,
+      "*"
+    ],
+    [
+      105,
+      92,
+      2,
+      96,
+      0,
+      "*"
+    ],
+    [
+      106,
+      98,
+      0,
+      92,
+      11,
+      "STRING"
+    ],
+    [
+      107,
+      93,
+      0,
+      92,
+      0,
+      "IMAGE"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 6,
+      "title": "B绔欙紝Youtube:T8star-Aix",
+      "bounding": [
+        220.1370504809976,
+        1664.8095258052301,
+        2969.2521276513385,
+        338.2774185112669
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    },
+    {
+      "id": 7,
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
+      "bounding": [
+        1421.0526049257958,
+        2704.9079622297854,
+        3064.3046537412465,
+        306.4736592332083
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.9229223420846833,
+      "offset": [
+        -1180.288232288657,
+        -2681.2986422161393
+      ]
+    },
+    "frontendVersion": "1.33.13",
+    "workflowRendererVersion": "LG",
+    "VHS_latentpreview": false,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

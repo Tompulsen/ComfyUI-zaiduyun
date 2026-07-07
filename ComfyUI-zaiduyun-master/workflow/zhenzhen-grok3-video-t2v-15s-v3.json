@@ -1,0 +1,610 @@
+﻿{
+  "id": "242a6140-7341-49ca-876b-c01366b39b84",
+  "revision": 0,
+  "last_node_id": 102,
+  "last_link_id": 105,
+  "nodes": [
+    {
+      "id": 92,
+      "type": "Comfly_api_set",
+      "pos": [
+        -2213.0673828125,
+        391.2283020019531
+      ],
+      "size": [
+        270,
+        106
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "api_base",
+          "name": "api_base",
+          "type": "COMBO",
+          "widget": {
+            "name": "api_base"
+          }
+        },
+        {
+          "label": "apikey",
+          "name": "apikey",
+          "type": "STRING",
+          "widget": {
+            "name": "apikey"
+          },
+          "link": 89
+        },
+        {
+          "label": "custom_ip",
+          "name": "custom_ip",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "custom_ip"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "apikey",
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            100
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_api_set",
+        "ver": "a374cba455529175dfbe7205090b4bba15814bfe",
+        "widget_ue_connectable": {
+          "apikey": true
+        },
+        "aux_id": "T8mars/Comfyui-zaiduyun"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "type": "Note",
+      "pos": [
+        -2714.33251953125,
+        123.93728637695312
+      ],
+      "size": [
+        242.84571838378906,
+        123.50205993652344
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "api鑾峰彇鍦板潃锛歨ttps://zaiduyu.top/register?aff=dP7j\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌閫佺Н鍒哱n"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 99,
+      "type": "easy showAnything",
+      "pos": [
+        -994.0945434570312,
+        549.5957641601562
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 102
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "9947b8be70e17ceabafa4fa7f476b54626de4704",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "grok:a96b5b86-489e-46ba-a163-8a35fb5efedc"
+      ]
+    },
+    {
+      "id": 101,
+      "type": "easy showAnything",
+      "pos": [
+        -725.4476318359375,
+        555.141357421875
+      ],
+      "size": [
+        532.05615234375,
+        102.91934967041016
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 104
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "9947b8be70e17ceabafa4fa7f476b54626de4704",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/4e9629da-0388-45f0-aa4f-d988985d1066.mp4"
+      ]
+    },
+    {
+      "id": 100,
+      "type": "easy showAnything",
+      "pos": [
+        -1272.5435791015625,
+        754.1011352539062
+      ],
+      "size": [
+        385.9763488769531,
+        150.67138671875
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 103
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "9947b8be70e17ceabafa4fa7f476b54626de4704",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "{\"code\": \"success\", \"url\": \"https://soruxgpt-saas-yimeng-api.soruxgpt.com/file_download/4e9629da-0388-45f0-aa4f-d988985d1066.mp4\"}"
+      ]
+    },
+    {
+      "id": 97,
+      "type": "ComflyGrok3VideoApi",
+      "pos": [
+        -1705.0079345703125,
+        266.88189697265625
+      ],
+      "size": [
+        400,
+        316
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "image",
+          "name": "image",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 105
+        },
+        {
+          "label": "model",
+          "name": "model",
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "label": "ratio",
+          "name": "ratio",
+          "type": "COMBO",
+          "widget": {
+            "name": "ratio"
+          }
+        },
+        {
+          "label": "resolution",
+          "name": "resolution",
+          "type": "COMBO",
+          "widget": {
+            "name": "resolution"
+          }
+        },
+        {
+          "label": "api_key",
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 100
+        },
+        {
+          "label": "seed",
+          "name": "seed",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "video",
+          "name": "video",
+          "type": "VIDEO",
+          "links": [
+            98
+          ]
+        },
+        {
+          "label": "task_id",
+          "name": "task_id",
+          "type": "STRING",
+          "links": [
+            102
+          ]
+        },
+        {
+          "label": "response",
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            103
+          ]
+        },
+        {
+          "label": "video_url",
+          "name": "video_url",
+          "type": "STRING",
+          "links": [
+            104
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ComflyGrok3VideoApi",
+        "ver": "18b3754d36e5b8db060efebd1b7dd4abb9cd5f91",
+        "widget_ue_connectable": {
+          "api_key": true
+        },
+        "aux_id": "T8mars/Comfyui-zaiduyun"
+      },
+      "widgets_values": [
+        "",
+        "grok-video-3",
+        "9:16",
+        15,
+        "1080P",
+        668084114,
+        3871605,
+        "randomize"
+      ]
+    },
+    {
+      "id": 98,
+      "type": "SaveVideo",
+      "pos": [
+        -61.15110778808594,
+        22.8873291015625
+      ],
+      "size": [
+        536.4256591796875,
+        1101.6456298828125
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "video",
+          "name": "video",
+          "type": "VIDEO",
+          "link": 98
+        },
+        {
+          "label": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "label": "format",
+          "name": "format",
+          "type": "COMBO",
+          "widget": {
+            "name": "format"
+          }
+        },
+        {
+          "label": "codec",
+          "name": "codec",
+          "type": "COMBO",
+          "widget": {
+            "name": "codec"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "video_url",
+          "name": "video_url",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveVideo",
+        "cnr_id": "comfy-core",
+        "ver": "0.3.76",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "video/ComfyUI",
+        "auto",
+        "auto"
+      ]
+    },
+    {
+      "id": 102,
+      "type": "CR Prompt Text",
+      "pos": [
+        -2399.52685546875,
+        635.5220947265625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            105
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text",
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "銆愬垎闀滆缁嗘弿鍐欍€?闀滃ご1锛?-5绉掞級锛氱壒鍐?鍏夊奖杩烽浘 鐢婚潰鏋勫浘锛氶€嗗厜鏈轰綅銆傝儗鏅槸娣卞挅鑹茬殑涔︽灦锛屽厜绾夸粠鏂滃悗鏂瑰皠鍏ワ紝鐓т寒绌烘皵涓紓娴殑寰皹銆傝礊璐炰晶韬珯绔嬶紝鎵嬫寔涓€鏀櫠鑾圭殑姘存櫠棣欐按鐡躲€傚ス寰井鎵捣绾ょ粏鐨勬墜鑵曪紝鎸夊帇鍠峰ご鐨勭灛闂达紝缁嗗瘑鐨勯浘鐘堕绮掑湪鍏夋煴涓垎寮€锛屽儚鏄竴鍦哄皬鍨嬬殑閲戣壊鏄熷皹銆?闀滃ご2锛?-10绉掞級锛氳繎鏅姩浣?璺濈娑堣瀺 濂圭紦缂撳皢宸﹀彸鎵嬭厱浜ゅ彔锛岃交鏌斿湴鐢诲渾鎽╂摝銆傞殢鍗筹紝濂圭湅鍚戦暅澶达紝鐪肩閲屽甫鐫€涓€绉嶁€滆鍚涘叆鐡€濈殑绗冨畾銆傚ス娌℃湁閫€鍚庯紝鍙嶈€屼富鍔ㄥ墠鍊撅紝灏嗛偅鍙暎鍙戠潃棣欐皵鐨勬墜鑵曠紦缂撲妇璧凤紝鐩存帴璐村悜闀滃ご涓績锛堣鐩栭暅澶?0%闈㈢Н锛夈€傜敾闈㈣竟缂樺洜涓烘瀬鑷寸殑杩戣窛绂讳骇鐢熶簡涓€绉嶆湨鑳х殑鏌旂劍鎰燂紝浠夸經鎵嬭厱鐨勪綑娓╁凡闅旂潃灞忓箷鏁ｅ彂鍑烘潵銆?闀滃ご3锛?0-15绉掞級锛氫簰鍔ㄥ畾鏍?鎰熷畼鎺屾帶 鐢婚潰琚櫧鐨欑殑鎵嬭厱鍗婇伄钄姐€傚ス鍦ㄩ偅鎴殦鑵曞悗鏂瑰崐鎺╅潰锛岄湶鍑轰竴鍙屽厖婊¤鎯戝姏鐨勭嫄鐙哥溂銆傞暱鐫瘺闅忕潃鍛煎惛棰ゅ姩锛岀溂绁炰腑甯︾潃涓€绉嶆帉鎺т簡瀵规柟鎰熷畼鐨勫偛鎱笌鏌旀儏銆?銆愬惉瑙変笌鍙拌瘝銆?闊虫晥锛?棣欐按鍠峰ご鐭績鏈夊姏鐨勨€滃棨鈥斺€斺€濆０锛岀揣鎺ョ潃鏄湡涓濊。琚栨粦钀藉爢鍙犵殑缁嗚吇澹帮紝鑳屾櫙鏄瀬杞汇€佸甫鐐圭┖鐏垫劅鐨勫悎鎴愬櫒姘涘洿闊炽€?鍙拌瘝锛堟皵澹板憿鍠冿紝甯︾偣婀挎鼎鐨勫攪榻块煶锛夛細 鈥滈椈鍒颁簡鍚楋紵璁颁綇杩欎釜鍛抽亾鈥︹€︼紙娣卞惛涓€鍙ｆ皵鐨勫０闊筹級浠ュ悗锛岃繖灏辨槸浣犵殑鈥橀棬绂佸崱鈥欙紝鍙兘寮€鈥︹€︽垜鐨勯棬銆傗€?
+      ]
+    },
+    {
+      "id": 90,
+      "type": "CR Prompt Text",
+      "pos": [
+        -2413.951171875,
+        64.11612701416016
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            89
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text",
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        ""
+      ]
+    }
+  ],
+  "links": [
+    [
+      89,
+      90,
+      0,
+      92,
+      1,
+      "STRING"
+    ],
+    [
+      98,
+      97,
+      0,
+      98,
+      0,
+      "VIDEO"
+    ],
+    [
+      100,
+      92,
+      0,
+      97,
+      5,
+      "STRING"
+    ],
+    [
+      102,
+      97,
+      1,
+      99,
+      0,
+      "*"
+    ],
+    [
+      103,
+      97,
+      2,
+      100,
+      0,
+      "*"
+    ],
+    [
+      104,
+      97,
+      3,
+      101,
+      0,
+      "*"
+    ],
+    [
+      105,
+      102,
+      0,
+      97,
+      1,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "B绔欍€乊outube:T8star-Aix",
+      "bounding": [
+        -3060.765380859375,
+        -396.22821044921875,
+        2859.113037109375,
+        350.23876953125
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "VHS_KeepIntermediate": true,
+    "links_added_by_ue": [],
+    "VHS_MetadataImage": true,
+    "ue_links": [],
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ],
+    "VHS_latentpreviewrate": 0,
+    "frontendVersion": "1.23.0",
+    "VHS_latentpreview": false,
+    "ds": {
+      "scale": 0.4500000000000022,
+      "offset": [
+        2350.388465351879,
+        568.8597560328507
+      ]
+    }
+  },
+  "version": 0.4
+}

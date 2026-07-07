@@ -1,0 +1,799 @@
+﻿{
+  "id": "d596599d-c616-4b80-bc97-460fe832a3cb",
+  "revision": 0,
+  "last_node_id": 14,
+  "last_link_id": 38,
+  "nodes": [
+    {
+      "id": 9,
+      "type": "CR Prompt Text",
+      "pos": [
+        -375.2407531738281,
+        537.0703125
+      ],
+      "size": [
+        444.3182067871094,
+        268.1100769042969
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING"
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "杩欎釜鑺傜偣鏈?涓敤娉曪紝濡傛灉浠ょ墝鍒嗙粍default锛屼笉鏀寔4K锛岄€夋嫨鍒嗚鲸鐜囧苟鍦ㄦ彁绀鸿瘝閲屽姞涓婏紝鏈夎緝楂樺嚑鐜囧嚭鐜版寚瀹氬垎杈ㄧ巼锛堢浉姣斾箣鍓?涓妭鐐癸級锛屼环鏍?.04绉垎锛岀浜屼釜鍔炴硶灏辨槸鎶婁护鐗屽垎缁勬敼鎴恛penai浼樿川锛岃繖鏄畼鏂圭増锛屾寜鐓OKEN鏀惰垂锛屾垜涔嬪墠璺戠殑4K鐨勫ぇ姒?绉垎澶氾紝鍏蜂綋鐪嬭缃拰瑕佹眰锛屽苟闈炲浐瀹歕n\n\n璐炶礊鐨凙I宸ュ潑锛堝悇绉岮PI锛夛細https://zaiduyu.top/register?aff=dP7j\n宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝闅忎究鍙栦釜鍚嶅瓧锛屽鍒禔PI鍗冲彲浣跨敤锛岋紝姣忔棩绛惧埌棰嗙Н鍒哱nComfyui璋冪敤API鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun\n\n\n"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "LoadImage",
+      "pos": [
+        128.12640380859375,
+        543.7246704101562
+      ],
+      "size": [
+        274.080078125,
+        314.0000305175781
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "label": "upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            33
+          ]
+        },
+        {
+          "label": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "14ac69756fe7e72520e114f91af008ff1066c909527da450d6a94c8724045799.png",
+        "image"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "easy showAnything",
+      "pos": [
+        1528.4561767578125,
+        787.4033203125
+      ],
+      "size": [
+        308.9223327636719,
+        97.67240905761719
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 38
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "Please input API KEY"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "easy showAnything",
+      "pos": [
+        1522.786376953125,
+        608.1895751953125
+      ],
+      "size": [
+        337.23248291015625,
+        112.32391357421875
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 37
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "Please input API KEY"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "SaveImage",
+      "pos": [
+        2036.594482421875,
+        392.7401428222656
+      ],
+      "size": [
+        725.853271484375,
+        624.9677734375
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "images",
+          "name": "images",
+          "type": "IMAGE",
+          "link": 36
+        },
+        {
+          "label": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "image_urls",
+          "name": "image_urls",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SaveImage",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "CR Prompt Text",
+      "pos": [
+        451.0205993652344,
+        553.2405395507812
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            27
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "B绔欒棰戝皝闈紝椤剁骇璁捐鎰燂紝鐖嗘灏侀潰锛屾枃瀛楋細鈥?K gpt-imag-2浠庢湭濡傛浜叉皯鈥濆皬瀛楋細鈥滄湰鍦版暣鍚堝寘鏇存柊锛岃璁″笀绂忛煶鈥?
+      ]
+    },
+    {
+      "id": 4,
+      "type": "Comfly_api_set",
+      "pos": [
+        459.3480529785156,
+        883.3504638671875
+      ],
+      "size": [
+        270,
+        130
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "api_base",
+          "name": "api_base",
+          "type": "COMBO",
+          "widget": {
+            "name": "api_base"
+          }
+        },
+        {
+          "label": "apikey",
+          "name": "apikey",
+          "type": "STRING",
+          "widget": {
+            "name": "apikey"
+          }
+        },
+        {
+          "label": "custom_ip",
+          "name": "custom_ip",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "custom_ip"
+          }
+        },
+        {
+          "label": "skip_error",
+          "name": "skip_error",
+          "shape": 7,
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "skip_error"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "apikey",
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            35
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_api_set",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        "",
+        false
+      ]
+    },
+    {
+      "id": 14,
+      "type": "Comfly_gpt_image_2_official_ratio",
+      "pos": [
+        1010.3555297851562,
+        393.91009521484375
+      ],
+      "size": [
+        400,
+        888
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "image1",
+          "name": "image1",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 33
+        },
+        {
+          "label": "image2",
+          "name": "image2",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image3",
+          "name": "image3",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image4",
+          "name": "image4",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image5",
+          "name": "image5",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image6",
+          "name": "image6",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image7",
+          "name": "image7",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image8",
+          "name": "image8",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image9",
+          "name": "image9",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image10",
+          "name": "image10",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image11",
+          "name": "image11",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image12",
+          "name": "image12",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image13",
+          "name": "image13",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image14",
+          "name": "image14",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image15",
+          "name": "image15",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "image16",
+          "name": "image16",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "label": "mask",
+          "name": "mask",
+          "shape": 7,
+          "type": "MASK",
+          "link": null
+        },
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 34
+        },
+        {
+          "label": "aspect_ratio",
+          "name": "aspect_ratio",
+          "type": "COMBO",
+          "widget": {
+            "name": "aspect_ratio"
+          },
+          "link": null
+        },
+        {
+          "label": "resolution",
+          "name": "resolution",
+          "type": "COMBO",
+          "widget": {
+            "name": "resolution"
+          },
+          "link": null
+        },
+        {
+          "label": "api_key",
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 35
+        },
+        {
+          "label": "n",
+          "name": "n",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "n"
+          },
+          "link": null
+        },
+        {
+          "label": "quality",
+          "name": "quality",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "quality"
+          },
+          "link": null
+        },
+        {
+          "label": "background",
+          "name": "background",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "background"
+          },
+          "link": null
+        },
+        {
+          "label": "output_format",
+          "name": "output_format",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "output_format"
+          },
+          "link": null
+        },
+        {
+          "label": "output_compression",
+          "name": "output_compression",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "output_compression"
+          },
+          "link": null
+        },
+        {
+          "label": "moderation",
+          "name": "moderation",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "moderation"
+          },
+          "link": null
+        },
+        {
+          "label": "async_mode",
+          "name": "async_mode",
+          "shape": 7,
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "async_mode"
+          },
+          "link": null
+        },
+        {
+          "label": "webhook",
+          "name": "webhook",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "webhook"
+          },
+          "link": null
+        },
+        {
+          "label": "max_poll_attempts",
+          "name": "max_poll_attempts",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "max_poll_attempts"
+          },
+          "link": null
+        },
+        {
+          "label": "poll_interval",
+          "name": "poll_interval",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "poll_interval"
+          },
+          "link": null
+        },
+        {
+          "label": "max_retries",
+          "name": "max_retries",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "max_retries"
+          },
+          "link": null
+        },
+        {
+          "label": "initial_timeout",
+          "name": "initial_timeout",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "initial_timeout"
+          },
+          "link": null
+        },
+        {
+          "label": "seed",
+          "name": "seed",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          },
+          "link": null
+        },
+        {
+          "label": "skip_error",
+          "name": "skip_error",
+          "shape": 7,
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "skip_error"
+          },
+          "link": null
+        }
+      ],
+      "outputs": [
+        {
+          "label": "image",
+          "name": "image",
+          "type": "IMAGE",
+          "links": [
+            36
+          ]
+        },
+        {
+          "label": "image_url",
+          "name": "image_url",
+          "type": "STRING",
+          "links": null
+        },
+        {
+          "label": "response",
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            37,
+            38
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_gpt_image_2_official_ratio"
+      },
+      "widgets_values": [
+        "",
+        "16:9",
+        "4k",
+        "",
+        "gpt-image-2",
+        1,
+        "auto",
+        "auto",
+        "png",
+        100,
+        "auto",
+        "url",
+        true,
+        "",
+        300,
+        5,
+        5,
+        900,
+        0,
+        "randomize",
+        false
+      ]
+    }
+  ],
+  "links": [
+    [
+      33,
+      8,
+      0,
+      14,
+      0,
+      "IMAGE"
+    ],
+    [
+      34,
+      7,
+      0,
+      14,
+      17,
+      "STRING"
+    ],
+    [
+      35,
+      4,
+      0,
+      14,
+      20,
+      "STRING"
+    ],
+    [
+      36,
+      14,
+      0,
+      1,
+      0,
+      "IMAGE"
+    ],
+    [
+      37,
+      14,
+      2,
+      2,
+      0,
+      "STRING"
+    ],
+    [
+      38,
+      14,
+      2,
+      5,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 2,
+      "title": "B绔欙紝Youtube锛歍8star-Aix",
+      "bounding": [
+        -358.0143127441406,
+        -237.22854614257812,
+        2836.38525390625,
+        427.2743835449219
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "links_added_by_ue": [],
+    "VHS_KeepIntermediate": true,
+    "ue_links": [],
+    "VHS_MetadataImage": true,
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ],
+    "VHS_latentpreviewrate": 0,
+    "frontendVersion": "1.42.10",
+    "VHS_latentpreview": false,
+    "ds": {
+      "scale": 0.9646149645000023,
+      "offset": [
+        -662.2170583760095,
+        -177.59576725545605
+      ]
+    }
+  },
+  "version": 0.4
+}

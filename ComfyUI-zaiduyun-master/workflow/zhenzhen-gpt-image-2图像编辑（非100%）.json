@@ -1,0 +1,491 @@
+﻿{
+  "id": "29ef93d4-b560-42b6-a8cf-39338bfbb1d6",
+  "revision": 0,
+  "last_node_id": 40,
+  "last_link_id": 39,
+  "nodes": [
+    {
+      "id": 37,
+      "type": "easy showAnything",
+      "pos": [
+        3541.288944132338,
+        1226.3097008472637
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 39
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "8ba21d0b442002e66389d6e87faf828bfe05b2ad"
+      },
+      "widgets_values": [
+        "**User**: 杩欎釜瑙掕壊鐨勫叏韬綔涓烘潅蹇楄瑙夊浘锛屾父鎴忔敾鐣ユ湰鐨勪竴椤电旱鍚戦暱鍥俱€傜敤绮剧編鐨勫摜鐗瑰紡璁捐锛屾瀯鎴愬甫鏈夊咖閮佹皼鍥寸殑濂囧够鎻掔敾涓庢棩璇枃瀛椼€傝闅忔剰璁惧畾濂圭殑鍚嶅瓧鍜岃儗鏅瀹氾紝骞跺皢鍙傛暟瑙嗚鍖栥€傛瀯鎴愯绱犲寘鎷細鐐归樀鐢汇€佺被浼笺€婃渶缁堝够鎯炽€嬮鏍肩殑RPG鎴樻枟鐢婚潰鎴浘銆佸繀鏉€鎶€鐨勬妧鑳芥埅鍥俱€傜敓鎴愯鍐呭鐨勬墍鏈夊浘鍍忋€俓n\n**AI**: 姝ｅ湪鐢熸垚鍥剧墖锛岃绋嶅€?..\n\n鐢熸垚涓?.. 8%\n鐢熸垚涓?.. 16%\n鐢熸垚涓?.. 27%\n鐢熸垚涓?.. 39%\n鐢熸垚涓?.. 52%\n鐢熸垚涓?.. 66%\n鐢熸垚涓?.. 78%\n鐢熸垚涓?.. 88%\n鐢熸垚涓?.. 94%\n鐢熸垚涓?.. 97%\n鐢熸垚涓?.. 97%\n鐢熸垚涓?.. 97%\n鐢熸垚涓?.. 97%\n\n\n鍥惧儚鐢熸垚瀹屾垚\n鍥惧儚 1:\n![image](https://midjourney-plus.oss-us-west-1.aliyuncs.com/6a7f76da-e565-44ff-abd5-cf04c89ee4d5.png)\n\n\n\n---"
+      ]
+    },
+    {
+      "id": 32,
+      "type": "SaveImage",
+      "pos": [
+        3950.104775641172,
+        988.2279307632926
+      ],
+      "size": [
+        270,
+        270
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 36
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "SaveImage",
+        "cnr_id": "comfy-core",
+        "ver": "0.19.0"
+      },
+      "widgets_values": [
+        "ComfyUI"
+      ]
+    },
+    {
+      "id": 35,
+      "type": "easy showAnything",
+      "pos": [
+        3603.2492913391197,
+        1430.3797353138978
+      ],
+      "size": [
+        262.5171332722093,
+        156.6033934652603
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 37
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "8ba21d0b442002e66389d6e87faf828bfe05b2ad"
+      },
+      "widgets_values": [
+        "**Model**: gpt-image-2\n**Quality**: auto\n**Size**: auto\n**Background**: auto\n**Seed**: 360341011872989\n**Time**: 2026-04-20 11:21:28"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "easy showAnything",
+      "pos": [
+        3383.2459518384594,
+        1466.3959714177313
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 38
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "easy showAnything",
+        "cnr_id": "comfyui-easy-use",
+        "ver": "8ba21d0b442002e66389d6e87faf828bfe05b2ad"
+      },
+      "widgets_values": [
+        "https://midjourney-plus.oss-us-west-1.aliyuncs.com/6a7f76da-e565-44ff-abd5-cf04c89ee4d5.png"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "Note",
+      "pos": [
+        1816.6707135041513,
+        1176.8588421223888
+      ],
+      "size": [
+        395.43827275259264,
+        239.3251201409605
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "娉ㄦ剰锛岀敱浜庣幇鍦ㄦ病鏈夊畬鍏ㄥ叏閲忥紝鎴戜滑鏄墜鍔ㄧ瓫閫夎处鍙凤紝鏈€鍧戠殑鏄疓PT杩樹細鍥炴敹鐏板害鐨勫姛鑳斤紝鎵€浠ユ槸涓€瀹氭鐜囩敓鎴愭渶鏂癵pt-image-2鐨勬晥鏋滐紒濡傛灉涓嶈兘鎺ュ彈灏辩瓑鍏ㄩ噺鏇存柊鍚庯紝杩欎釜涓昏鏄粰娌℃湁璐﹀彿鐨勬湅鍙嬫祴璇曠殑锛岄潪鍟嗙敤\n\n璐炶礊鐨凙I宸ュ潑锛堟敞鍐岄€?.2鍒€锛屽悇绉岮PI锛夛細https://zaiduyu.top/register?aff=cbff0534884\n\n宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鍒嗙粍閫夋嫨default鍒嗙粍锛岄殢渚垮彇涓悕瀛楋紝澶嶅埗API鍗冲彲浣跨敤锛屾敮鎸佺洿鎺ョ敤锛堣亰澶╂ā寮忥級锛屼篃鏀寔鍚勭宸ュ叿璋冪敤 锛坈omfyui,sillytavern,cusor绛夛級锛屾瘡鏃ョ鍒伴绉垎\n\nComfyui璋冪敤API鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 34,
+      "type": "CR Prompt Text",
+      "pos": [
+        2358.2633133737872,
+        968.3720493293602
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            28
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text"
+      },
+      "widgets_values": [
+        "杩欎釜瑙掕壊鐨勫叏韬綔涓烘潅蹇楄瑙夊浘锛屾父鎴忔敾鐣ユ湰鐨勪竴椤电旱鍚戦暱鍥俱€傜敤绮剧編鐨勫摜鐗瑰紡璁捐锛屾瀯鎴愬甫鏈夊咖閮佹皼鍥寸殑濂囧够鎻掔敾涓庢棩璇枃瀛椼€傝闅忔剰璁惧畾濂圭殑鍚嶅瓧鍜岃儗鏅瀹氾紝骞跺皢鍙傛暟瑙嗚鍖栥€傛瀯鎴愯绱犲寘鎷細鐐归樀鐢汇€佺被浼笺€婃渶缁堝够鎯炽€嬮鏍肩殑RPG鎴樻枟鐢婚潰鎴浘銆佸繀鏉€鎶€鐨勬妧鑳芥埅鍥俱€傜敓鎴愯鍐呭鐨勬墍鏈夊浘鍍忋€?
+      ]
+    },
+    {
+      "id": 39,
+      "type": "LoadImage",
+      "pos": [
+        2423.014362751173,
+        1446.8146468009306
+      ],
+      "size": [
+        270,
+        314
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            33
+          ]
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage",
+        "cnr_id": "comfy-core",
+        "ver": "0.19.0"
+      },
+      "widgets_values": [
+        "23B1293688BA86521241DACC28D59635.jpg",
+        "image"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "Comfly_api_set",
+      "pos": [
+        2384.2898977291684,
+        1255.0658055792126
+      ],
+      "size": [
+        270,
+        130
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            35
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_api_set",
+        "cnr_id": "zaiduyun",
+        "ver": "d9ef2e97057240c641b130575f47d5fb4ef70e08"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        "",
+        false
+      ]
+    },
+    {
+      "id": 40,
+      "type": "Comfly_gpt_image_2",
+      "pos": [
+        2885.3531269129257,
+        1103.594929435475
+      ],
+      "size": [
+        400,
+        436
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image1",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": 33
+        },
+        {
+          "name": "image2",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image3",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "image4",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 34
+        },
+        {
+          "name": "api_key",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 35
+        }
+      ],
+      "outputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "links": [
+            36
+          ]
+        },
+        {
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            37
+          ]
+        },
+        {
+          "name": "image_urls",
+          "type": "STRING",
+          "links": [
+            38
+          ]
+        },
+        {
+          "name": "chats",
+          "type": "STRING",
+          "links": [
+            39
+          ]
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Comfly_gpt_image_2"
+      },
+      "widgets_values": [
+        "",
+        "",
+        "gpt-image-2",
+        "auto",
+        "auto",
+        "auto",
+        "png",
+        "auto",
+        0,
+        "randomize",
+        true,
+        600,
+        false
+      ]
+    }
+  ],
+  "links": [
+    [
+      33,
+      39,
+      0,
+      40,
+      0,
+      "IMAGE"
+    ],
+    [
+      34,
+      34,
+      0,
+      40,
+      4,
+      "STRING"
+    ],
+    [
+      35,
+      33,
+      0,
+      40,
+      5,
+      "STRING"
+    ],
+    [
+      36,
+      40,
+      0,
+      32,
+      0,
+      "IMAGE"
+    ],
+    [
+      37,
+      40,
+      1,
+      35,
+      0,
+      "STRING"
+    ],
+    [
+      38,
+      40,
+      2,
+      36,
+      0,
+      "STRING"
+    ],
+    [
+      39,
+      40,
+      3,
+      37,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "B绔欍€乊outube锛歍8star-Aix",
+      "bounding": [
+        922.0818234622727,
+        341.5090955977516,
+        4168,
+        309
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.2284597357367248,
+      "offset": [
+        -2360.279940788565,
+        -795.4023995158824
+      ]
+    },
+    "links_added_by_ue": [],
+    "ue_links": [],
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ],
+    "frontendVersion": "1.42.10",
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

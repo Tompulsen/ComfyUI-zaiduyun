@@ -1,0 +1,283 @@
+﻿{
+  "id": "9ae6082b-c7f4-433c-9971-7a8f65a3ea65",
+  "revision": 0,
+  "last_node_id": 99,
+  "last_link_id": 102,
+  "nodes": [
+    {
+      "id": 91,
+      "type": "easy showAnything",
+      "pos": [
+        2315.4996828778303,
+        2331.411941380403
+      ],
+      "size": [
+        461.18394594162237,
+        237.33202814579226
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 97
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "type": "*",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "e900c2ca9c0d90b0896881910ca7f3f02d88ebd8",
+        "Node name for S&R": "easy showAnything"
+      },
+      "widgets_values": [
+        "杩欐瑙嗛灞曠幇浜嗕竴涓厖婊℃ⅵ骞讳笌鏈潵鎰熺殑鍔ㄧ敾鍦烘櫙锛屼富瑙掓槸涓€鍙矇绾㈣壊鐨勬嫙浜哄寲鍗￠€氬厰瀛愶紙绫讳技瀹濆彲姊︿腑鐨勨€滀紛甯冣€濓級锛屽畠姝ｉ┚椹剁潃涓€杈嗘瀬鍏风鎶€鎰熺殑椋炶鎽╂墭锛屽湪绌轰腑楂橀€熺┛姊€俓n\n**鐢婚潰缁嗚妭鎻忚堪锛?*\n\n- **涓昏褰㈣薄**锛氳繖鍙矇鑹插厰瀛愭嫢鏈夊ぇ澶х殑榛戣壊鐪肩潧銆佸皷灏栫殑鑰虫湹鍜屼竴鏉￠暱闀跨殑灏惧反锛屾暣浣撻€犲瀷鍙埍鍙堢伒鍔ㄣ€傚畠韬┛涓€濂楄创韬殑绮夎壊鏈烘瑁呯敳锛屾墜鎻￠琛屾懇鎵樼殑鎶婃墜锛岃〃鎯呬笓娉ㄨ€屽叴濂嬶紝浠夸經姝ｅ湪浜彈涓€鍦哄埡婵€鐨勭┖涓珵閫熴€俓n  \n- **杞藉叿璁捐**锛氬畠鎵€楠戜箻鐨勯琛屾懇鎵樺憟娴佺嚎鍨嬶紝涓讳綋涓洪摱鑹查噾灞炶川鎰燂紝鐐圭紑鐫€绱壊鍜岃摑鑹茬殑闇撹櫣鍏夋晥锛岃溅澶存湁鍦嗗舰鍙戝厜瑁呯疆锛屽熬閮ㄥ柗灏勫嚭鏌斿拰鐨勭櫧鑹叉皵娴侊紝鏆楃ず鍏跺己澶х殑鎺ㄨ繘鍔涖€傛暣涓懇鎵樻偓娴湪涓€鍥㈣摤鏉炬煍杞殑绮夎壊浜戞湹涔嬩笂锛屼簯鏈靛儚妫夎姳绯栦竴鏍疯交鐩堥閫革紝涓庤鑹插拰杞藉叿褰㈡垚瑙嗚涓婄殑鍜岃皭缁熶竴銆俓n\n- **鑳屾櫙鐜**锛氶暅澶翠互鍔ㄦ€佽窡鎷嶇殑鏂瑰紡璺熼殢涓昏椋炶锛岃儗鏅槸妯＄硦鍖栫殑鏈潵閮藉競鏅鈥斺€旈珮鑰稿叆浜戠殑寤虹瓚缇ゅ眰灞傚彔鍙狅紝鑹插僵鏂戞枔锛屽甫鏈夊己鐑堢殑璧涘崥鏈嬪厠椋庢牸锛岄棯鐑佺潃闇撹櫣鐏甫鍜屽叏鎭姇褰辨晥鏋溿€傚ぉ绌烘箾钃濓紝闃冲厜鏄庡獨锛岃惀閫犲嚭涓€绉嶆棦绉戝够鍙堢璇濊埇鐨勬皼鍥淬€俓n\n- **杩愬姩鎰熶笌鑺傚**锛氱敱浜庨噰鐢ㄤ簡杩愬姩妯＄硦鐗规晥锛岃儗鏅揩閫熷悜鍚庢帬杩囷紝寮哄寲浜嗛€熷害鎰熷拰娌夋蹈鎰熴€傜矇鑹蹭簯鏈甸殢鐫€椋炶寰井鏅冨姩锛屽寮轰簡鐢婚潰鐨勫姩鎰熶笌鐪熷疄鎰熴€俓n\n**鏁翠綋椋庢牸**锛歕n瑙嗛铻嶅悎浜嗗彲鐖辫悓绯昏鑹层€侀珮绉戞妧鍏冪礌涓庢ⅵ骞昏壊褰╋紝鍛堢幇鍑轰竴绉嶁€滅敎閰封€濓紙Sweet-Cyber锛夌編瀛︼紝閫傚悎鐢ㄤ簬娓告垙瀹ｄ紶鐗囥€佸姩鐢诲紑鍦烘垨铏氭嫙鍋跺儚琛ㄦ紨绛夊満鏅€傛暣涓敾闈㈡磱婧㈢潃娲诲姏銆佽嚜鐢变笌鎯宠薄鍔涳紝浠や汉鎰熷彈鍒颁竴绉嶉€冪鐜板疄銆侀仺娓告湭鏉ョ殑鐣呭揩浣撻獙銆俓n\n---\n\n鉁?鎬荤粨锛氳繖鏄竴涓厖婊＄瓒ｄ笌鏈潵骞绘兂鐨勫姩鐢荤墖娈碉紝涓昏绮夎壊鍏斿瓙椹鹃┒椋炶鎽╂墭绌胯秺闇撹櫣閮藉競锛岃瑙夊啿鍑诲姏寮猴紝椋庢牸椴滄槑锛屾瀬鍏峰惛寮曞姏銆?
+      ]
+    },
+    {
+      "id": 88,
+      "type": "LoadVideo",
+      "pos": [
+        1362.4543299741297,
+        2298.656611711123
+      ],
+      "size": [
+        270,
+        254
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "VIDEO",
+          "type": "VIDEO",
+          "links": [
+            96
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.4.0",
+        "Node name for S&R": "LoadVideo"
+      },
+      "widgets_values": [
+        "1-1.mp4",
+        "image"
+      ]
+    },
+    {
+      "id": 87,
+      "type": "Comfly_LLm_API",
+      "pos": [
+        1740.0840997213784,
+        2301.2531292372455
+      ],
+      "size": [
+        400,
+        336
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "ref_image",
+          "shape": 7,
+          "type": "IMAGE",
+          "link": null
+        },
+        {
+          "name": "video",
+          "shape": 7,
+          "type": "VIDEO",
+          "link": 96
+        },
+        {
+          "name": "api_key",
+          "type": "STRING",
+          "widget": {
+            "name": "api_key"
+          },
+          "link": 102
+        }
+      ],
+      "outputs": [
+        {
+          "name": "describe",
+          "type": "STRING",
+          "links": [
+            97
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "zaiduyun",
+        "ver": "561dc74e9efc674f92605ce9c60810faaff8d3be",
+        "Node name for S&R": "Comfly_LLm_API"
+      },
+      "widgets_values": [
+        "https://zaiduyu.top/v1",
+        "sk-scmCw4c2sC3s313144444444444444444",
+        "qwen3-vl-plus",
+        "浣犳槸涓棰戝垎鏋愬姪鎵?,
+        "璇︾粏鎻忚堪杩欎釜瑙嗛鍐呭",
+        0.6,
+        1400,
+        "randomize"
+      ]
+    },
+    {
+      "id": 99,
+      "type": "CR Prompt Text",
+      "pos": [
+        1314.7068171227572,
+        2666.545853087976
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            102
+          ]
+        },
+        {
+          "name": "show_help",
+          "type": "STRING",
+          "links": null
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text"
+      },
+      "widgets_values": [
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "type": "Note",
+      "pos": [
+        959.5762106438285,
+        2283.894753043838
+      ],
+      "size": [
+        329.0504583359782,
+        132.65996263446823
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "璐炶礊鐨凙I宸ュ潑\nhttps://zaiduyu.top/register?aff=cbff0534884\n娉ㄥ唽閫?.2绉垎锛屾瘡澶╁伐浣滃彴绛惧埌棰嗙Н鍒?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 98,
+      "type": "Note",
+      "pos": [
+        962.4300506363845,
+        2636.350657697276
+      ],
+      "size": [
+        329.0504583359782,
+        132.65996263446823
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "apikey\n妯″瀷涓嶈闅忎究鎹紝涓嶆槸姣忎釜妯″瀷閮芥敮鎸佽棰戝垎鏋?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    }
+  ],
+  "links": [
+    [
+      96,
+      88,
+      0,
+      87,
+      1,
+      "VIDEO"
+    ],
+    [
+      97,
+      87,
+      0,
+      91,
+      0,
+      "*"
+    ],
+    [
+      102,
+      99,
+      0,
+      87,
+      2,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 6,
+      "title": "B绔欙紝Youtube:T8star-Aix",
+      "bounding": [
+        220.1370504809976,
+        1664.8095258052301,
+        2969.2521276513385,
+        338.2774185112669
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.0152145762931448,
+      "offset": [
+        -687.1384726764848,
+        -1892.2653930962338
+      ]
+    },
+    "frontendVersion": "1.33.13",
+    "workflowRendererVersion": "LG",
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

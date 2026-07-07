@@ -1,0 +1,1169 @@
+﻿{
+  "id": "29ef93d4-b560-42b6-a8cf-39338bfbb1d6",
+  "revision": 0,
+  "last_node_id": 26,
+  "last_link_id": 25,
+  "nodes": [
+    {
+      "id": 11,
+      "type": "Note",
+      "pos": [
+        1119.95947265625,
+        1086.40185546875
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "绠€鍗曟弿鍐欒鐢熸垚鐨勬瓕鏇?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 12,
+      "type": "Note",
+      "pos": [
+        1140.6619873046875,
+        851.7324829101562
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "姝屾洸鍚嶅瓧"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 2,
+      "type": "easy showAnything",
+      "pos": [
+        2534.186767578125,
+        1505.882080078125
+      ],
+      "size": [
+        301.2272033691406,
+        214.44508361816406
+      ],
+      "flags": {},
+      "order": 21,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 12
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "鍛戒腑娉ㄥ畾"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "easy showAnything",
+      "pos": [
+        2517.69677734375,
+        1284.283447265625
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 20,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 11
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "Note",
+      "pos": [
+        1085.0833740234375,
+        1652.5174560546875
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "姝屾洸椋庢牸绛?
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 1,
+      "type": "CR Prompt Text",
+      "pos": [
+        1405.1864013671875,
+        762.002197265625
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            15
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "鍛戒腑娉ㄥ畾"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "SaveAudio",
+      "pos": [
+        2614.165283203125,
+        1075.97802734375
+      ],
+      "size": [
+        270,
+        112
+      ],
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "audio",
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 10
+        },
+        {
+          "label": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "label": "audioUI",
+          "name": "audioUI",
+          "type": "AUDIO_UI",
+          "widget": {
+            "name": "audioUI"
+          }
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.65",
+        "Node name for S&R": "SaveAudio",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "audio/ComfyUI"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "CR Prompt Text",
+      "pos": [
+        1380.12109375,
+        1035.5611572265625
+      ],
+      "size": [
+        459.11663818359375,
+        227.41641235351562
+      ],
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            16
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "[Verse]\n鐏厜澶寒 鐪嬩笉娓呬綘鐨勮劯\n蹇冭烦澶參 鍍忔椂闂村湪娴佹穼\n浣犵殑褰卞瓙 鍦ㄦ埧闂磋钀芥檭\n鎯充几鎵嬫姄浣?鍗寸涓嶅埌杩囧線\n\n[Chorus]\n浣犺蛋浜?鐣欎笅绌鸿崱鐨勬埧闂碶n涓€鍙ヨ瘽 鍙嶅鍥炶崱鍦ㄨ€宠竟\n鐖辨槸鍚?鍙槸涓€涓皫瑷€\n鍐嶈涓€閬?鍐嶈涓€閬峔n\n[Verse 2]\n鍐烽鍚硅繃 绐楀笜杞昏交鎽嗗姩\n鑰宠竟鍥炲搷 鏄綘鐔熸倝鐨勬ⅵ\n鎴戣瘯鐫€杩?鍗翠竴姝ユ钀界┖\n鑴氭澶噸 鍥炲繂鍗村お杞绘澗\n\n[Bridge]\n濡傛灉鏃堕棿鑳藉€掓祦\n鎴戜細涓嶆斁寮€浣犵殑鎵媆n濡傛灉鏄熸槦鑳借瘔璇碶n瀹冧細璇存垜浠庢湭鏀炬墜\n\n[Chorus]\n浣犺蛋浜?鐣欎笅绌鸿崱鐨勬埧闂碶n涓€鍙ヨ瘽 鍙嶅鍥炶崱鍦ㄨ€宠竟\n鐖辨槸鍚?鍙槸涓€涓皫瑷€\n鍐嶈涓€閬?鍐嶈涓€閬峔n\n[Outro]\n鐏厜鏆椾簡 鐪嬫竻浣犵殑浠庡墠\n蹇冭烦鍋滀簡 鍦ㄦⅵ閲屽啀閬囪\n鍐嶈涓€閬?鍐嶈涓€閬峔n鍐嶈涓€閬?璁╂垜鍚"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "SaveAudio",
+      "pos": [
+        2624.592041015625,
+        856.3980712890625
+      ],
+      "size": [
+        270,
+        112
+      ],
+      "flags": {},
+      "order": 10,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "audio",
+          "name": "audio",
+          "type": "AUDIO",
+          "link": 9
+        },
+        {
+          "label": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        },
+        {
+          "label": "audioUI",
+          "name": "audioUI",
+          "type": "AUDIO_UI",
+          "widget": {
+            "name": "audioUI"
+          }
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "cnr_id": "comfy-core",
+        "ver": "0.3.65",
+        "Node name for S&R": "SaveAudio",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "audio/ComfyUI"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "easy showAnything",
+      "pos": [
+        2990.516086300811,
+        1132.7150932347172
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 13,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 19
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "easy showAnything",
+      "pos": [
+        2945.606771759313,
+        932.6744108786824
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 12,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 18
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "easy showAnything",
+      "pos": [
+        2963.974853840594,
+        1346.273446645131
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 14,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 20
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "easy showAnything",
+      "pos": [
+        2955.5028853883514,
+        1529.6918994946313
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 15,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 21
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "easy showAnything",
+      "pos": [
+        3416.685770536344,
+        894.8362676087347
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 22
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "easy showAnything",
+      "pos": [
+        3413.118141882355,
+        1096.034963785095
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 23
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "easy showAnything",
+      "pos": [
+        3419.831667613153,
+        1321.2230201926263
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 18,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 24
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "easy showAnything",
+      "pos": [
+        3423.9749047477544,
+        1512.1405619841994
+      ],
+      "size": [
+        380.9090881347656,
+        112.3636703491211
+      ],
+      "flags": {},
+      "order": 19,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "anything",
+          "name": "anything",
+          "shape": 7,
+          "type": "*",
+          "link": 25
+        }
+      ],
+      "outputs": [
+        {
+          "label": "output",
+          "name": "output",
+          "type": "*"
+        }
+      ],
+      "properties": {
+        "cnr_id": "comfyui-easy-use",
+        "ver": "a1b402b4a9c0ddd35c0ac1197579f8f7b121ff3e",
+        "Node name for S&R": "easy showAnything",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "Comfly_suno_custom",
+      "pos": [
+        1978.8815882233143,
+        829.1146822403111
+      ],
+      "size": [
+        400,
+        452
+      ],
+      "flags": {},
+      "order": 9,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "title",
+          "name": "title",
+          "type": "STRING",
+          "widget": {
+            "name": "title"
+          },
+          "link": 15
+        },
+        {
+          "label": "version",
+          "name": "version",
+          "type": "COMBO",
+          "widget": {
+            "name": "version"
+          }
+        },
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          },
+          "link": 16
+        },
+        {
+          "label": "tags",
+          "name": "tags",
+          "type": "STRING",
+          "widget": {
+            "name": "tags"
+          },
+          "link": 14
+        },
+        {
+          "label": "seed",
+          "name": "seed",
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "label": "apikey",
+          "name": "apikey",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "apikey"
+          },
+          "link": 17
+        }
+      ],
+      "outputs": [
+        {
+          "label": "audio1",
+          "name": "audio1",
+          "type": "AUDIO",
+          "links": [
+            9
+          ]
+        },
+        {
+          "label": "audio2",
+          "name": "audio2",
+          "type": "AUDIO",
+          "links": [
+            10
+          ]
+        },
+        {
+          "label": "audio_url1",
+          "name": "audio_url1",
+          "type": "STRING",
+          "links": [
+            18
+          ]
+        },
+        {
+          "label": "audio_url2",
+          "name": "audio_url2",
+          "type": "STRING",
+          "links": [
+            19
+          ]
+        },
+        {
+          "label": "task_id",
+          "name": "task_id",
+          "type": "STRING",
+          "links": [
+            20
+          ]
+        },
+        {
+          "label": "response",
+          "name": "response",
+          "type": "STRING",
+          "links": [
+            21
+          ]
+        },
+        {
+          "label": "clip_id1",
+          "name": "clip_id1",
+          "type": "STRING",
+          "links": [
+            22
+          ]
+        },
+        {
+          "label": "clip_id2",
+          "name": "clip_id2",
+          "type": "STRING",
+          "links": [
+            23
+          ]
+        },
+        {
+          "label": "image_large_url1",
+          "name": "image_large_url1",
+          "type": "STRING",
+          "links": [
+            24
+          ]
+        },
+        {
+          "label": "image_large_url2",
+          "name": "image_large_url2",
+          "type": "STRING",
+          "links": [
+            25
+          ]
+        },
+        {
+          "label": "tags",
+          "name": "tags",
+          "type": "STRING",
+          "links": [
+            11
+          ]
+        },
+        {
+          "label": "title",
+          "name": "title",
+          "type": "STRING",
+          "links": [
+            12
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "Comfyui_Comfly",
+        "ver": "b3185506cac77694fb2130b2e6c978aaa5be111c",
+        "Node name for S&R": "Comfly_suno_custom",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "",
+        "v5.5",
+        "",
+        "",
+        2089250483,
+        "randomize",
+        ""
+      ]
+    },
+    {
+      "id": 15,
+      "type": "CR Prompt Text",
+      "pos": [
+        1408.3598768169813,
+        1546.4718788745326
+      ],
+      "size": [
+        400,
+        200
+      ],
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "label": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "links": [
+            14
+          ]
+        },
+        {
+          "label": "show_help",
+          "name": "show_help",
+          "type": "STRING"
+        }
+      ],
+      "properties": {
+        "cnr_id": "ComfyUI_Comfyroll_CustomNodes",
+        "ver": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+        "Node name for S&R": "CR Prompt Text",
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "r&b,rap,female vocal,"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "Comfly_api_set",
+      "pos": [
+        1504.168088379365,
+        1357.5521427465965
+      ],
+      "size": [
+        270,
+        106
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "apikey",
+          "type": "STRING",
+          "links": [
+            17
+          ]
+        }
+      ],
+      "properties": {
+        "cnr_id": "zaiduyun",
+        "ver": "adf9e0f39de29353810237fad96984456739fff3",
+        "Node name for S&R": "Comfly_api_set",
+        "aux_id": "T8mars/Comfyui-zaiduyun"
+      },
+      "widgets_values": [
+        "zaiduyun",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 10,
+      "type": "Note",
+      "pos": [
+        1224.3615834525829,
+        1354.5983850333205
+      ],
+      "size": [
+        210,
+        88
+      ],
+      "flags": {},
+      "order": 7,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "APIKEY"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 13,
+      "type": "Note",
+      "pos": [
+        415.65780443836474,
+        1294.7323075382135
+      ],
+      "size": [
+        675.9651489257812,
+        284.64923095703125
+      ],
+      "flags": {},
+      "order": 8,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "version": "7.0.1"
+        },
+        "widget_ue_connectable": {}
+      },
+      "widgets_values": [
+        "\nAPI鐢宠鍦板潃锛歨ttps://zaiduyu.top/\n\n娉ㄥ唽鍚庯紝鐐瑰嚮宸︿晶浠ょ墝锛屽垱寤轰护鐗岋紝鐢―efault鍒嗙粍锛屼笉瑕佺敤璺熼殢鐢ㄦ埛鍒嗙粍锛侊紒\n鐒跺悗澶嶅埗API鍒癆PIKEY鍗冲彲\n\n濡傞渶鏈湴浣跨敤锛岃瀹夎鑺傜偣锛歨ttps://github.com/T8mars/Comfyui-zaiduyun\n\n娉ㄦ剰鏈夋椂鍊欒幏鍙栭煶棰戞湁闂锛屾瘮濡傚嚭鐜?S鎴栬€呬簩棣栨瓕鍚屾牱鐨勬儏鍐碉紝杩欐椂鍊欏幓缃戠珯宸︿晶-寮傛浠诲姟锛屾壘鍒颁换鍔D锛岀偣鍑绘墦寮€鍙互鐪嬪埌閲岄潰鐨勫唴瀹癸紝鎼滅储mp3锛屽氨鍙互鐪嬪埌2棣栨瓕涓嬭浇鍦板潃"
+      ],
+      "color": "#432",
+      "bgcolor": "#653"
+    }
+  ],
+  "links": [
+    [
+      9,
+      14,
+      0,
+      8,
+      0,
+      "AUDIO"
+    ],
+    [
+      10,
+      14,
+      1,
+      7,
+      0,
+      "AUDIO"
+    ],
+    [
+      11,
+      14,
+      10,
+      4,
+      0,
+      "*"
+    ],
+    [
+      12,
+      14,
+      11,
+      2,
+      0,
+      "*"
+    ],
+    [
+      14,
+      15,
+      0,
+      14,
+      3,
+      "STRING"
+    ],
+    [
+      15,
+      1,
+      0,
+      14,
+      0,
+      "STRING"
+    ],
+    [
+      16,
+      5,
+      0,
+      14,
+      2,
+      "STRING"
+    ],
+    [
+      17,
+      17,
+      0,
+      14,
+      5,
+      "STRING"
+    ],
+    [
+      18,
+      14,
+      2,
+      19,
+      0,
+      "STRING"
+    ],
+    [
+      19,
+      14,
+      3,
+      20,
+      0,
+      "STRING"
+    ],
+    [
+      20,
+      14,
+      4,
+      21,
+      0,
+      "STRING"
+    ],
+    [
+      21,
+      14,
+      5,
+      22,
+      0,
+      "STRING"
+    ],
+    [
+      22,
+      14,
+      6,
+      23,
+      0,
+      "STRING"
+    ],
+    [
+      23,
+      14,
+      7,
+      24,
+      0,
+      "STRING"
+    ],
+    [
+      24,
+      14,
+      8,
+      25,
+      0,
+      "STRING"
+    ],
+    [
+      25,
+      14,
+      9,
+      26,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "title": "B绔欍€乊outube锛歍8star-Aix",
+      "bounding": [
+        934,
+        270,
+        4168,
+        309
+      ],
+      "color": "#3f789e",
+      "font_size": 240,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 1.1671841070450093,
+      "offset": [
+        -264.01199878034885,
+        -762.1840759530546
+      ]
+    },
+    "links_added_by_ue": [],
+    "ue_links": [],
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ],
+    "frontendVersion": "1.42.10",
+    "VHS_latentpreview": true,
+    "VHS_latentpreviewrate": 0,
+    "VHS_MetadataImage": true,
+    "VHS_KeepIntermediate": true
+  },
+  "version": 0.4
+}

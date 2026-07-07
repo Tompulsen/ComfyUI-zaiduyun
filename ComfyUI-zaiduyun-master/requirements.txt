@@ -1,0 +1,8 @@
+# Comfyui-ZhiXiapi dependencies
+# Note: numpy, Pillow, and torch are already provided by ComfyUI.
+# Only install if running outside ComfyUI or if missing.
+
+numpy>=1.20
+Pillow>=9.0
+requests>=2.28
+torch>=2.0
