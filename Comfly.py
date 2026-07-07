@@ -673,8 +673,8 @@ class Comfly_gpt_image_2:
             fields["size"] = size
         if quality and quality != "auto":
             fields["quality"] = quality
-        if response_format:
-            fields["response_format"] = response_format
+        # if response_format:
+        #     fields["response_format"] = response_format
         fields["output_format"] = output_format
         if output_format == "png":
             fields["output_compression"] = 100
@@ -706,8 +706,11 @@ class Comfly_gpt_image_2:
         ]
         if mask_bytes is not None:
             files.append(("mask", ("mask.png", BytesIO(mask_bytes), "image/png")))
+        skip_fields = {"init_images", "referenced_image_ids"}
         data = {}
         for key, value in fields.items():
+            if key in skip_fields:
+                continue
             if value is None:
                 continue
             if isinstance(value, list):
